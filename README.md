@@ -1,6 +1,6 @@
-# 👋 Hey, I'm 夜喵cats
+# 👋 Hey, I'm 夜喵cats  
 
-> _“写代码就像写日记，都是在和未来的自己对话。”_
+> _“写代码就像写日记，都是在和未来的自己对话。”_  
 
 ---
 
@@ -10,6 +10,7 @@
 - 🛠 已经玩的比较熟：Python · JS/TS · Java · QQNT 插件 · Web 全栈  
 - ⚡ 有点偏执，喜欢把东西折腾到“刚刚好”为止  
 - 🎯 目标：做一些「能被别人真正用起来」的开源项目  
+- 🐾 XP: Furry ✨（欢迎同好来找我玩~）  
 
 ---
 
@@ -35,10 +36,24 @@
 
 ---
 
+## 📊 GitHub Status
+
+
+🐍 我的贡献贪吃蛇：  
+![snake gif](https://github.com/YanYiHeng/YanYiHeng/blob/output/github-contribution-grid-snake.svg)  
+
+---
+
 ## 📫 Reach Me
 - 📮 Email: [yyh1677696627@gmail.com](mailto:yyh1677696627@gmail.com)  
-- 🏡 Blog: [http://47.105.33.203/](http://47.105.33.203/)
+- 🏡 Blog: [http://47.105.33.203/](http://47.105.33.203/)  
 - ☕ 来找我聊天/交流想法，随时欢迎！  
+
+---
+
+## 🎉 Fun Stuff
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=YanYiHeng)  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
 
 ---
 
