@@ -40,7 +40,7 @@
 
 
 🐍 我的贡献贪吃蛇：  
-![snake gif](https://github.com/YanYiHeng/yemiao/blob/output/github-contribution-grid-snake.svg)  
+![snake gif](https://github.com/HF-CYGG/yemiao/blob/main/snake.yml)  
 
 ---
 
