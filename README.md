@@ -45,10 +45,10 @@
 
 ---
 
-## 📊 GitHub 数据概览
+## 📊 统计数据
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HF-CYGG&show_icons=true&theme=transparent&hide_border=true&title_color=888&text_color=555" alt="HF-CYGG's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HF-CYGG&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
