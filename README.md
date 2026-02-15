@@ -47,8 +47,13 @@
 
 ## 📊 GitHub 数据概览
 
-![HF-CYGG's GitHub stats](https://github-readme-stats.vercel.app/api?username=HF-CYGG&show_icons=true&theme=transparent&hide_border=true&title_color=888&text_color=555)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HF-CYGG&layout=compact&theme=transparent&hide_border=true&title_color=888&text_color=555)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HF-CYGG&show_icons=true&theme=transparent&hide_border=true&title_color=888&text_color=555" alt="HF-CYGG's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HF-CYGG&layout=compact&theme=transparent&hide_border=true&title_color=888&text_color=555" alt="Top Langs" />
+</p>
 
 ---
 
