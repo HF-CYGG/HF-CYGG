@@ -222,7 +222,33 @@ AI 写的代码我能不能看懂？
 最近在这些地方出没。
 
 <!-- RECENT_ACTIVITY:START -->
-正在等待 GitHub Actions 自动更新……
+> Last updated: `2026-05-11 22:00 UTC`
+
+最近扫描到 **6** 个活跃公开仓库，读取到 **35** 条近期提交。
+
+### Recent commits
+
+| Date | Repo | Commit |
+| --- | --- | --- |
+| 2026-05-11 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [548a663](https://github.com/HF-CYGG/HF-CYGG/commit/548a663478be8c3eface298caf8854a1298cd73e) Add GitHub Actions workflow to update README |
+| 2026-05-11 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [55b3cef](https://github.com/HF-CYGG/HF-CYGG/commit/55b3cef6ad3ee32bc0d3bbe03ff717757a3c4b21) Add script to update README with recent GitHub activity |
+| 2026-05-11 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [0e472ef](https://github.com/HF-CYGG/HF-CYGG/commit/0e472ef7170589d7a003cb86cf103c297c1debd6) Revise README with new content and structure |
+| 2026-05-11 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [9855861](https://github.com/HF-CYGG/Y-Link/commit/985586150a2f16b06fc426c19ef96645a16113db) Merge pull request #7 from HF-CYGG/CYGG/Perf-Opt |
+| 2026-05-10 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [e07f6d2](https://github.com/HF-CYGG/Y-Link/commit/e07f6d2fcef29c73a97c60aeb0ef8cd73aca5992) Merge pull request #6 from HF-CYGG:CYGG/lssue-Reporting |
+| 2026-05-09 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [9c9b651](https://github.com/HF-CYGG/Y-Link/commit/9c9b6512e18414df3ae6cbe14aa1271455135d76) Merge pull request #5 from HF-CYGG/CYGG/lssue-Reporting |
+| 2026-05-07 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [ecda080](https://github.com/HF-CYGG/Y-Link/commit/ecda0808e47c8207e373a33e2d20c1f4eed51ed5) Merge pull request #4 from HF-CYGG/o2o-fix |
+| 2026-05-07 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [dec3d32](https://github.com/HF-CYGG/Y-Link/commit/dec3d3283ed23875d335a158c92d96944400b3b7) Merge pull request #3 from HF-CYGG/o2o-fix |
+
+### Active repos
+
+| Repo | Recent commits | Last pushed |
+| --- | ---: | --- |
+| [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | 10 | 2026-05-11 |
+| [Y-Link](https://github.com/HF-CYGG/Y-Link) | 8 | 2026-05-11 |
+| [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | 2026-04-24 |
+| [InfraCount](https://github.com/HF-CYGG/InfraCount) | 1 | 2026-03-03 |
+| [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | 1 | 2026-01-28 |
+| [HF-CYGG-equiptrack-server](https://github.com/HF-CYGG/HF-CYGG-equiptrack-server) | 3 | 2026-01-18 |
 <!-- RECENT_ACTIVITY:END -->
 
 ---
