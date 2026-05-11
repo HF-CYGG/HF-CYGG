@@ -220,39 +220,25 @@ AI 写的代码我能不能看懂？
 
 ## 📊 GitHub Activity
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&center=true&vCenter=true&width=680&lines=recent+commits+%2F+small+steps+%2F+late+night+bugs;building+things+slowly+and+carefully;code+notes+from+a+blue+cat"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=HF-CYGG&theme=github-compact&hide_border=true&radius=12&area=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
 最近在这些地方出没。
 
 <!-- RECENT_ACTIVITY:START -->
-> Last updated: `2026-05-11 22:02 UTC`
-
-最近扫描到 **6** 个活跃公开仓库，读取到 **35** 条近期提交。
-
-### Recent commits
-
-| Date | Repo | Commit |
-| --- | --- | --- |
-| 2026-05-11 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [d409623](https://github.com/HF-CYGG/HF-CYGG/commit/d409623a224e0aaa028c568a4a37d47daef8c94f) Update README with current projects and goals |
-| 2026-05-11 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [f198016](https://github.com/HF-CYGG/HF-CYGG/commit/f198016f62fd9f6a474dd831246e29e799bda0f8) docs: update recent GitHub activity |
-| 2026-05-11 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [548a663](https://github.com/HF-CYGG/HF-CYGG/commit/548a663478be8c3eface298caf8854a1298cd73e) Add GitHub Actions workflow to update README |
-| 2026-05-11 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [55b3cef](https://github.com/HF-CYGG/HF-CYGG/commit/55b3cef6ad3ee32bc0d3bbe03ff717757a3c4b21) Add script to update README with recent GitHub activity |
-| 2026-05-11 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [0e472ef](https://github.com/HF-CYGG/HF-CYGG/commit/0e472ef7170589d7a003cb86cf103c297c1debd6) Revise README with new content and structure |
-| 2026-05-11 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [9855861](https://github.com/HF-CYGG/Y-Link/commit/985586150a2f16b06fc426c19ef96645a16113db) Merge pull request #7 from HF-CYGG/CYGG/Perf-Opt |
-| 2026-05-10 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [e07f6d2](https://github.com/HF-CYGG/Y-Link/commit/e07f6d2fcef29c73a97c60aeb0ef8cd73aca5992) Merge pull request #6 from HF-CYGG:CYGG/lssue-Reporting |
-| 2026-05-09 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [9c9b651](https://github.com/HF-CYGG/Y-Link/commit/9c9b6512e18414df3ae6cbe14aa1271455135d76) Merge pull request #5 from HF-CYGG/CYGG/lssue-Reporting |
-
-### Active repos
-
-| Repo | Recent commits | Last pushed |
-| --- | ---: | --- |
-| [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | 10 | 2026-05-11 |
-| [Y-Link](https://github.com/HF-CYGG/Y-Link) | 8 | 2026-05-11 |
-| [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | 2026-04-24 |
-| [InfraCount](https://github.com/HF-CYGG/InfraCount) | 1 | 2026-03-03 |
-| [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | 1 | 2026-01-28 |
-| [HF-CYGG-equiptrack-server](https://github.com/HF-CYGG/HF-CYGG-equiptrack-server) | 3 | 2026-01-18 |
+正在等待 GitHub Actions 自动更新……
 <!-- RECENT_ACTIVITY:END -->
-
----
 
 ## 📫 Contact
 
