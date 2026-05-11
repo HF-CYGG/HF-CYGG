@@ -223,7 +223,7 @@ AI 写的代码我能不能看懂？
 最近在这些地方出没。
 
 <!-- RECENT_ACTIVITY:START -->
-> Last updated: `2026-05-11 22:00 UTC`
+> Last updated: `2026-05-11 22:02 UTC`
 
 最近扫描到 **6** 个活跃公开仓库，读取到 **35** 条近期提交。
 
@@ -231,14 +231,14 @@ AI 写的代码我能不能看懂？
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-05-11 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [d409623](https://github.com/HF-CYGG/HF-CYGG/commit/d409623a224e0aaa028c568a4a37d47daef8c94f) Update README with current projects and goals |
+| 2026-05-11 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [f198016](https://github.com/HF-CYGG/HF-CYGG/commit/f198016f62fd9f6a474dd831246e29e799bda0f8) docs: update recent GitHub activity |
 | 2026-05-11 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [548a663](https://github.com/HF-CYGG/HF-CYGG/commit/548a663478be8c3eface298caf8854a1298cd73e) Add GitHub Actions workflow to update README |
 | 2026-05-11 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [55b3cef](https://github.com/HF-CYGG/HF-CYGG/commit/55b3cef6ad3ee32bc0d3bbe03ff717757a3c4b21) Add script to update README with recent GitHub activity |
 | 2026-05-11 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [0e472ef](https://github.com/HF-CYGG/HF-CYGG/commit/0e472ef7170589d7a003cb86cf103c297c1debd6) Revise README with new content and structure |
 | 2026-05-11 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [9855861](https://github.com/HF-CYGG/Y-Link/commit/985586150a2f16b06fc426c19ef96645a16113db) Merge pull request #7 from HF-CYGG/CYGG/Perf-Opt |
 | 2026-05-10 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [e07f6d2](https://github.com/HF-CYGG/Y-Link/commit/e07f6d2fcef29c73a97c60aeb0ef8cd73aca5992) Merge pull request #6 from HF-CYGG:CYGG/lssue-Reporting |
 | 2026-05-09 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [9c9b651](https://github.com/HF-CYGG/Y-Link/commit/9c9b6512e18414df3ae6cbe14aa1271455135d76) Merge pull request #5 from HF-CYGG/CYGG/lssue-Reporting |
-| 2026-05-07 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [ecda080](https://github.com/HF-CYGG/Y-Link/commit/ecda0808e47c8207e373a33e2d20c1f4eed51ed5) Merge pull request #4 from HF-CYGG/o2o-fix |
-| 2026-05-07 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [dec3d32](https://github.com/HF-CYGG/Y-Link/commit/dec3d3283ed23875d335a158c92d96944400b3b7) Merge pull request #3 from HF-CYGG/o2o-fix |
 
 ### Active repos
 
