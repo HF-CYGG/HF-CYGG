@@ -35,6 +35,7 @@ China · he/him
 
 ```text
 正在做的事：
+- 构建 Y-link 出库管理系统
 - 维护 Dawn Course / 破晓课程表
 - 探索 SwiftUI 和 iOS 端开发
 - 学习如何更好地用 AI 写代码，并自己做审核
