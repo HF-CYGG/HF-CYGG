@@ -240,10 +240,10 @@ AI 写的代码我能不能看懂？
 <p align="center">
   <img src="https://img.shields.io/badge/active_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Active Repos" />
   <img src="https://img.shields.io/badge/recent_commits-36-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
-  <img src="https://img.shields.io/badge/last_update-2026-05-18%2022%3A04%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
+  <img src="https://img.shields.io/badge/last_update-2026-05-19%2000%3A09%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
 </p>
 
-> Last updated: `2026-05-18 22:04 UTC`
+> Last updated: `2026-05-19 00:09 UTC`
 
 最近扫描到 **6** 个活跃公开仓库，读取到 **36** 条近期提交。
 
@@ -251,6 +251,7 @@ AI 写的代码我能不能看懂？
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-05-18 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [69911de](https://github.com/HF-CYGG/HF-CYGG/commit/69911dec61dde894c291878fd8464a166e1d4632) docs: update recent GitHub activity |
 | 2026-05-18 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [5429d43](https://github.com/HF-CYGG/HF-CYGG/commit/5429d43519696cde21587c7d4dc87d09505916fc) docs: update recent GitHub activity |
 | 2026-05-18 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [5cebebf](https://github.com/HF-CYGG/HF-CYGG/commit/5cebebf0664eb7f69259229cf3aeae4602f55b9e) docs: update recent GitHub activity |
 | 2026-05-18 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [110f36a](https://github.com/HF-CYGG/HF-CYGG/commit/110f36aa15ba5cce89dc92b2ebaf879d9d6d96e9) docs: update recent GitHub activity |
@@ -258,7 +259,6 @@ AI 写的代码我能不能看懂？
 | 2026-05-18 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [6b9c590](https://github.com/HF-CYGG/HF-CYGG/commit/6b9c5906ee37a2c74be809f671a281f74a03ee6a) docs: update recent GitHub activity |
 | 2026-05-18 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [13a2a9a](https://github.com/HF-CYGG/HF-CYGG/commit/13a2a9a8ad75f531782c1bc72479782040601f7f) docs: update recent GitHub activity |
 | 2026-05-18 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [3d66e7a](https://github.com/HF-CYGG/HF-CYGG/commit/3d66e7ad636a70fce5c9b14496f42b2369c18fd8) docs: update recent GitHub activity |
-| 2026-05-17 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [f650747](https://github.com/HF-CYGG/HF-CYGG/commit/f650747d122d785f67b6e5bfec217da2fddac03f) docs: update recent GitHub activity |
 
 ### Active repos
 
