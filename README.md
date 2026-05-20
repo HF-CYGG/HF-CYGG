@@ -240,10 +240,10 @@ AI 写的代码我能不能看懂？
 <p align="center">
   <img src="https://img.shields.io/badge/active_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Active Repos" />
   <img src="https://img.shields.io/badge/recent_commits-39-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
-  <img src="https://img.shields.io/badge/last_update-2026-05-20%2010%3A53%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
+  <img src="https://img.shields.io/badge/last_update-2026-05-20%2013%3A41%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
 </p>
 
-> Last updated: `2026-05-20 10:53 UTC`
+> Last updated: `2026-05-20 13:41 UTC`
 
 最近扫描到 **6** 个活跃公开仓库，读取到 **39** 条近期提交。
 
@@ -251,6 +251,7 @@ AI 写的代码我能不能看懂？
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-05-20 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [2ee9e92](https://github.com/HF-CYGG/HF-CYGG/commit/2ee9e92a01f07c6ef5a808ac08309e019cb2b5ae) docs: update recent GitHub activity |
 | 2026-05-20 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [8e122ec](https://github.com/HF-CYGG/HF-CYGG/commit/8e122ec1b4144aac04f10e7b3f36fa4809075a49) docs: update recent GitHub activity |
 | 2026-05-20 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [4a2e046](https://github.com/HF-CYGG/HF-CYGG/commit/4a2e046efd31ac33ed356c5ff4f1307adda896ea) docs: update recent GitHub activity |
 | 2026-05-19 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [93cee52](https://github.com/HF-CYGG/HF-CYGG/commit/93cee52a2a9979ec90fce0e6f5d22c7ff3ca8075) docs: update recent GitHub activity |
@@ -258,7 +259,6 @@ AI 写的代码我能不能看懂？
 | 2026-05-19 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [23c616e](https://github.com/HF-CYGG/HF-CYGG/commit/23c616e7a04a1a49275fa9a60931e522a3065957) docs: update recent GitHub activity |
 | 2026-05-19 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [37a7977](https://github.com/HF-CYGG/HF-CYGG/commit/37a7977e32f3d785edac94685a174cf71770e88b) docs: update recent GitHub activity |
 | 2026-05-19 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [ae7dc45](https://github.com/HF-CYGG/HF-CYGG/commit/ae7dc45b0e71d433db44578873dcc84c22f91b15) docs: update recent GitHub activity |
-| 2026-05-19 | [DawnCourse-server](https://github.com/HF-CYGG/DawnCourse-server) | [0116870](https://github.com/HF-CYGG/DawnCourse-server/commit/0116870f1a1eed082e5bf4e5b0cf70e7e1a70bd5) ci: build and push docker image to multiple registries |
 
 ### Active repos
 
