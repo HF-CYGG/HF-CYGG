@@ -240,10 +240,10 @@ AI 写的代码我能不能看懂？
 <p align="center">
   <img src="https://img.shields.io/badge/active_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Active Repos" />
   <img src="https://img.shields.io/badge/recent_commits-39-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
-  <img src="https://img.shields.io/badge/last_update-2026-05-23%2015%3A03%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
+  <img src="https://img.shields.io/badge/last_update-2026-05-23%2017%3A02%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
 </p>
 
-> Last updated: `2026-05-23 15:03 UTC`
+> Last updated: `2026-05-23 17:02 UTC`
 
 最近扫描到 **6** 个活跃公开仓库，读取到 **39** 条近期提交。
 
@@ -251,6 +251,7 @@ AI 写的代码我能不能看懂？
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-05-23 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [93c0b18](https://github.com/HF-CYGG/HF-CYGG/commit/93c0b185cc33d8022219837ba40d3c9a2787945a) docs: update recent GitHub activity |
 | 2026-05-23 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [8421c5a](https://github.com/HF-CYGG/HF-CYGG/commit/8421c5a07fd34345d299b1839f091a3d820f173a) docs: update recent GitHub activity |
 | 2026-05-23 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [8290420](https://github.com/HF-CYGG/HF-CYGG/commit/82904202e94eb54177edb60b7c09c2adc7d9de4b) docs: update recent GitHub activity |
 | 2026-05-23 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [6ad3360](https://github.com/HF-CYGG/HF-CYGG/commit/6ad336061286d6c46584c20fba75e3873d668016) docs: update recent GitHub activity |
@@ -258,7 +259,6 @@ AI 写的代码我能不能看懂？
 | 2026-05-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [4524358](https://github.com/HF-CYGG/Dawn-Course/commit/45243584e16c498498875de285a7a9b11c310b20) Merge pull request #66 from HF-CYGG/dependabot/gradle/com.google.guava-guava-33.6.0-android |
 | 2026-05-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [e9c8c9c](https://github.com/HF-CYGG/Dawn-Course/commit/e9c8c9c5f7c8198a3473a8f6f1ea78258dd4f977) Merge pull request #72 from HF-CYGG/dependabot/gradle/org.jsoup-jsoup-1.22.2 |
 | 2026-05-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [e3ecf7d](https://github.com/HF-CYGG/Dawn-Course/commit/e3ecf7d6495335078b52ee508e121d7f66a66cd4) Merge pull request #75 from HF-CYGG/dependabot/gradle/commons-io-commons-io-2.22.0 |
-| 2026-05-23 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [430a9c6](https://github.com/HF-CYGG/HF-CYGG/commit/430a9c62e90bae3e95d0ecfdb134d6b718e829f3) docs: update recent GitHub activity |
 
 ### Active repos
 
