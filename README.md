@@ -240,10 +240,10 @@ AI 写的代码我能不能看懂？
 <p align="center">
   <img src="https://img.shields.io/badge/active_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Active Repos" />
   <img src="https://img.shields.io/badge/recent_commits-49-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
-  <img src="https://img.shields.io/badge/last_update-2026-06-21%2017%3A41%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
+  <img src="https://img.shields.io/badge/last_update-2026-06-21%2019%3A45%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
 </p>
 
-> Last updated: `2026-06-21 17:41 UTC`
+> Last updated: `2026-06-21 19:45 UTC`
 
 最近扫描到 **6** 个活跃公开仓库，读取到 **49** 条近期提交。
 
@@ -251,6 +251,7 @@ AI 写的代码我能不能看懂？
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-06-21 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [f4332d9](https://github.com/HF-CYGG/HF-CYGG/commit/f4332d946d8aa58099139db97bfc14d8457594d9) docs: update recent GitHub activity |
 | 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [f71a1bf](https://github.com/HF-CYGG/LumaSR/commit/f71a1bfbad48ba25c4615317f3224f245c69a734) Merge pull request #2 from HF-CYGG/optimize-extreme-export-pipeline |
 | 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [3b7763c](https://github.com/HF-CYGG/LumaSR/commit/3b7763c684d046df6c5f3ab97aea0202576582c5) Persist extreme GPU fallback decisions from processor |
 | 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [05ec042](https://github.com/HF-CYGG/LumaSR/commit/05ec042d29ada7e15cc3149712f8645e434a6f3c) Persist failed extreme GPU model keys |
@@ -258,14 +259,13 @@ AI 写的代码我能不能看懂？
 | 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [7d598ed](https://github.com/HF-CYGG/LumaSR/commit/7d598edf56671c2bdebe7555dc2d37ba83a0dca9) Merge pull request #1 from HF-CYGG/optimize-extreme-export |
 | 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [eceece9](https://github.com/HF-CYGG/LumaSR/commit/eceece9eb7cbfbafecc9b111fac6bf12673e3e04) Use streaming raw tile merger from JNI bridge |
 | 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [a2d03ba](https://github.com/HF-CYGG/LumaSR/commit/a2d03babab46f39a3cefca3221b19227a09ba9a5) Expose streaming PNG merger for extreme export |
-| 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [4661861](https://github.com/HF-CYGG/LumaSR/commit/4661861f448a94e9309e9839dcfabdc0f274cbcd) Wire optimized extreme PNG merger into native build |
 
 ### Active repos
 
 | Repo | Recent commits | Activity | Last pushed |
 | --- | ---: | --- | --- |
-| [LumaSR](https://github.com/HF-CYGG/LumaSR) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-06-21 |
 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-06-21 |
+| [LumaSR](https://github.com/HF-CYGG/LumaSR) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-06-21 |
 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-06-19 |
 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-06-11 |
 | [DawnCourse-server](https://github.com/HF-CYGG/DawnCourse-server) | 3 | `▰▰▰▱▱▱▱▱▱▱` | 2026-06-10 |
