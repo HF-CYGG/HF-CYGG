@@ -239,32 +239,32 @@ AI 写的代码我能不能看懂？
 <!-- RECENT_ACTIVITY:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/active_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Active Repos" />
-  <img src="https://img.shields.io/badge/recent_commits-40-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
-  <img src="https://img.shields.io/badge/last_update-2026-06-21%2015%3A54%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
+  <img src="https://img.shields.io/badge/recent_commits-49-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
+  <img src="https://img.shields.io/badge/last_update-2026-06-21%2017%3A41%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
 </p>
 
-> Last updated: `2026-06-21 15:54 UTC`
+> Last updated: `2026-06-21 17:41 UTC`
 
-最近扫描到 **6** 个活跃公开仓库，读取到 **40** 条近期提交。
+最近扫描到 **6** 个活跃公开仓库，读取到 **49** 条近期提交。
 
 ### Recent commits
 
 | Date | Repo | Commit |
 | --- | --- | --- |
-| 2026-06-21 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [a097e89](https://github.com/HF-CYGG/HF-CYGG/commit/a097e89f98996b992d56ac96e8a1755354419246) docs: update recent GitHub activity |
-| 2026-06-21 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [1fc63d7](https://github.com/HF-CYGG/HF-CYGG/commit/1fc63d769519715dc5af0f422044d8e188db56b8) docs: update recent GitHub activity |
-| 2026-06-21 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [4d0baf9](https://github.com/HF-CYGG/HF-CYGG/commit/4d0baf9c022ab0d58aaf37daa410326f82ad80ce) docs: update recent GitHub activity |
-| 2026-06-21 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [8d71437](https://github.com/HF-CYGG/HF-CYGG/commit/8d714377545538bf61d576743448c9ef837c3aaf) docs: update recent GitHub activity |
-| 2026-06-20 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [e3e19f8](https://github.com/HF-CYGG/HF-CYGG/commit/e3e19f8d7533d052a71c5eff729eade2724ed80f) docs: update recent GitHub activity |
-| 2026-06-20 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [b155f90](https://github.com/HF-CYGG/HF-CYGG/commit/b155f9030dd219639d7f35b104eb1bbd5be6fe39) docs: update recent GitHub activity |
-| 2026-06-20 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [8d878ff](https://github.com/HF-CYGG/HF-CYGG/commit/8d878ffcb4024ed4f612056a2b28d83526f7c20b) docs: update recent GitHub activity |
-| 2026-06-20 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [5314917](https://github.com/HF-CYGG/HF-CYGG/commit/5314917657b7c2b1e492ef8699fa7fd677480942) docs: update recent GitHub activity |
+| 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [f71a1bf](https://github.com/HF-CYGG/LumaSR/commit/f71a1bfbad48ba25c4615317f3224f245c69a734) Merge pull request #2 from HF-CYGG/optimize-extreme-export-pipeline |
+| 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [3b7763c](https://github.com/HF-CYGG/LumaSR/commit/3b7763c684d046df6c5f3ab97aea0202576582c5) Persist extreme GPU fallback decisions from processor |
+| 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [05ec042](https://github.com/HF-CYGG/LumaSR/commit/05ec042d29ada7e15cc3149712f8645e434a6f3c) Persist failed extreme GPU model keys |
+| 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [4ef7023](https://github.com/HF-CYGG/LumaSR/commit/4ef70230f9bffee4d29e94bfee18030a21d5ce62) Pipeline extreme export region preparation |
+| 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [7d598ed](https://github.com/HF-CYGG/LumaSR/commit/7d598edf56671c2bdebe7555dc2d37ba83a0dca9) Merge pull request #1 from HF-CYGG/optimize-extreme-export |
+| 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [eceece9](https://github.com/HF-CYGG/LumaSR/commit/eceece9eb7cbfbafecc9b111fac6bf12673e3e04) Use streaming raw tile merger from JNI bridge |
+| 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [a2d03ba](https://github.com/HF-CYGG/LumaSR/commit/a2d03babab46f39a3cefca3221b19227a09ba9a5) Expose streaming PNG merger for extreme export |
+| 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [4661861](https://github.com/HF-CYGG/LumaSR/commit/4661861f448a94e9309e9839dcfabdc0f274cbcd) Wire optimized extreme PNG merger into native build |
 
 ### Active repos
 
 | Repo | Recent commits | Activity | Last pushed |
 | --- | ---: | --- | --- |
-| [LumaSR](https://github.com/HF-CYGG/LumaSR) | 1 | `▰▱▱▱▱▱▱▱▱▱` | 2026-06-21 |
+| [LumaSR](https://github.com/HF-CYGG/LumaSR) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-06-21 |
 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-06-21 |
 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-06-19 |
 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-06-11 |
