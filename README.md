@@ -240,10 +240,10 @@ AI 写的代码我能不能看懂？
 <p align="center">
   <img src="https://img.shields.io/badge/active_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Active Repos" />
   <img src="https://img.shields.io/badge/recent_commits-49-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
-  <img src="https://img.shields.io/badge/last_update-2026-06-21%2023%3A16%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
+  <img src="https://img.shields.io/badge/last_update-2026-06-22%2004%3A41%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
 </p>
 
-> Last updated: `2026-06-21 23:16 UTC`
+> Last updated: `2026-06-22 04:41 UTC`
 
 最近扫描到 **6** 个活跃公开仓库，读取到 **49** 条近期提交。
 
@@ -251,6 +251,7 @@ AI 写的代码我能不能看懂？
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-06-21 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [0b358ed](https://github.com/HF-CYGG/HF-CYGG/commit/0b358ed73161043ec919c21b76054bd002e22c9a) docs: update recent GitHub activity |
 | 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [ce9628f](https://github.com/HF-CYGG/LumaSR/commit/ce9628fee3045b4be536327c5075ed8991abf98b) Merge pull request #3 from HF-CYGG/codex/native-region-optimization |
 | 2026-06-21 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [f2e9cee](https://github.com/HF-CYGG/HF-CYGG/commit/f2e9ceee67882ce9d145ff723bac98bf486c19a6) docs: update recent GitHub activity |
 | 2026-06-21 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [fcee2fb](https://github.com/HF-CYGG/HF-CYGG/commit/fcee2fb7555e19be6b63ce0c4593869d220df4b0) docs: update recent GitHub activity |
@@ -258,14 +259,13 @@ AI 写的代码我能不能看懂？
 | 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [f71a1bf](https://github.com/HF-CYGG/LumaSR/commit/f71a1bfbad48ba25c4615317f3224f245c69a734) Merge pull request #2 from HF-CYGG/optimize-extreme-export-pipeline |
 | 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [3b7763c](https://github.com/HF-CYGG/LumaSR/commit/3b7763c684d046df6c5f3ab97aea0202576582c5) Persist extreme GPU fallback decisions from processor |
 | 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [05ec042](https://github.com/HF-CYGG/LumaSR/commit/05ec042d29ada7e15cc3149712f8645e434a6f3c) Persist failed extreme GPU model keys |
-| 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [4ef7023](https://github.com/HF-CYGG/LumaSR/commit/4ef70230f9bffee4d29e94bfee18030a21d5ce62) Pipeline extreme export region preparation |
 
 ### Active repos
 
 | Repo | Recent commits | Activity | Last pushed |
 | --- | ---: | --- | --- |
-| [LumaSR](https://github.com/HF-CYGG/LumaSR) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-06-21 |
 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-06-21 |
+| [LumaSR](https://github.com/HF-CYGG/LumaSR) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-06-21 |
 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-06-19 |
 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-06-11 |
 | [DawnCourse-server](https://github.com/HF-CYGG/DawnCourse-server) | 3 | `▰▰▰▱▱▱▱▱▱▱` | 2026-06-10 |
