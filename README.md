@@ -240,10 +240,10 @@ AI 写的代码我能不能看懂？
 <p align="center">
   <img src="https://img.shields.io/badge/active_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Active Repos" />
   <img src="https://img.shields.io/badge/recent_commits-49-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
-  <img src="https://img.shields.io/badge/last_update-2026-06-23%2005%3A03%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
+  <img src="https://img.shields.io/badge/last_update-2026-06-23%2009%3A44%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
 </p>
 
-> Last updated: `2026-06-23 05:03 UTC`
+> Last updated: `2026-06-23 09:44 UTC`
 
 最近扫描到 **6** 个活跃公开仓库，读取到 **49** 条近期提交。
 
@@ -251,6 +251,7 @@ AI 写的代码我能不能看懂？
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-06-23 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [a370ab8](https://github.com/HF-CYGG/HF-CYGG/commit/a370ab8f481480a726fcff09321d521f952e4db7) docs: update recent GitHub activity |
 | 2026-06-23 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [ac6c334](https://github.com/HF-CYGG/HF-CYGG/commit/ac6c33449047abe8ac80273c324c7ea1027a62d6) docs: update recent GitHub activity |
 | 2026-06-22 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [3255199](https://github.com/HF-CYGG/HF-CYGG/commit/32551995eeca7d7f009930c09e1e4f1237ba0192) docs: update recent GitHub activity |
 | 2026-06-22 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [bd81281](https://github.com/HF-CYGG/HF-CYGG/commit/bd812819b801a2fe383205f3d80c6f84cba9607a) docs: update recent GitHub activity |
@@ -258,7 +259,6 @@ AI 写的代码我能不能看懂？
 | 2026-06-22 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [2295910](https://github.com/HF-CYGG/HF-CYGG/commit/2295910a14ec1a3ee138f0cd8dddfbf27d5151db) docs: update recent GitHub activity |
 | 2026-06-22 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [fe5aa8a](https://github.com/HF-CYGG/HF-CYGG/commit/fe5aa8a1cc5fe5196d71888fbf9c90db9e5e333b) docs: update recent GitHub activity |
 | 2026-06-21 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [0b358ed](https://github.com/HF-CYGG/HF-CYGG/commit/0b358ed73161043ec919c21b76054bd002e22c9a) docs: update recent GitHub activity |
-| 2026-06-21 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [ce9628f](https://github.com/HF-CYGG/LumaSR/commit/ce9628fee3045b4be536327c5075ed8991abf98b) Merge pull request #3 from HF-CYGG/codex/native-region-optimization |
 
 ### Active repos
 
