@@ -240,10 +240,10 @@ AI 写的代码我能不能看懂？
 <p align="center">
   <img src="https://img.shields.io/badge/active_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Active Repos" />
   <img src="https://img.shields.io/badge/recent_commits-49-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
-  <img src="https://img.shields.io/badge/last_update-2026-07-01%2015%3A43%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
+  <img src="https://img.shields.io/badge/last_update-2026-07-01%2017%3A58%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
 </p>
 
-> Last updated: `2026-07-01 15:43 UTC`
+> Last updated: `2026-07-01 17:58 UTC`
 
 最近扫描到 **6** 个活跃公开仓库，读取到 **49** 条近期提交。
 
@@ -251,6 +251,7 @@ AI 写的代码我能不能看懂？
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-07-01 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [342a931](https://github.com/HF-CYGG/HF-CYGG/commit/342a931b333c8cb19476f5f328479f7fd2c69878) docs: update recent GitHub activity |
 | 2026-07-01 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [84076c4](https://github.com/HF-CYGG/Dawn-Course/commit/84076c45895034ce9889a7d45a2d96891689d7d5) Merge pull request #76 from HF-CYGG/dependabot/gradle/com.google.protobuf-protobuf-java-4.35.0 |
 | 2026-07-01 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [b2d6218](https://github.com/HF-CYGG/Dawn-Course/commit/b2d6218034e1368c884b13a33eb1e8b45bcf9884) Merge pull request #77 from HF-CYGG/dependabot/gradle/io.netty-netty-codec-http-4.2.14.Final |
 | 2026-07-01 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [8574190](https://github.com/HF-CYGG/Dawn-Course/commit/8574190ad99fc8232e26b53daa0e05beb76deca6) Merge pull request #78 from HF-CYGG/dependabot/gradle/io.netty-netty-transport-native-unix-common-4.2.14.Final |
@@ -258,14 +259,13 @@ AI 写的代码我能不能看懂？
 | 2026-07-01 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [70ffe43](https://github.com/HF-CYGG/Dawn-Course/commit/70ffe43cc417bbef07340db1f61318e499de340b) Merge pull request #81 from HF-CYGG/dependabot/gradle/io.netty-netty-transport-native-epoll-4.2.14.Final |
 | 2026-07-01 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [6299ca9](https://github.com/HF-CYGG/HF-CYGG/commit/6299ca9275a055ac6428838faef8dbdd6b05152d) docs: update recent GitHub activity |
 | 2026-07-01 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [001df7c](https://github.com/HF-CYGG/HF-CYGG/commit/001df7c813fcf3e1a703d9e1bf62c614fc7d9c66) docs: update recent GitHub activity |
-| 2026-07-01 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [328937b](https://github.com/HF-CYGG/HF-CYGG/commit/328937b682535b4550c0ec38b768dfde2618e1af) docs: update recent GitHub activity |
 
 ### Active repos
 
 | Repo | Recent commits | Activity | Last pushed |
 | --- | ---: | --- | --- |
-| [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-01 |
 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-01 |
+| [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-01 |
 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-06-30 |
 | [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | 2 | `▰▰▱▱▱▱▱▱▱▱` | 2026-06-30 |
 | [MealOps](https://github.com/HF-CYGG/MealOps) | 1 | `▰▱▱▱▱▱▱▱▱▱` | 2026-06-27 |
