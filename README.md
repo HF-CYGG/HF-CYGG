@@ -240,10 +240,10 @@ AI 写的代码我能不能看懂？
 <p align="center">
   <img src="https://img.shields.io/badge/active_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Active Repos" />
   <img src="https://img.shields.io/badge/recent_commits-49-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
-  <img src="https://img.shields.io/badge/last_update-2026-07-02%2008%3A18%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
+  <img src="https://img.shields.io/badge/last_update-2026-07-02%2011%3A35%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
 </p>
 
-> Last updated: `2026-07-02 08:18 UTC`
+> Last updated: `2026-07-02 11:35 UTC`
 
 最近扫描到 **6** 个活跃公开仓库，读取到 **49** 条近期提交。
 
@@ -251,6 +251,7 @@ AI 写的代码我能不能看懂？
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-07-02 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [ed255d9](https://github.com/HF-CYGG/HF-CYGG/commit/ed255d96be2849bca894706af3c103f15ef2c8c1) docs: update recent GitHub activity |
 | 2026-07-02 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [b8ce42b](https://github.com/HF-CYGG/HF-CYGG/commit/b8ce42beed0e5f452037a632efc1bb761a2f6cd1) docs: update recent GitHub activity |
 | 2026-07-02 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [58ac79d](https://github.com/HF-CYGG/HF-CYGG/commit/58ac79d416e1dfc41db4dbe17a695681f9c2d067) docs: update recent GitHub activity |
 | 2026-07-01 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [9e2d05d](https://github.com/HF-CYGG/HF-CYGG/commit/9e2d05d61a6d0e9638d820edb44a48320beab0ac) docs: update recent GitHub activity |
@@ -258,14 +259,13 @@ AI 写的代码我能不能看懂？
 | 2026-07-01 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [39d09e1](https://github.com/HF-CYGG/Y-Link/commit/39d09e1dfd41726667a98b48b64ade4a113f82a1) Merge pull request #18 from HF-CYGG/codex/sku-current-stock-fix |
 | 2026-07-01 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [81c5cfa](https://github.com/HF-CYGG/Y-Link/commit/81c5cfa524004df7e84470eb7bf2b7ad0b9053a4) Merge branch 'main' into codex/sku-current-stock-fix |
 | 2026-07-01 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [3be13e5](https://github.com/HF-CYGG/Y-Link/commit/3be13e534e1e3f835b752bdeb676eb0fa6996d75) Merge pull request #12 from HF-CYGG/codex/fix-acr-registry-variable-vulnerability |
-| 2026-07-01 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [10f9cd2](https://github.com/HF-CYGG/Y-Link/commit/10f9cd2ed819f7163cda50aca26184fa69218965) Merge branch 'main' into codex/fix-acr-registry-variable-vulnerability |
 
 ### Active repos
 
 | Repo | Recent commits | Activity | Last pushed |
 | --- | ---: | --- | --- |
+| [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-02 |
 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-02 |
-| [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-01 |
 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-01 |
 | [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | 2 | `▰▰▱▱▱▱▱▱▱▱` | 2026-06-30 |
 | [MealOps](https://github.com/HF-CYGG/MealOps) | 1 | `▰▱▱▱▱▱▱▱▱▱` | 2026-06-27 |
