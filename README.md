@@ -240,10 +240,10 @@ AI 写的代码我能不能看懂？
 <p align="center">
   <img src="https://img.shields.io/badge/active_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Active Repos" />
   <img src="https://img.shields.io/badge/recent_commits-49-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
-  <img src="https://img.shields.io/badge/last_update-2026-07-02%2014%3A06%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
+  <img src="https://img.shields.io/badge/last_update-2026-07-02%2016%3A51%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
 </p>
 
-> Last updated: `2026-07-02 14:06 UTC`
+> Last updated: `2026-07-02 16:51 UTC`
 
 最近扫描到 **6** 个活跃公开仓库，读取到 **49** 条近期提交。
 
@@ -251,14 +251,14 @@ AI 写的代码我能不能看懂？
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-07-02 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [e3cd85e](https://github.com/HF-CYGG/Y-Link/commit/e3cd85eed05aea3976e7a924a41c1e0fb9bdeda9) feat(auth): 升级认证页几何动效与玻璃视觉 |
+| 2026-07-02 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [378dde6](https://github.com/HF-CYGG/HF-CYGG/commit/378dde6719a749c0ad213fb6343b9878d72fdce8) docs: update recent GitHub activity |
 | 2026-07-02 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [a6df136](https://github.com/HF-CYGG/Y-Link/commit/a6df136b1038dbb81f94611040adc68c60db762d) Merge pull request #19 from HF-CYGG/codex/department-account-governance |
 | 2026-07-02 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [df16bc1](https://github.com/HF-CYGG/HF-CYGG/commit/df16bc1f03e4fd6518846acbdf3e7c040890c835) docs: update recent GitHub activity |
 | 2026-07-02 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [ed255d9](https://github.com/HF-CYGG/HF-CYGG/commit/ed255d96be2849bca894706af3c103f15ef2c8c1) docs: update recent GitHub activity |
 | 2026-07-02 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [b8ce42b](https://github.com/HF-CYGG/HF-CYGG/commit/b8ce42beed0e5f452037a632efc1bb761a2f6cd1) docs: update recent GitHub activity |
 | 2026-07-02 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [58ac79d](https://github.com/HF-CYGG/HF-CYGG/commit/58ac79d416e1dfc41db4dbe17a695681f9c2d067) docs: update recent GitHub activity |
 | 2026-07-01 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [9e2d05d](https://github.com/HF-CYGG/HF-CYGG/commit/9e2d05d61a6d0e9638d820edb44a48320beab0ac) docs: update recent GitHub activity |
-| 2026-07-01 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [792b888](https://github.com/HF-CYGG/HF-CYGG/commit/792b888d6f4c3ad10d649ba18f7f87d53f7a12c2) docs: update recent GitHub activity |
-| 2026-07-01 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [39d09e1](https://github.com/HF-CYGG/Y-Link/commit/39d09e1dfd41726667a98b48b64ade4a113f82a1) Merge pull request #18 from HF-CYGG/codex/sku-current-stock-fix |
 
 ### Active repos
 
