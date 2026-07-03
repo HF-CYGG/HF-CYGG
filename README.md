@@ -240,10 +240,10 @@ AI 写的代码我能不能看懂？
 <p align="center">
   <img src="https://img.shields.io/badge/active_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Active Repos" />
   <img src="https://img.shields.io/badge/recent_commits-49-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
-  <img src="https://img.shields.io/badge/last_update-2026-07-03%2011%3A33%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
+  <img src="https://img.shields.io/badge/last_update-2026-07-03%2014%3A10%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
 </p>
 
-> Last updated: `2026-07-03 11:33 UTC`
+> Last updated: `2026-07-03 14:10 UTC`
 
 最近扫描到 **6** 个活跃公开仓库，读取到 **49** 条近期提交。
 
@@ -251,6 +251,7 @@ AI 写的代码我能不能看懂？
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-07-03 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [d914ae7](https://github.com/HF-CYGG/HF-CYGG/commit/d914ae74cec6e7fdbb4444ea751958427aebd629) docs: update recent GitHub activity |
 | 2026-07-03 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [fe3a528](https://github.com/HF-CYGG/HF-CYGG/commit/fe3a5284923ed5db932b47d113e1131d860cbbe4) docs: update recent GitHub activity |
 | 2026-07-03 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [3406483](https://github.com/HF-CYGG/HF-CYGG/commit/34064833dcbe267b2f0b467f0f97e664f889cf3a) docs: update recent GitHub activity |
 | 2026-07-03 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [79a0d53](https://github.com/HF-CYGG/Y-Link/commit/79a0d53d09635e96198349db7da708816850c5f9) Merge pull request #22 from HF-CYGG/codex/passive-wheel-listeners |
@@ -258,14 +259,13 @@ AI 写的代码我能不能看懂？
 | 2026-07-02 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [59901c2](https://github.com/HF-CYGG/HF-CYGG/commit/59901c2673299a8f7f317f0a1aea227f54eeca18) docs: update recent GitHub activity |
 | 2026-07-02 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [95e96d3](https://github.com/HF-CYGG/HF-CYGG/commit/95e96d35cc3058e7f0e47302804798451c6feec3) docs: update recent GitHub activity |
 | 2026-07-02 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [123ab3b](https://github.com/HF-CYGG/HF-CYGG/commit/123ab3bd64e4cff4cda0c7dcb60c31649c597ca8) docs: update recent GitHub activity |
-| 2026-07-02 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [77c7f60](https://github.com/HF-CYGG/Y-Link/commit/77c7f6007ca1a2cecb7bb58a40f86cab43fb8481) Merge pull request #21 from HF-CYGG/codex/login-geometry-motion-upgrade |
 
 ### Active repos
 
 | Repo | Recent commits | Activity | Last pushed |
 | --- | ---: | --- | --- |
-| [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-03 |
 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-03 |
+| [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-03 |
 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-01 |
 | [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | 2 | `▰▰▱▱▱▱▱▱▱▱` | 2026-06-30 |
 | [MealOps](https://github.com/HF-CYGG/MealOps) | 1 | `▰▱▱▱▱▱▱▱▱▱` | 2026-06-27 |
