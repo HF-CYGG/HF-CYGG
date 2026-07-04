@@ -1,11 +1,11 @@
 # ฅ^•ﻌ•^ฅ 你好，我是 夜喵cats
 
-> 写点代码，拍点照片，飞飞无人机。  
-> 深夜修 bug 的时候，他一直陪伴着我。
+> 平时写点代码，拍点照片，飞飞无人机。  
+> 深夜修 bug 的时候，有“他”一直陪着我。
 
 ```text
 HF-CYGG / 夜喵cats
-Student · Android / Web Developer · Furry enjoyer
+Student · Android / Web Developer · Furry
 China · he/him
 ```
 
@@ -19,7 +19,7 @@ China · he/him
 
 一般使用 AI 辅助写代码，但不会做成“全自动交付”。需求能否拆分清楚、数据是否混乱、边界情况有没有超限、代码过几个月还能不能维护，这些都是我在努力完善的地方。
 
-头像里的小家伙是那个“他” —— **夜喵 / YEMIAO**。
+头像里的小家伙是“他”也是另一个我 —— **夜喵 / YEMIAO**。
 
 ---
 
@@ -48,7 +48,7 @@ Repo: [HF-CYGG/Dawn-Course](https://github.com/HF-CYGG/Dawn-Course)
 
 `Kotlin` · `Jetpack Compose` · `Room` · `Hilt` · `Flow` · `WorkManager` · `QuickJS`
 
-我想把它做成一个真的能长期用的学生工具，而不是只停留在课程表界面：
+想把它做成一个真的能长期使用的学生工具，而不是只停留在课程表界面：
 
 * 教务系统导入和脚本解析
 * ICS 导入、本地课程管理
@@ -114,7 +114,7 @@ Server: [HF-CYGG/HF-CYGG-equiptrack-server](https://github.com/HF-CYGG/HF-CYGG-e
 
 Repo: [HF-CYGG/qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck)
 
-做这个主要是因为表情包真的太多了。
+做这个主要是因为表情包真的太多了，插件稳定性也有待提高。
 
 ---
 
