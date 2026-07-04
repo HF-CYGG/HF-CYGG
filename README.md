@@ -179,12 +179,6 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
 
 ## 📊 GitHub Activity
 
-这里只看主要项目仓库，不统计 `HF-CYGG/HF-CYGG` 这个 profile 仓库。
-
-<p align="center">
-  <code>~/nightcats/git/activity $ watch -n 1 project-pulse</code>
-</p>
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=3BA4FF&center=true&vCenter=true&width=720&lines=code+notes+from+a+blue+cat;late-night+commits+%2F+quiet+builds;building+small+useful+things+slowly;debug+%E2%86%92+refine+%E2%86%92+ship"
@@ -201,8 +195,8 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/HF-CYGG/HF-CYGG/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/HF-CYGG/HF-CYGG/main/assets/activity-pulse.svg"
+    alt="Project Activity Pulse"
   />
 </p>
 
@@ -213,7 +207,7 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
   <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-07-04 21:45 UTC` · only project repositories are counted.
+> Last generated: `2026-07-04 21:42 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
