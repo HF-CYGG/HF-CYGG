@@ -197,13 +197,13 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
 这里只看主要项目仓库，不统计 `HF-CYGG/HF-CYGG` 这个 profile 仓库。
 
 <!-- RECENT_ACTIVITY:START -->
-<p align='center'>
-  <img src='https://img.shields.io/badge/project_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335' alt='Project Repos' />
-  <img src='https://img.shields.io/badge/recent_commits-33-9ece6a?style=for-the-badge&labelColor=1f2335' alt='Recent Commits' />
-  <img src='https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335' alt='Profile repository excluded' />
+<p align="center">
+  <img src="https://img.shields.io/badge/project_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Project Repos" />
+  <img src="https://img.shields.io/badge/recent_commits-33-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
+  <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-07-04 21:11 UTC` · only project repositories are counted.
+> Last generated: `2026-07-04 21:14 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
