@@ -1,13 +1,13 @@
 # ฅ^•ﻌ•^ฅ 你好，我是 夜喵cats
 
-> 写代码、玩摄影、飞无人机，偶尔在深夜修 bug。  
-> 希望做一些真正有用、也有一点温度的小东西。
+> 写点代码，拍点照片，飞飞无人机。  
+> 深夜修 bug 的时候，旁边通常会有一只蓝白色猫龙陪着。
 
 ```text
 HF-CYGG / 夜喵cats
-Student · Developer · Furry enjoyer
+Student · Android / Web Developer · Furry enjoyer
 China · he/him
-````
+```
 
 ---
 
@@ -15,32 +15,26 @@ China · he/him
 
 我是 **夜喵cats**，GitHub ID 是 **HF-CYGG**。
 
-平时会写一些 Android / Web / 后端 / 自动化相关的小项目。
-最近更关注 **AI 协作开发**：让 AI 帮我生成代码、解释项目、补测试，我负责需求拆解、代码审核和产品判断。
+大学生，平时会做一些 Android、Web、后端和自动化相关的小项目。很多项目都来自校园、社团和自己遇到的实际问题：课程表、物资管理、出库系统、本地图片超分、QQNT 插件之类。
 
-不太喜欢只为了“炫技”而堆功能。
-更想把项目做成：
+我会用 AI 辅助写代码，但不会把它当成“自动交付”。需求能不能拆清楚、数据会不会乱、边界情况有没有兜住、代码过几个月还能不能维护，这些我会花更多时间看。
 
-* 能真正解决问题
-* 能长期维护
-* 出问题能排查
-* 数据不会乱丢
-* 用起来不折磨人
-
-也喜欢 furry ，头像里的小家伙是我的原创角色 夜喵 / YEMIAO。
+头像里的小家伙是我的原创角色 **夜喵 / YEMIAO**。
 
 ---
 
 ## 🌙 Now
 
-```text
-正在做的事：
-- 构建 Y-link 出库管理系统
-- 维护 Dawn Course / 破晓课程表
-- 探索 SwiftUI 和 iOS 端开发
-- 学习如何更好地用 AI 写代码，并自己做审核
-- 把“能跑的项目”慢慢变成“能维护的产品”
-```
+现在主要在这些仓库之间切：
+
+| Repo | 最近在做什么 |
+| --- | --- |
+| [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 课程表导入、本地数据、提醒、小组件和教务系统适配。 |
+| [Y-Link](https://github.com/HF-CYGG/Y-Link) | 文创出入库 / O2O 预订系统，继续补库存、报表、安全和部署细节。 |
+| [LumaSR](https://github.com/HF-CYGG/LumaSR) | Android 本地 AI 图片超分，重点在 ncnn / Vulkan、分块处理和极限导出。 |
+| [EquipTrack](https://github.com/HF-CYGG/EquipTrack) | 面向高校组织的物资追踪与管理系统。 |
+| [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | QQNT 表情相关插件。 |
+| [InfraCount](https://github.com/HF-CYGG/InfraCount) | 硬件计数器数据统计后端。 |
 
 ---
 
@@ -48,49 +42,56 @@ China · he/him
 
 ### 📱 Dawn Course / 破晓课程表
 
-> 一个本地优先、无广告、开源的 Android 课程表应用。
+> 免费、轻量、开源的 Android 课程表 App，已经适配新旧正方、强智、青果等教务系统。
 
 Repo: [HF-CYGG/Dawn-Course](https://github.com/HF-CYGG/Dawn-Course)
 
-```text
-Kotlin · Jetpack Compose · Room · Hilt · Flow · WorkManager · QuickJS
-```
+`Kotlin` · `Jetpack Compose` · `Room` · `Hilt` · `Flow` · `WorkManager` · `QuickJS`
 
-我希望它不只是一个“课程表 UI”，而是一个真正能长期用的学生工具：
+我想把它做成一个真的能长期用的学生工具，而不是只停留在课程表界面：
 
-* 教务系统导入
-* ICS 导入
-* 本地课程管理
-* 小组件
-* 上课提醒
-* 备份 / 还原
-* WebDAV 同步
-* JS 解析脚本体系
-
-目前最感兴趣的方向是：
-
-```text
-WebView + JS Parser
-脚本安全边界
-课程时间规则引擎
-本地优先数据设计
-Android / iOS 跨端数据格式
-```
+* 教务系统导入和脚本解析
+* ICS 导入、本地课程管理
+* 上课提醒、小组件
+* 备份 / 还原、WebDAV 同步
+* 本地优先的数据结构
 
 ---
 
-### 🍎 DawnCourse iOS
+### 🔗 Y-Link
 
-> Dawn Course 的 iOS 端探索。
+> 基于 Vue 3、Express 和 TypeORM 的文创产品出入库与 O2O 预订系统。
 
-Repo: [HF-CYGG/DawnCourse-ios](https://github.com/HF-CYGG/DawnCourse-ios)
+Repo: [HF-CYGG/Y-Link](https://github.com/HF-CYGG/Y-Link)
 
-```text
-SwiftUI · SwiftData · WidgetKit · JavaScriptCore
-```
+`Vue 3` · `TypeScript` · `Express` · `TypeORM` · `SQLite` · `MySQL` · `Docker`
 
-目标不是简单复制 Android 端，而是做一个更符合 iOS 体验的课程表。
-计划使用 SwiftUI 做原生界面，JS 只作为教务系统解析脚本层。
+这个项目更像一个完整业务系统，管理端和客户端都在里面：
+
+* 线上预订、线下核销
+* 出库追踪、供货入库
+* 客户反馈、附件处理
+* 亮暗主题、移动端适配
+* Docker / Onebox 部署
+* SQLite 到 MySQL 的迁移方案
+
+---
+
+### 🌌 LumaSR
+
+> 面向 Android 的本地 AI 图像超分工具，基于 ncnn 与 Vulkan 加速做离线推理。
+
+Repo: [HF-CYGG/LumaSR](https://github.com/HF-CYGG/LumaSR)
+
+`Kotlin` · `Jetpack Compose` · `Android NDK` · `ncnn` · `Vulkan` · `Waifu2x` · `RealCUGAN`
+
+现在重点在稳定性和处理体验：
+
+* Waifu2x / RealCUGAN 等模型支持
+* 本地离线推理，不依赖云端
+* 分块处理进度预览
+* 前后画质对比
+* 超大图极限导出和 OOM 保护
 
 ---
 
@@ -98,43 +99,12 @@ SwiftUI · SwiftData · WidgetKit · JavaScriptCore
 
 > 面向组织、社团、实验室的物资追踪与管理系统。
 
-Repo: [HF-CYGG/EquipTrack](https://github.com/HF-CYGG/EquipTrack)
+Repo: [HF-CYGG/EquipTrack](https://github.com/HF-CYGG/EquipTrack)  
 Server: [HF-CYGG/HF-CYGG-equiptrack-server](https://github.com/HF-CYGG/HF-CYGG-equiptrack-server)
 
-```text
-Android · Kotlin · Node.js · TypeScript · Express · Docker
-```
+`Android` · `Kotlin` · `Node.js` · `TypeScript` · `Express` · `Docker`
 
-主要解决：
-
-* 物资登记
-* 借用申请
-* 审批流程
-* 归还闭环
-* 角色权限
-* 后端部署
-
----
-
-### 🔗 Y-Link
-
-> 文创 / 非遗场景下的出库管理系统。
-
-Repo: [HF-CYGG/Y-Link](https://github.com/HF-CYGG/Y-Link)
-
-```text
-Vue 3 · TypeScript · Express · TypeORM · SQLite · MySQL · Docker
-```
-
-它更偏完整业务系统，包含管理端和客户端：
-
-* 线上预订
-* 线下核销
-* 出库追踪
-* 供货入库
-* 亮暗主题
-* Docker / Onebox 部署
-* SQLite 到 MySQL 的迁移方案
+主要解决物资从登记、借用、审批到归还的闭环问题。它不复杂，但权限和状态流转必须清楚。
 
 ---
 
@@ -148,18 +118,23 @@ Repo: [HF-CYGG/qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck)
 
 ---
 
-### 🛠️ Others
+### 🧮 InfraCount
 
-一些零散项目和工具：
+> 基于淘宝商家硬件的计数器统计后端。
 
-* [InfraCount](https://github.com/HF-CYGG/InfraCount)
-  硬件计数器数据统计后端。
+Repo: [HF-CYGG/InfraCount](https://github.com/HF-CYGG/InfraCount)
 
-* [Alist-sync](https://github.com/HF-CYGG/Alist-sync)
-  Alist 同步相关脚本。
+偏后端和数据统计的小项目，用来处理硬件侧传来的计数数据。
 
-* [Noctis-Portfolio](https://github.com/HF-CYGG/Noctis-Portfolio)
-  我的个人作品集页面。
+---
+
+### 🛠️ Side quests
+
+一些暂时不算主线、但还会偶尔维护的小东西：
+
+* [Alist-sync](https://github.com/HF-CYGG/Alist-sync) — Alist 同步相关脚本。
+* [Noctis-Portfolio](https://github.com/HF-CYGG/Noctis-Portfolio) — 我的个人作品集页面。
+* [DawnCourse-ios](https://github.com/HF-CYGG/DawnCourse-ios) — Dawn Course 的 iOS 端探索。
 
 ---
 
@@ -185,34 +160,33 @@ Tools:
 Git / Docker / Linux / GitHub Actions / Android Studio / Xcode
 
 Currently learning:
-SwiftUI / iOS architecture / KMP / better AI coding workflow
+SwiftUI / iOS architecture / KMP / AI-assisted code review
 ```
 
 ---
 
 ## 🐱 My Way
 
-我现在越来越觉得，写项目不只是写代码。
+我现在写项目时会先问几个问题：
 
 ```text
-需求怎么定义？
-数据怎么流动？
-失败时怎么办？
-用户数据会不会丢？
-功能能不能测试？
-以后还能不能维护？
-AI 写的代码我能不能看懂？
+数据从哪里来？
+坏数据会不会进库？
+用户误操作后能不能恢复？
+权限边界够不够清楚？
+异常时用户看到什么？
+下次维护的人能不能看懂？
 ```
 
-这些问题，比“这个页面能不能跑起来”更重要。
+页面能跑起来只是第一步。后面还有安全、性能、部署、日志、备份、测试和维护成本。
 
-所以我正在练习成为一种比较奇怪的角色：
+所以我大概是在练习做一种混合角色：
 
 ```text
-一点点产品经理
-一点点工程师
-一点点架构审查员
-一点点 AI 代码审核员
+一点产品判断
+一点工程实现
+一点架构审查
+一点 AI 代码审核
 再加一点 furry
 ```
 
@@ -220,27 +194,13 @@ AI 写的代码我能不能看懂？
 
 ## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&center=true&vCenter=true&width=680&lines=recent+commits+%2F+small+steps+%2F+late+night+bugs;building+things+slowly+and+carefully;code+notes+from+a+blue+cat"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=HF-CYGG&theme=github-compact&hide_border=true&radius=12&area=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
-最近在这些地方出没。
+这里只看主要项目仓库，不统计 `HF-CYGG/HF-CYGG` 这个 profile 仓库。
 
 <!-- RECENT_ACTIVITY:START -->
-<p align="center">
-  <img src="https://img.shields.io/badge/project_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Project Repos" />
-  <img src="https://img.shields.io/badge/recent_commits-33-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
-  <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
+<p align='center'>
+  <img src='https://img.shields.io/badge/project_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335' alt='Project Repos' />
+  <img src='https://img.shields.io/badge/recent_commits-33-9ece6a?style=for-the-badge&labelColor=1f2335' alt='Recent Commits' />
+  <img src='https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335' alt='Profile repository excluded' />
 </p>
 
 > Last generated: `2026-07-04 21:11 UTC` · only project repositories are counted.
@@ -272,6 +232,8 @@ AI 写的代码我能不能看懂？
 <sub>Generated by GitHub Actions. Tracked project repositories only.</sub>
 <!-- RECENT_ACTIVITY:END -->
 
+---
+
 ## 📫 Contact
 
 ```text
@@ -284,6 +246,6 @@ Email:     yyh1677696627@outlook.com
 
 ---
 
-<p align="center">
+<p align='center'>
   <sub>漫漫长夜，慢慢写代码。</sub>
 </p>
