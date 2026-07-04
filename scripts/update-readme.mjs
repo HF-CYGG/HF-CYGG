@@ -3,6 +3,19 @@ import fs from "node:fs/promises";
 const USERNAME = "HF-CYGG";
 const README_PATH = "README.md";
 
+const TRACKED_REPOS = [
+  "HF-CYGG/Dawn-Course",
+  "HF-CYGG/Y-Link",
+  "HF-CYGG/qq-emote-deck",
+  "HF-CYGG/LumaSR",
+  "HF-CYGG/EquipTrack",
+  "HF-CYGG/InfraCount",
+];
+
+const EXCLUDED_REPOS = new Set([
+  `${USERNAME}/${USERNAME}`,
+]);
+
 const token = process.env.GITHUB_TOKEN;
 const headers = {
   "Accept": "application/vnd.github+json",
@@ -46,18 +59,24 @@ function escapeMd(text) {
 function progressBar(value, max) {
   const total = 10;
   const safeMax = Math.max(max, 1);
-  const filled = Math.max(1, Math.round((value / safeMax) * total));
+  const filled = value <= 0 ? 0 : Math.max(1, Math.round((value / safeMax) * total));
   return "▰".repeat(filled) + "▱".repeat(total - filled);
 }
 
-async function getPublicRepos() {
+async function getTrackedRepos() {
   const repos = await githubGet(
     `https://api.github.com/users/${USERNAME}/repos?per_page=100&sort=pushed`
   );
 
-  return repos
-    .filter((repo) => !repo.fork && !repo.archived)
-    .sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at));
+  const repoByFullName = new Map(
+    repos
+      .filter((repo) => !repo.fork && !repo.archived && !EXCLUDED_REPOS.has(repo.full_name))
+      .map((repo) => [repo.full_name, repo])
+  );
+
+  return TRACKED_REPOS
+    .map((fullName) => repoByFullName.get(fullName))
+    .filter(Boolean);
 }
 
 async function getRecentCommits(repoFullName) {
@@ -74,24 +93,26 @@ async function getRecentCommits(repoFullName) {
   }));
 }
 
+function repoShortName(fullName) {
+  return fullName.replace(`${USERNAME}/`, "");
+}
+
 async function main() {
-  const repos = await getPublicRepos();
+  const repos = await getTrackedRepos();
 
   const allCommits = [];
   const repoStats = [];
 
-  for (const repo of repos.slice(0, 12)) {
+  for (const repo of repos) {
     try {
       const commits = await getRecentCommits(repo.full_name);
-      if (commits.length > 0) {
-        repoStats.push({
-          name: repo.full_name,
-          url: repo.html_url,
-          count: commits.length,
-          pushedAt: repo.pushed_at,
-        });
-        allCommits.push(...commits);
-      }
+      repoStats.push({
+        name: repo.full_name,
+        url: repo.html_url,
+        count: commits.length,
+        pushedAt: repo.pushed_at,
+      });
+      allCommits.push(...commits);
     } catch (error) {
       console.warn(`Skip ${repo.full_name}: ${error.message}`);
     }
@@ -101,8 +122,7 @@ async function main() {
 
   const recentCommits = allCommits.slice(0, 8);
   const activeRepos = repoStats
-    .sort((a, b) => new Date(b.pushedAt) - new Date(a.pushedAt))
-    .slice(0, 6);
+    .sort((a, b) => new Date(b.pushedAt) - new Date(a.pushedAt));
 
   const totalRecentCommits = allCommits.length;
   const maxRepoCommitCount = Math.max(...activeRepos.map((repo) => repo.count), 1);
@@ -111,24 +131,26 @@ async function main() {
   const lines = [];
 
   lines.push(`<p align="center">`);
-  lines.push(`  <img src="https://img.shields.io/badge/active_repos-${activeRepos.length}-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Active Repos" />`);
+  lines.push(`  <img src="https://img.shields.io/badge/project_repos-${activeRepos.length}-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Project Repos" />`);
   lines.push(`  <img src="https://img.shields.io/badge/recent_commits-${totalRecentCommits}-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />`);
-  lines.push(`  <img src="https://img.shields.io/badge/last_update-${encodeURIComponent(updatedAt)}-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />`);
+  lines.push(`  <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />`);
   lines.push(`</p>`);
   lines.push("");
 
-  lines.push(`> Last updated: \`${updatedAt}\``);
-  lines.push("");
-  lines.push(`最近扫描到 **${activeRepos.length}** 个活跃公开仓库，读取到 **${totalRecentCommits}** 条近期提交。`);
+  lines.push(`> Last generated: \`${updatedAt}\` · only project repositories are counted.`);
   lines.push("");
 
-  lines.push("### Recent commits");
+  lines.push("### Recent project commits");
   lines.push("");
   lines.push("| Date | Repo | Commit |");
   lines.push("| --- | --- | --- |");
 
+  if (recentCommits.length === 0) {
+    lines.push("| - | - | No recent project commits found. |");
+  }
+
   for (const commit of recentCommits) {
-    const repoName = commit.repo.replace(`${USERNAME}/`, "");
+    const repoName = repoShortName(commit.repo);
     const shortSha = commit.sha.slice(0, 7);
     lines.push(
       `| ${formatDate(commit.date)} | [${repoName}](https://github.com/${commit.repo}) | [${shortSha}](${commit.url}) ${escapeMd(commit.message)} |`
@@ -136,20 +158,24 @@ async function main() {
   }
 
   lines.push("");
-  lines.push("### Active repos");
+  lines.push("### Project pulse");
   lines.push("");
-  lines.push("| Repo | Recent commits | Activity | Last pushed |");
+  lines.push("| Project | Recent commits | Pulse | Last push |");
   lines.push("| --- | ---: | --- | --- |");
 
+  if (activeRepos.length === 0) {
+    lines.push("| - | 0 | `▱▱▱▱▱▱▱▱▱▱` | - |");
+  }
+
   for (const repo of activeRepos) {
-    const repoName = repo.name.replace(`${USERNAME}/`, "");
+    const repoName = repoShortName(repo.name);
     lines.push(
       `| [${repoName}](${repo.url}) | ${repo.count} | \`${progressBar(repo.count, maxRepoCommitCount)}\` | ${formatDate(repo.pushedAt)} |`
     );
   }
 
   lines.push("");
-  lines.push("<sub>Generated by GitHub Actions. Public repositories only.</sub>");
+  lines.push("<sub>Generated by GitHub Actions. Tracked project repositories only.</sub>");
 
   const generated = lines.join("\n");
 
