@@ -238,40 +238,38 @@ AI 写的代码我能不能看懂？
 
 <!-- RECENT_ACTIVITY:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/active_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Active Repos" />
-  <img src="https://img.shields.io/badge/recent_commits-49-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
-  <img src="https://img.shields.io/badge/last_update-2026-07-04%2020%3A10%20UTC-bb9af7?style=for-the-badge&labelColor=1f2335" alt="Last Update" />
+  <img src="https://img.shields.io/badge/project_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Project Repos" />
+  <img src="https://img.shields.io/badge/recent_commits-33-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
+  <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last updated: `2026-07-04 20:10 UTC`
+> Last generated: `2026-07-04 21:11 UTC` · only project repositories are counted.
 
-最近扫描到 **6** 个活跃公开仓库，读取到 **49** 条近期提交。
-
-### Recent commits
+### Recent project commits
 
 | Date | Repo | Commit |
 | --- | --- | --- |
-| 2026-07-04 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [299fcc9](https://github.com/HF-CYGG/HF-CYGG/commit/299fcc965bac053bbf4064ba55dfb1ea304ff491) docs: update recent GitHub activity |
-| 2026-07-04 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [f10fb69](https://github.com/HF-CYGG/HF-CYGG/commit/f10fb69f43a0044b9779d2dbba983d7acb2de660) docs: update recent GitHub activity |
-| 2026-07-04 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [bd1f457](https://github.com/HF-CYGG/HF-CYGG/commit/bd1f457e96c9b5342e5210e24af72fca318421bf) docs: update recent GitHub activity |
-| 2026-07-04 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [0a2cde0](https://github.com/HF-CYGG/HF-CYGG/commit/0a2cde09ff7f0b170a5d6187f5c57306b06f74b8) docs: update recent GitHub activity |
-| 2026-07-04 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [3fc3776](https://github.com/HF-CYGG/HF-CYGG/commit/3fc3776c0dd084ebde1636e5a93885ba92c31615) docs: update recent GitHub activity |
-| 2026-07-04 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [f365d40](https://github.com/HF-CYGG/HF-CYGG/commit/f365d4055c2518694ea85e7c6d25b8c4d0e99bca) docs: update recent GitHub activity |
-| 2026-07-04 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [bd1cab3](https://github.com/HF-CYGG/HF-CYGG/commit/bd1cab3bf87c863501a25c7d405c6e1ebd61a455) docs: update recent GitHub activity |
-| 2026-07-04 | [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | [553e6fc](https://github.com/HF-CYGG/HF-CYGG/commit/553e6fcb627b80de0869a079b07cce13fc666522) docs: update recent GitHub activity |
+| 2026-07-03 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [79a0d53](https://github.com/HF-CYGG/Y-Link/commit/79a0d53d09635e96198349db7da708816850c5f9) Merge pull request #22 from HF-CYGG/codex/passive-wheel-listeners |
+| 2026-07-02 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [77c7f60](https://github.com/HF-CYGG/Y-Link/commit/77c7f6007ca1a2cecb7bb58a40f86cab43fb8481) Merge pull request #21 from HF-CYGG/codex/login-geometry-motion-upgrade |
+| 2026-07-02 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [e3cd85e](https://github.com/HF-CYGG/Y-Link/commit/e3cd85eed05aea3976e7a924a41c1e0fb9bdeda9) feat(auth): 升级认证页几何动效与玻璃视觉 |
+| 2026-07-02 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [a6df136](https://github.com/HF-CYGG/Y-Link/commit/a6df136b1038dbb81f94611040adc68c60db762d) Merge pull request #19 from HF-CYGG/codex/department-account-governance |
+| 2026-07-01 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [39d09e1](https://github.com/HF-CYGG/Y-Link/commit/39d09e1dfd41726667a98b48b64ade4a113f82a1) Merge pull request #18 from HF-CYGG/codex/sku-current-stock-fix |
+| 2026-07-01 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [81c5cfa](https://github.com/HF-CYGG/Y-Link/commit/81c5cfa524004df7e84470eb7bf2b7ad0b9053a4) Merge branch 'main' into codex/sku-current-stock-fix |
+| 2026-07-01 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [3be13e5](https://github.com/HF-CYGG/Y-Link/commit/3be13e534e1e3f835b752bdeb676eb0fa6996d75) Merge pull request #12 from HF-CYGG/codex/fix-acr-registry-variable-vulnerability |
+| 2026-07-01 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [10f9cd2](https://github.com/HF-CYGG/Y-Link/commit/10f9cd2ed819f7163cda50aca26184fa69218965) Merge branch 'main' into codex/fix-acr-registry-variable-vulnerability |
 
-### Active repos
+### Project pulse
 
-| Repo | Recent commits | Activity | Last pushed |
+| Project | Recent commits | Pulse | Last push |
 | --- | ---: | --- | --- |
-| [HF-CYGG](https://github.com/HF-CYGG/HF-CYGG) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-04 |
 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-03 |
 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-03 |
 | [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | 2 | `▰▰▱▱▱▱▱▱▱▱` | 2026-06-30 |
-| [MealOps](https://github.com/HF-CYGG/MealOps) | 1 | `▰▱▱▱▱▱▱▱▱▱` | 2026-06-27 |
-| [CampusBite](https://github.com/HF-CYGG/CampusBite) | 1 | `▰▱▱▱▱▱▱▱▱▱` | 2026-06-25 |
+| [LumaSR](https://github.com/HF-CYGG/LumaSR) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-06-25 |
+| [InfraCount](https://github.com/HF-CYGG/InfraCount) | 1 | `▰▱▱▱▱▱▱▱▱▱` | 2026-03-03 |
+| [EquipTrack](https://github.com/HF-CYGG/EquipTrack) | 0 | `▱▱▱▱▱▱▱▱▱▱` | 2026-02-15 |
 
-<sub>Generated by GitHub Actions. Public repositories only.</sub>
+<sub>Generated by GitHub Actions. Tracked project repositories only.</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## 📫 Contact
