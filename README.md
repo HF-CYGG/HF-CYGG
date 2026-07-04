@@ -181,6 +181,31 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
 
 这里只看主要项目仓库，不统计 `HF-CYGG/HF-CYGG` 这个 profile 仓库。
 
+<p align="center">
+  <code>~/nightcats/git/activity $ watch -n 1 project-pulse</code>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=3BA4FF&center=true&vCenter=true&width=720&lines=code+notes+from+a+blue+cat;late-night+commits+%2F+quiet+builds;building+small+useful+things+slowly;debug+%E2%86%92+refine+%E2%86%92+ship"
+    alt="Typing SVG"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=HF-CYGG&bg_color=0d1117&color=7aa2f7&line=3fb950&point=8b949e&area=true&hide_border=true&radius=14&title_color=7aa2f7&custom_title=%E5%A4%9C%E5%96%B5cats%27s%20Contribution%20Graph"
+    alt="GitHub Activity Graph"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/HF-CYGG/HF-CYGG/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
 <!-- RECENT_ACTIVITY:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/project_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Project Repos" />
