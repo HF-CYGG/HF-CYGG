@@ -1,7 +1,7 @@
 # ฅ^•ﻌ•^ฅ 你好，我是 夜喵cats
 
 > 写点代码，拍点照片，飞飞无人机。  
-> 深夜修 bug 的时候，旁边通常会有一只蓝白色猫龙陪着。
+> 深夜修 bug 的时候，他一直陪伴着我。
 
 ```text
 HF-CYGG / 夜喵cats
@@ -17,15 +17,15 @@ China · he/him
 
 大学生，平时会做一些 Android、Web、后端和自动化相关的小项目。很多项目都来自校园、社团和自己遇到的实际问题：课程表、物资管理、出库系统、本地图片超分、QQNT 插件之类。
 
-我会用 AI 辅助写代码，但不会把它当成“自动交付”。需求能不能拆清楚、数据会不会乱、边界情况有没有兜住、代码过几个月还能不能维护，这些我会花更多时间看。
+一般使用 AI 辅助写代码，但不会做成“全自动交付”。需求能否拆分清楚、数据是否混乱、边界情况有没有超限、代码过几个月还能不能维护，这些都是我在努力完善的地方。
 
-头像里的小家伙是我的原创角色 **夜喵 / YEMIAO**。
+头像里的小家伙是那个“他” —— **夜喵 / YEMIAO**。
 
 ---
 
 ## 🌙 Now
 
-现在主要在这些仓库之间切：
+现在主要维护以下仓库：
 
 | Repo | 最近在做什么 |
 | --- | --- |
@@ -114,7 +114,7 @@ Server: [HF-CYGG/HF-CYGG-equiptrack-server](https://github.com/HF-CYGG/HF-CYGG-e
 
 Repo: [HF-CYGG/qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck)
 
-做这个主要是因为表情包真的很重要。
+做这个主要是因为表情包真的太多了。
 
 ---
 
@@ -187,14 +187,12 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
 一点工程实现
 一点架构审查
 一点 AI 代码审核
-再加一点 furry
+再加一点 furry 元素
 ```
 
 ---
 
 ## 📊 GitHub Activity
-
-这里只看主要项目仓库，不统计 `HF-CYGG/HF-CYGG` 这个 profile 仓库。
 
 <!-- RECENT_ACTIVITY:START -->
 <p align="center">
