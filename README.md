@@ -200,12 +200,13 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
   <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-07-05 13:43 UTC` · only project repositories are counted.
+> Last generated: `2026-07-05 15:14 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-07-05 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [de4d562](https://github.com/HF-CYGG/Y-Link/commit/de4d562bbd7cb876a898edf85f1049ac05dc64ab) Merge pull request #23 from HF-CYGG/codex/client-mall-update |
 | 2026-07-03 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [79a0d53](https://github.com/HF-CYGG/Y-Link/commit/79a0d53d09635e96198349db7da708816850c5f9) Merge pull request #22 from HF-CYGG/codex/passive-wheel-listeners |
 | 2026-07-02 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [77c7f60](https://github.com/HF-CYGG/Y-Link/commit/77c7f6007ca1a2cecb7bb58a40f86cab43fb8481) Merge pull request #21 from HF-CYGG/codex/login-geometry-motion-upgrade |
 | 2026-07-02 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [e3cd85e](https://github.com/HF-CYGG/Y-Link/commit/e3cd85eed05aea3976e7a924a41c1e0fb9bdeda9) feat(auth): 升级认证页几何动效与玻璃视觉 |
@@ -213,15 +214,14 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
 | 2026-07-01 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [39d09e1](https://github.com/HF-CYGG/Y-Link/commit/39d09e1dfd41726667a98b48b64ade4a113f82a1) Merge pull request #18 from HF-CYGG/codex/sku-current-stock-fix |
 | 2026-07-01 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [81c5cfa](https://github.com/HF-CYGG/Y-Link/commit/81c5cfa524004df7e84470eb7bf2b7ad0b9053a4) Merge branch 'main' into codex/sku-current-stock-fix |
 | 2026-07-01 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [3be13e5](https://github.com/HF-CYGG/Y-Link/commit/3be13e534e1e3f835b752bdeb676eb0fa6996d75) Merge pull request #12 from HF-CYGG/codex/fix-acr-registry-variable-vulnerability |
-| 2026-07-01 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [10f9cd2](https://github.com/HF-CYGG/Y-Link/commit/10f9cd2ed819f7163cda50aca26184fa69218965) Merge branch 'main' into codex/fix-acr-registry-variable-vulnerability |
 
 ### Project pulse
 
 | Project | Recent commits | Pulse | Last push |
 | --- | ---: | --- | --- |
+| [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-05 |
 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-05 |
 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-03 |
-| [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-03 |
 | [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | 2 | `▰▰▱▱▱▱▱▱▱▱` | 2026-06-30 |
 | [InfraCount](https://github.com/HF-CYGG/InfraCount) | 1 | `▰▱▱▱▱▱▱▱▱▱` | 2026-03-03 |
 | [EquipTrack](https://github.com/HF-CYGG/EquipTrack) | 0 | `▱▱▱▱▱▱▱▱▱▱` | 2026-02-15 |
