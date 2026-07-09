@@ -200,7 +200,7 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
   <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-07-09 08:39 UTC` · only project repositories are counted.
+> Last generated: `2026-07-09 12:05 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
