@@ -200,20 +200,20 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
   <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-07-14 02:39 UTC` · only project repositories are counted.
+> Last generated: `2026-07-14 05:32 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-07-14 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [d0859b2](https://github.com/HF-CYGG/Y-Link/commit/d0859b2d123c52d9ed6d1b3cd0dc36a6cd2f3478) Merge pull request #28 from HF-CYGG/codex/client-sku-group-selector |
+| 2026-07-14 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [80656be](https://github.com/HF-CYGG/Y-Link/commit/80656be114af6649eea51848138901d4dd6321c7) feat(客户端商城): 按规格分组选择SKU |
+| 2026-07-14 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [56c7450](https://github.com/HF-CYGG/Y-Link/commit/56c74506f0ef81423797bffe490f22612ecf7c1e) Merge pull request #27 from HF-CYGG/codex/security-remediation |
+| 2026-07-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [51a1f5c](https://github.com/HF-CYGG/Y-Link/commit/51a1f5cd15869c0c5b1d31a0c00fb64f78f5a1af) fix(deps): 升级 ECharts 修复 XSS 漏洞 |
+| 2026-07-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [f4220eb](https://github.com/HF-CYGG/Y-Link/commit/f4220ebfad43dcca91a9ea294b7d468ed38e3611) fix(security): 修复全仓安全扫描发现 |
 | 2026-07-09 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [2cb2520](https://github.com/HF-CYGG/Dawn-Course/commit/2cb2520e6b3c956f1c378a2d60227345fde4bcdd) Merge pull request #90 from HF-CYGG/dependabot/gradle/io.netty-netty-transport-native-unix-common-4.2.15.Final |
 | 2026-07-09 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [49053d7](https://github.com/HF-CYGG/Dawn-Course/commit/49053d732b8666db8a48927bff298a8a949f4222) Merge pull request #95 from HF-CYGG/dependabot/gradle/io.netty-netty-codec-http-4.2.15.Final |
 | 2026-07-05 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [de4d562](https://github.com/HF-CYGG/Y-Link/commit/de4d562bbd7cb876a898edf85f1049ac05dc64ab) Merge pull request #23 from HF-CYGG/codex/client-mall-update |
-| 2026-07-03 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [79a0d53](https://github.com/HF-CYGG/Y-Link/commit/79a0d53d09635e96198349db7da708816850c5f9) Merge pull request #22 from HF-CYGG/codex/passive-wheel-listeners |
-| 2026-07-02 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [77c7f60](https://github.com/HF-CYGG/Y-Link/commit/77c7f6007ca1a2cecb7bb58a40f86cab43fb8481) Merge pull request #21 from HF-CYGG/codex/login-geometry-motion-upgrade |
-| 2026-07-02 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [e3cd85e](https://github.com/HF-CYGG/Y-Link/commit/e3cd85eed05aea3976e7a924a41c1e0fb9bdeda9) feat(auth): 升级认证页几何动效与玻璃视觉 |
-| 2026-07-02 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [a6df136](https://github.com/HF-CYGG/Y-Link/commit/a6df136b1038dbb81f94611040adc68c60db762d) Merge pull request #19 from HF-CYGG/codex/department-account-governance |
-| 2026-07-01 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [39d09e1](https://github.com/HF-CYGG/Y-Link/commit/39d09e1dfd41726667a98b48b64ade4a113f82a1) Merge pull request #18 from HF-CYGG/codex/sku-current-stock-fix |
 
 ### Project pulse
 
