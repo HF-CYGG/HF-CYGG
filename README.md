@@ -200,26 +200,26 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
   <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-07-16 03:28 UTC` · only project repositories are counted.
+> Last generated: `2026-07-16 06:20 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-07-16 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [88bfa9e](https://github.com/HF-CYGG/LumaSR/commit/88bfa9e8529417a75e14f943cbde75534c4b01b6) feat(build): 实现固定发布签名的校验与配套构建脚本 |
+| 2026-07-16 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [eb6df46](https://github.com/HF-CYGG/LumaSR/commit/eb6df465fc14e0e75ca576cf4f13ce0a251af8ee) Merge branch 'codex/sr-performance' |
+| 2026-07-16 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [d3fb4bb](https://github.com/HF-CYGG/LumaSR/commit/d3fb4bbea5d82f71cfa040409e6173a387632d98) Merge remote-tracking branch 'origin/main' |
+| 2026-07-15 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [a95ba36](https://github.com/HF-CYGG/LumaSR/commit/a95ba36c03835770005d00cc79dc1201b98d7006) Apply thermal controls at native tile boundaries |
+| 2026-07-15 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [08f0094](https://github.com/HF-CYGG/LumaSR/commit/08f0094e5220eef3cc849e16707fe4044c1ff59d) Bound persisted processing task retention |
+| 2026-07-15 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [4628c9d](https://github.com/HF-CYGG/LumaSR/commit/4628c9dce8e337ed6e46a61e1f328a75fd7e3b44) Support SAF result saving on Android 8 and 9 |
+| 2026-07-15 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [c5f2905](https://github.com/HF-CYGG/LumaSR/commit/c5f2905d7ea259d7a2c40e958ac88749b3d4c3d6) Document SR performance branch hardening |
 | 2026-07-15 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [63554ad](https://github.com/HF-CYGG/LumaSR/commit/63554ad06cf13ba7bf413bfdde178ebf162b9003) Merge pull request #4 from HF-CYGG/codex/result-trust-closure |
-| 2026-07-14 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [cedc21f](https://github.com/HF-CYGG/LumaSR/commit/cedc21fec2415ff90b6c7bc84715d3bfbf7dedb4) Harden result preview and sharing |
-| 2026-07-14 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [d0859b2](https://github.com/HF-CYGG/Y-Link/commit/d0859b2d123c52d9ed6d1b3cd0dc36a6cd2f3478) Merge pull request #28 from HF-CYGG/codex/client-sku-group-selector |
-| 2026-07-14 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [80656be](https://github.com/HF-CYGG/Y-Link/commit/80656be114af6649eea51848138901d4dd6321c7) feat(客户端商城): 按规格分组选择SKU |
-| 2026-07-14 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [56c7450](https://github.com/HF-CYGG/Y-Link/commit/56c74506f0ef81423797bffe490f22612ecf7c1e) Merge pull request #27 from HF-CYGG/codex/security-remediation |
-| 2026-07-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [51a1f5c](https://github.com/HF-CYGG/Y-Link/commit/51a1f5cd15869c0c5b1d31a0c00fb64f78f5a1af) fix(deps): 升级 ECharts 修复 XSS 漏洞 |
-| 2026-07-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [f4220eb](https://github.com/HF-CYGG/Y-Link/commit/f4220ebfad43dcca91a9ea294b7d468ed38e3611) fix(security): 修复全仓安全扫描发现 |
-| 2026-07-09 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [2cb2520](https://github.com/HF-CYGG/Dawn-Course/commit/2cb2520e6b3c956f1c378a2d60227345fde4bcdd) Merge pull request #90 from HF-CYGG/dependabot/gradle/io.netty-netty-transport-native-unix-common-4.2.15.Final |
 
 ### Project pulse
 
 | Project | Recent commits | Pulse | Last push |
 | --- | ---: | --- | --- |
-| [LumaSR](https://github.com/HF-CYGG/LumaSR) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-15 |
+| [LumaSR](https://github.com/HF-CYGG/LumaSR) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-16 |
 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-14 |
 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-10 |
 | [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | 2 | `▰▰▱▱▱▱▱▱▱▱` | 2026-06-30 |
