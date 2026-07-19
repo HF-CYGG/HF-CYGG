@@ -200,20 +200,20 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
   <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-07-19 09:04 UTC` · only project repositories are counted.
+> Last generated: `2026-07-19 11:09 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
 | Date | Repo | Commit |
 | --- | --- | --- |
-| 2026-07-16 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [88bfa9e](https://github.com/HF-CYGG/LumaSR/commit/88bfa9e8529417a75e14f943cbde75534c4b01b6) feat(build): 实现固定发布签名的校验与配套构建脚本 |
-| 2026-07-16 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [eb6df46](https://github.com/HF-CYGG/LumaSR/commit/eb6df465fc14e0e75ca576cf4f13ce0a251af8ee) Merge branch 'codex/sr-performance' |
-| 2026-07-16 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [d3fb4bb](https://github.com/HF-CYGG/LumaSR/commit/d3fb4bbea5d82f71cfa040409e6173a387632d98) Merge remote-tracking branch 'origin/main' |
-| 2026-07-15 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [a95ba36](https://github.com/HF-CYGG/LumaSR/commit/a95ba36c03835770005d00cc79dc1201b98d7006) Apply thermal controls at native tile boundaries |
-| 2026-07-15 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [08f0094](https://github.com/HF-CYGG/LumaSR/commit/08f0094e5220eef3cc849e16707fe4044c1ff59d) Bound persisted processing task retention |
-| 2026-07-15 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [4628c9d](https://github.com/HF-CYGG/LumaSR/commit/4628c9dce8e337ed6e46a61e1f328a75fd7e3b44) Support SAF result saving on Android 8 and 9 |
-| 2026-07-15 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [c5f2905](https://github.com/HF-CYGG/LumaSR/commit/c5f2905d7ea259d7a2c40e958ac88749b3d4c3d6) Document SR performance branch hardening |
-| 2026-07-15 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [63554ad](https://github.com/HF-CYGG/LumaSR/commit/63554ad06cf13ba7bf413bfdde178ebf162b9003) Merge pull request #4 from HF-CYGG/codex/result-trust-closure |
+| 2026-07-19 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [a64a380](https://github.com/HF-CYGG/LumaSR/commit/a64a380b31ec7e5c32eb0d474ac1c9abb32ca9e8) 合并 PR #6：折叠最近校准报告 |
+| 2026-07-19 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [b8f3fa5](https://github.com/HF-CYGG/LumaSR/commit/b8f3fa54da66db2a8e5b4d482c8cf7f58520be95) feat: 折叠最近校准报告 |
+| 2026-07-19 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [88660af](https://github.com/HF-CYGG/LumaSR/commit/88660af71799aded40c7ab3e421dba38d5db2589) Merge pull request #5 from HF-CYGG/codex/performance-next |
+| 2026-07-19 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [e196c98](https://github.com/HF-CYGG/LumaSR/commit/e196c9895c67ca0e8112f83b9dfcc17e80051a70) fix: 保留 QNN 运行时控制 JNI 回调 |
+| 2026-07-19 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [fe3d972](https://github.com/HF-CYGG/LumaSR/commit/fe3d9722a7fb82cb3536b68f09edda5ed035ce75) perf: 完成性能校准分级回退并升级至 0.3.1 |
+| 2026-07-18 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [ee6c260](https://github.com/HF-CYGG/LumaSR/commit/ee6c260a2bcfd608cc51634d516ae94e669a1d99) perf: 使用 AArch64 NEON 加速像素预处理 |
+| 2026-07-18 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [6ff309f](https://github.com/HF-CYGG/LumaSR/commit/6ff309f747e9ded9bec253ec4a5e00a047c83a5c) perf: 增加可校准且可回退的 QNN HTP 运行时 |
+| 2026-07-18 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [2a1db77](https://github.com/HF-CYGG/LumaSR/commit/2a1db77c7fadae6d60b41999ca9ff08f0fdc0129) docs: 记录 Snapdragon QNN 深度优化方案 |
 
 ### Project pulse
 
