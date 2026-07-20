@@ -196,16 +196,17 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
 <!-- RECENT_ACTIVITY:START -->
 <p align="center">
   <img src="https://img.shields.io/badge/project_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Project Repos" />
-  <img src="https://img.shields.io/badge/recent_commits-33-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
+  <img src="https://img.shields.io/badge/recent_commits-34-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
   <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-07-20 15:52 UTC` · only project repositories are counted.
+> Last generated: `2026-07-20 18:05 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-07-20 | [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | [b0e65f2](https://github.com/HF-CYGG/qq-emote-deck/commit/b0e65f20220a077fc6109877f777ef91b0eeb205) fix: 修复会话发送与面板交互异常 |
 | 2026-07-19 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [361b7ee](https://github.com/HF-CYGG/LumaSR/commit/361b7ee7f02f97b43cb81cdb166a72c2807d7d66) feat: 支持滚动发行并发布 v0.3.3 |
 | 2026-07-19 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [5437ac0](https://github.com/HF-CYGG/LumaSR/commit/5437ac0acd73f62e719373e45752bf1dec733a63) fix: 修复处理进度快照合并 |
 | 2026-07-19 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [3516be6](https://github.com/HF-CYGG/LumaSR/commit/3516be6a6ff6505fcf3a3b9815af32ee860cf805) feat: 发布 v0.3.2 并增加 GitHub 更新检查 |
@@ -213,16 +214,15 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
 | 2026-07-19 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [b8f3fa5](https://github.com/HF-CYGG/LumaSR/commit/b8f3fa54da66db2a8e5b4d482c8cf7f58520be95) feat: 折叠最近校准报告 |
 | 2026-07-19 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [88660af](https://github.com/HF-CYGG/LumaSR/commit/88660af71799aded40c7ab3e421dba38d5db2589) Merge pull request #5 from HF-CYGG/codex/performance-next |
 | 2026-07-19 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [e196c98](https://github.com/HF-CYGG/LumaSR/commit/e196c9895c67ca0e8112f83b9dfcc17e80051a70) fix: 保留 QNN 运行时控制 JNI 回调 |
-| 2026-07-19 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [fe3d972](https://github.com/HF-CYGG/LumaSR/commit/fe3d9722a7fb82cb3536b68f09edda5ed035ce75) perf: 完成性能校准分级回退并升级至 0.3.1 |
 
 ### Project pulse
 
 | Project | Recent commits | Pulse | Last push |
 | --- | ---: | --- | --- |
+| [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | 3 | `▰▰▰▱▱▱▱▱▱▱` | 2026-07-20 |
 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-19 |
 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-17 |
 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-14 |
-| [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | 2 | `▰▰▱▱▱▱▱▱▱▱` | 2026-06-30 |
 | [InfraCount](https://github.com/HF-CYGG/InfraCount) | 1 | `▰▱▱▱▱▱▱▱▱▱` | 2026-03-03 |
 | [EquipTrack](https://github.com/HF-CYGG/EquipTrack) | 0 | `▱▱▱▱▱▱▱▱▱▱` | 2026-02-15 |
 
