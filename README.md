@@ -200,27 +200,27 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
   <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-07-25 09:49 UTC` · only project repositories are counted.
+> Last generated: `2026-07-25 11:12 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-07-25 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [afb2c71](https://github.com/HF-CYGG/LumaSR/commit/afb2c7112eab5e24ec452c8f0f3ddb2e64f89be9) Merge pull request #7 from HF-CYGG/codex/fix-android-edge-to-edge |
+| 2026-07-25 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [43c6415](https://github.com/HF-CYGG/LumaSR/commit/43c64159b5288354ba0819b7c99598e92363e180) fix: 修复 Android 无边框兼容警告 |
 | 2026-07-23 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [c313bd9](https://github.com/HF-CYGG/LumaSR/commit/c313bd9e51ad357011d89b03cc351dc11395e22f) docs: 新增中英文隐私政策页面 |
 | 2026-07-22 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [dc0f206](https://github.com/HF-CYGG/LumaSR/commit/dc0f206417edddd23110746edbfeb3da5cba3de6) build: 完成 Google Play 0.3.4 发布构建 |
 | 2026-07-20 | [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | [b0e65f2](https://github.com/HF-CYGG/qq-emote-deck/commit/b0e65f20220a077fc6109877f777ef91b0eeb205) fix: 修复会话发送与面板交互异常 |
 | 2026-07-20 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [31a6c01](https://github.com/HF-CYGG/LumaSR/commit/31a6c01e6562ff569700066a2f7c9ac9d8de2905) fix: 缩短模型准备并恢复实时进度 |
 | 2026-07-19 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [361b7ee](https://github.com/HF-CYGG/LumaSR/commit/361b7ee7f02f97b43cb81cdb166a72c2807d7d66) feat: 支持滚动发行并发布 v0.3.3 |
 | 2026-07-19 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [5437ac0](https://github.com/HF-CYGG/LumaSR/commit/5437ac0acd73f62e719373e45752bf1dec733a63) fix: 修复处理进度快照合并 |
-| 2026-07-19 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [3516be6](https://github.com/HF-CYGG/LumaSR/commit/3516be6a6ff6505fcf3a3b9815af32ee860cf805) feat: 发布 v0.3.2 并增加 GitHub 更新检查 |
-| 2026-07-19 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [a64a380](https://github.com/HF-CYGG/LumaSR/commit/a64a380b31ec7e5c32eb0d474ac1c9abb32ca9e8) 合并 PR #6：折叠最近校准报告 |
 
 ### Project pulse
 
 | Project | Recent commits | Pulse | Last push |
 | --- | ---: | --- | --- |
+| [LumaSR](https://github.com/HF-CYGG/LumaSR) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-25 |
 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-24 |
-| [LumaSR](https://github.com/HF-CYGG/LumaSR) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-23 |
 | [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | 3 | `▰▰▰▱▱▱▱▱▱▱` | 2026-07-20 |
 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-14 |
 | [InfraCount](https://github.com/HF-CYGG/InfraCount) | 1 | `▰▱▱▱▱▱▱▱▱▱` | 2026-03-03 |
