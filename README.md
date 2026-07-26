@@ -200,20 +200,20 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
   <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-07-26 15:06 UTC` · only project repositories are counted.
+> Last generated: `2026-07-26 17:03 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-07-26 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [af8f930](https://github.com/HF-CYGG/Y-Link/commit/af8f930360bfb233d0af8e42f615a486aef2481b) Merge pull request #29 from HF-CYGG/codex/sqlite-mysql-auto-migration |
+| 2026-07-26 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [5c52eba](https://github.com/HF-CYGG/Y-Link/commit/5c52eba20f9b26cdf8fd8159cd60e529b4f11086) fix: 修复迁移审计、状态刷新与环境目录加载 |
+| 2026-07-26 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [49cc1d3](https://github.com/HF-CYGG/Y-Link/commit/49cc1d355b684b0d262c8455e77a00bc6edeffd9) merge: 同步 main 最新变更 |
+| 2026-07-26 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [bcb896e](https://github.com/HF-CYGG/Y-Link/commit/bcb896eb5235b80217b68d18d8fe59c315980c70) feat: 完成 SQLite 到 MySQL 一键自动迁移与只读维护闭环 |
 | 2026-07-25 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [afb2c71](https://github.com/HF-CYGG/LumaSR/commit/afb2c7112eab5e24ec452c8f0f3ddb2e64f89be9) Merge pull request #7 from HF-CYGG/codex/fix-android-edge-to-edge |
 | 2026-07-25 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [43c6415](https://github.com/HF-CYGG/LumaSR/commit/43c64159b5288354ba0819b7c99598e92363e180) fix: 修复 Android 无边框兼容警告 |
 | 2026-07-23 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [c313bd9](https://github.com/HF-CYGG/LumaSR/commit/c313bd9e51ad357011d89b03cc351dc11395e22f) docs: 新增中英文隐私政策页面 |
 | 2026-07-22 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [dc0f206](https://github.com/HF-CYGG/LumaSR/commit/dc0f206417edddd23110746edbfeb3da5cba3de6) build: 完成 Google Play 0.3.4 发布构建 |
-| 2026-07-20 | [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | [b0e65f2](https://github.com/HF-CYGG/qq-emote-deck/commit/b0e65f20220a077fc6109877f777ef91b0eeb205) fix: 修复会话发送与面板交互异常 |
-| 2026-07-20 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [31a6c01](https://github.com/HF-CYGG/LumaSR/commit/31a6c01e6562ff569700066a2f7c9ac9d8de2905) fix: 缩短模型准备并恢复实时进度 |
-| 2026-07-19 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [361b7ee](https://github.com/HF-CYGG/LumaSR/commit/361b7ee7f02f97b43cb81cdb166a72c2807d7d66) feat: 支持滚动发行并发布 v0.3.3 |
-| 2026-07-19 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | [5437ac0](https://github.com/HF-CYGG/LumaSR/commit/5437ac0acd73f62e719373e45752bf1dec733a63) fix: 修复处理进度快照合并 |
 
 ### Project pulse
 
