@@ -200,20 +200,20 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
   <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-08-05 19:37 UTC` · only project repositories are counted.
+> Last generated: `2026-08-05 21:11 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-08-05 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [d52dd1e](https://github.com/HF-CYGG/Y-Link/commit/d52dd1e72952016bad285621f4c3656df5076f97) 合并后端依赖审计修复 (#33) |
+| 2026-08-05 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [42b7987](https://github.com/HF-CYGG/Y-Link/commit/42b798798616c56f6802ea0651ffff633de366ae) 修复后端依赖审计告警 |
+| 2026-08-05 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [95be338](https://github.com/HF-CYGG/Y-Link/commit/95be338a0ed06431fbb7287e23c9ef5a5fd4f983) 合并库存与认证安全修复 (#32) |
+| 2026-08-05 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [c508863](https://github.com/HF-CYGG/Y-Link/commit/c5088632a0c0963c63d681c5563cd1a697b9f654) 补齐合并前库存与事务回归 |
+| 2026-08-05 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [7f4dcbf](https://github.com/HF-CYGG/Y-Link/commit/7f4dcbf3b9a8e86297a00d7e386d006523f65cbe) 修复库存与认证安全不变式 |
 | 2026-07-27 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [1c8b99e](https://github.com/HF-CYGG/Y-Link/commit/1c8b99e40c7d60d9bb54c251b1d4d18758067d7f) 合并迁移恢复异常后的 O2O 超时回收修复 (#31) |
 | 2026-07-27 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [929b24c](https://github.com/HF-CYGG/Y-Link/commit/929b24c3616e1bca51d3dbac86c9ae0d49a36b1e) fix: 恢复异常后启动 O2O 超时回收 |
 | 2026-07-27 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [49f7d79](https://github.com/HF-CYGG/Y-Link/commit/49f7d79bf5a3e3f38da856fd33239285bae9cfe8) Merge pull request #30 from HF-CYGG/codex/fix-migration-cutover-rollback |
-| 2026-07-27 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [9d2d84f](https://github.com/HF-CYGG/Y-Link/commit/9d2d84f50730e21997f60013f53884688b375505) fix: 加固数据库迁移取消与回退状态机 |
-| 2026-07-26 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [87e0330](https://github.com/HF-CYGG/Y-Link/commit/87e033073d7f92b5e5d0f52e0abef87acf118d35) fix: 解耦迁移失败状态写入与资源清理 |
-| 2026-07-26 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [f5f65de](https://github.com/HF-CYGG/Y-Link/commit/f5f65de1370b676710eb829ed68be52151408a1b) fix: 撤销失败切换的数据库运行时覆盖 |
-| 2026-07-26 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [af8f930](https://github.com/HF-CYGG/Y-Link/commit/af8f930360bfb233d0af8e42f615a486aef2481b) Merge pull request #29 from HF-CYGG/codex/sqlite-mysql-auto-migration |
-| 2026-07-26 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [5c52eba](https://github.com/HF-CYGG/Y-Link/commit/5c52eba20f9b26cdf8fd8159cd60e529b4f11086) fix: 修复迁移审计、状态刷新与环境目录加载 |
 
 ### Project pulse
 
