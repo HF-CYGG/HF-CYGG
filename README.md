@@ -200,12 +200,13 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
   <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-08-07 09:00 UTC` · only project repositories are counted.
+> Last generated: `2026-08-07 10:53 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-08-07 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [b9c16d0](https://github.com/HF-CYGG/Y-Link/commit/b9c16d087f9a2224e5191d41d1d0e18eeacf0199) 合并库存回归、MySQL 部署风险与认证/配置性能修复 (#34) |
 | 2026-08-05 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [d52dd1e](https://github.com/HF-CYGG/Y-Link/commit/d52dd1e72952016bad285621f4c3656df5076f97) 合并后端依赖审计修复 (#33) |
 | 2026-08-05 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [42b7987](https://github.com/HF-CYGG/Y-Link/commit/42b798798616c56f6802ea0651ffff633de366ae) 修复后端依赖审计告警 |
 | 2026-08-05 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [95be338](https://github.com/HF-CYGG/Y-Link/commit/95be338a0ed06431fbb7287e23c9ef5a5fd4f983) 合并库存与认证安全修复 (#32) |
@@ -213,13 +214,12 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
 | 2026-08-05 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [7f4dcbf](https://github.com/HF-CYGG/Y-Link/commit/7f4dcbf3b9a8e86297a00d7e386d006523f65cbe) 修复库存与认证安全不变式 |
 | 2026-07-27 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [1c8b99e](https://github.com/HF-CYGG/Y-Link/commit/1c8b99e40c7d60d9bb54c251b1d4d18758067d7f) 合并迁移恢复异常后的 O2O 超时回收修复 (#31) |
 | 2026-07-27 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [929b24c](https://github.com/HF-CYGG/Y-Link/commit/929b24c3616e1bca51d3dbac86c9ae0d49a36b1e) fix: 恢复异常后启动 O2O 超时回收 |
-| 2026-07-27 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [49f7d79](https://github.com/HF-CYGG/Y-Link/commit/49f7d79bf5a3e3f38da856fd33239285bae9cfe8) Merge pull request #30 from HF-CYGG/codex/fix-migration-cutover-rollback |
 
 ### Project pulse
 
 | Project | Recent commits | Pulse | Last push |
 | --- | ---: | --- | --- |
-| [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-08-06 |
+| [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-08-07 |
 | [InfraCount](https://github.com/HF-CYGG/InfraCount) | 1 | `▰▱▱▱▱▱▱▱▱▱` | 2026-08-02 |
 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-25 |
 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-24 |
