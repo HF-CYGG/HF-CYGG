@@ -200,20 +200,20 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
   <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-08-12 21:47 UTC` · only project repositories are counted.
+> Last generated: `2026-08-12 22:42 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [60eda61](https://github.com/HF-CYGG/Y-Link/commit/60eda61245b3494e6d03c5778dc9e5ee8ae03cd6) Merge pull request #43 from HF-CYGG/feature/mobile-bootstrap |
+| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [c1be095](https://github.com/HF-CYGG/Y-Link/commit/c1be0955df2e7abd362a2816130bcd6da95e42b9) fix(mobile): 收紧网络与本地迁移安全边界 |
+| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [dcebfd6](https://github.com/HF-CYGG/Y-Link/commit/dcebfd694a93e8de423acca792a93c27059df325) docs(mobile): 接入初始化文档与检查流程 |
+| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [07b3f16](https://github.com/HF-CYGG/Y-Link/commit/07b3f1609867d14c158e13c04c231e29a2156ec7) feat(mobile): 初始化 Expo 移动端工程 |
+| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [6c008cb](https://github.com/HF-CYGG/Y-Link/commit/6c008cb8b184e1885a45d453b4ac339e7197acad) fix(mobile): 完善请求全阶段超时控制 |
+| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [00264d7](https://github.com/HF-CYGG/Y-Link/commit/00264d7c3ca52a4d48accdfddcc2731c0fbbb5d2) fix(mobile): 对齐请求契约与终止语义 |
+| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [f535801](https://github.com/HF-CYGG/Y-Link/commit/f535801f78c44365e3a90e8df7c5d98e740d25be) feat(mobile): 建立共享基础包骨架 |
 | 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [b2bfd8c](https://github.com/HF-CYGG/Y-Link/commit/b2bfd8ce3898b6f45240b918b6248d34c63383ef) 合并 SQLite 事务协调器入口收口修复 (#42) |
-| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [4601434](https://github.com/HF-CYGG/Y-Link/commit/4601434a8fbbbe926b55050dcc4018bbfb2b4cd1) fix: 收口 SQLite 事务协调器入口 |
-| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [467fd88](https://github.com/HF-CYGG/Y-Link/commit/467fd88a146360ea6a61f5319d41d4754a6b16a3) 合并写事务闸门契约门禁 (#40) |
-| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [93db085](https://github.com/HF-CYGG/Y-Link/commit/93db0855de1d89439c60e0dbd33069d7e67ceaec) ci: 合并数据库迁移 Actions 分片并降低队列压力 (#37) |
-| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [642640c](https://github.com/HF-CYGG/Y-Link/commit/642640c94c2b4f00e6f23531f0cf5f08a401e539) perf: 优化 Onebox 双数据库并发与加载性能 (#35) |
-| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [680aa37](https://github.com/HF-CYGG/Y-Link/commit/680aa371a8d1b878f352277de61323a52e3d7de3) merge: 同步依赖安全与 SQLite 回归门禁 |
-| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [53075a8](https://github.com/HF-CYGG/Y-Link/commit/53075a8a10e40802b14847d7f9f34d18664286cf) 合并 task8:verify 接入流水线与依赖安全告警修复 (#39) |
-| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [11f531d](https://github.com/HF-CYGG/Y-Link/commit/11f531d75582dd802d1c1691422aad6b6150cd80) fix: 补齐 MySQL 启动结构契约校验 |
 
 ### Project pulse
 
