@@ -200,20 +200,20 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
   <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-08-12 22:42 UTC` · only project repositories are counted.
+> Last generated: `2026-08-12 23:42 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [8198637](https://github.com/HF-CYGG/Y-Link/commit/81986371dee669c6876fc3492c799396f8abb202) Merge pull request #45 from HF-CYGG/feature/mobile-ui-foundation |
+| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [67a3f63](https://github.com/HF-CYGG/Y-Link/commit/67a3f63b5cf0a79fe32d5e2f4c42b62ab1f5255a) feat(mobile-ui): establish design system and core storefront screens |
 | 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [60eda61](https://github.com/HF-CYGG/Y-Link/commit/60eda61245b3494e6d03c5778dc9e5ee8ae03cd6) Merge pull request #43 from HF-CYGG/feature/mobile-bootstrap |
 | 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [c1be095](https://github.com/HF-CYGG/Y-Link/commit/c1be0955df2e7abd362a2816130bcd6da95e42b9) fix(mobile): 收紧网络与本地迁移安全边界 |
 | 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [dcebfd6](https://github.com/HF-CYGG/Y-Link/commit/dcebfd694a93e8de423acca792a93c27059df325) docs(mobile): 接入初始化文档与检查流程 |
 | 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [07b3f16](https://github.com/HF-CYGG/Y-Link/commit/07b3f1609867d14c158e13c04c231e29a2156ec7) feat(mobile): 初始化 Expo 移动端工程 |
 | 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [6c008cb](https://github.com/HF-CYGG/Y-Link/commit/6c008cb8b184e1885a45d453b4ac339e7197acad) fix(mobile): 完善请求全阶段超时控制 |
 | 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [00264d7](https://github.com/HF-CYGG/Y-Link/commit/00264d7c3ca52a4d48accdfddcc2731c0fbbb5d2) fix(mobile): 对齐请求契约与终止语义 |
-| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [f535801](https://github.com/HF-CYGG/Y-Link/commit/f535801f78c44365e3a90e8df7c5d98e740d25be) feat(mobile): 建立共享基础包骨架 |
-| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [b2bfd8c](https://github.com/HF-CYGG/Y-Link/commit/b2bfd8ce3898b6f45240b918b6248d34c63383ef) 合并 SQLite 事务协调器入口收口修复 (#42) |
 
 ### Project pulse
 
