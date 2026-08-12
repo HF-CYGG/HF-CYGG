@@ -200,20 +200,20 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
   <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-08-12 13:13 UTC` · only project repositories are counted.
+> Last generated: `2026-08-12 14:58 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [b2bfd8c](https://github.com/HF-CYGG/Y-Link/commit/b2bfd8ce3898b6f45240b918b6248d34c63383ef) 合并 SQLite 事务协调器入口收口修复 (#42) |
+| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [4601434](https://github.com/HF-CYGG/Y-Link/commit/4601434a8fbbbe926b55050dcc4018bbfb2b4cd1) fix: 收口 SQLite 事务协调器入口 |
+| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [467fd88](https://github.com/HF-CYGG/Y-Link/commit/467fd88a146360ea6a61f5319d41d4754a6b16a3) 合并写事务闸门契约门禁 (#40) |
+| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [93db085](https://github.com/HF-CYGG/Y-Link/commit/93db0855de1d89439c60e0dbd33069d7e67ceaec) ci: 合并数据库迁移 Actions 分片并降低队列压力 (#37) |
+| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [642640c](https://github.com/HF-CYGG/Y-Link/commit/642640c94c2b4f00e6f23531f0cf5f08a401e539) perf: 优化 Onebox 双数据库并发与加载性能 (#35) |
+| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [680aa37](https://github.com/HF-CYGG/Y-Link/commit/680aa371a8d1b878f352277de61323a52e3d7de3) merge: 同步依赖安全与 SQLite 回归门禁 |
 | 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [53075a8](https://github.com/HF-CYGG/Y-Link/commit/53075a8a10e40802b14847d7f9f34d18664286cf) 合并 task8:verify 接入流水线与依赖安全告警修复 (#39) |
-| 2026-08-07 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [2636375](https://github.com/HF-CYGG/Y-Link/commit/26363755d6bd3d731e319c6771019051d4bb9a77) 合并 SQLite 并发写事务串行化修复 (#38) |
-| 2026-08-07 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [b9c16d0](https://github.com/HF-CYGG/Y-Link/commit/b9c16d087f9a2224e5191d41d1d0e18eeacf0199) 合并库存回归、MySQL 部署风险与认证/配置性能修复 (#34) |
-| 2026-08-05 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [d52dd1e](https://github.com/HF-CYGG/Y-Link/commit/d52dd1e72952016bad285621f4c3656df5076f97) 合并后端依赖审计修复 (#33) |
-| 2026-08-05 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [42b7987](https://github.com/HF-CYGG/Y-Link/commit/42b798798616c56f6802ea0651ffff633de366ae) 修复后端依赖审计告警 |
-| 2026-08-05 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [95be338](https://github.com/HF-CYGG/Y-Link/commit/95be338a0ed06431fbb7287e23c9ef5a5fd4f983) 合并库存与认证安全修复 (#32) |
-| 2026-08-05 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [c508863](https://github.com/HF-CYGG/Y-Link/commit/c5088632a0c0963c63d681c5563cd1a697b9f654) 补齐合并前库存与事务回归 |
-| 2026-08-05 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [7f4dcbf](https://github.com/HF-CYGG/Y-Link/commit/7f4dcbf3b9a8e86297a00d7e386d006523f65cbe) 修复库存与认证安全不变式 |
+| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [11f531d](https://github.com/HF-CYGG/Y-Link/commit/11f531d75582dd802d1c1691422aad6b6150cd80) fix: 补齐 MySQL 启动结构契约校验 |
 
 ### Project pulse
 
