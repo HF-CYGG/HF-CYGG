@@ -200,20 +200,20 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
   <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-08-16 08:31 UTC` · only project repositories are counted.
+> Last generated: `2026-08-16 09:28 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-08-16 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [e1b34db](https://github.com/HF-CYGG/Y-Link/commit/e1b34db82c8e6c4d5ffe236d5eef1e95ca60e2e8) Merge pull request #47 from HF-CYGG/docs/mobile-auth-contract |
+| 2026-08-16 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [44b0b69](https://github.com/HF-CYGG/Y-Link/commit/44b0b69849aef8f7de6dcd63b0b361febaad8b4c) Merge pull request #48 from HF-CYGG/feature/mobile-workspace-foundation |
+| 2026-08-16 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [39699f3](https://github.com/HF-CYGG/Y-Link/commit/39699f33211d08fb25e8b24bf0d203cd2ba7aae7) fix(ci): 收窄 Web 依赖安全审计范围 |
+| 2026-08-16 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [1b90f3e](https://github.com/HF-CYGG/Y-Link/commit/1b90f3eb9b9c6d3691b30ff85dac80a2b4bacc8a) feat(mobile): establish workspace package consumption |
+| 2026-08-13 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [c726554](https://github.com/HF-CYGG/Y-Link/commit/c7265543e30bbcda4963cf0d67e4d6e690c0fd81) docs(mobile): define native authentication security contract |
 | 2026-08-13 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [c4c3080](https://github.com/HF-CYGG/Y-Link/commit/c4c30805df3ff5d38325eb8fbd59396e44721b65) Merge pull request #46 from HF-CYGG/feature/mobile-ui-commerce-flow |
 | 2026-08-13 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [f84762c](https://github.com/HF-CYGG/Y-Link/commit/f84762c4d94aa12bd23f06045b5c98c574047b66) Merge pull request #44 from HF-CYGG/feature/mobile-contract-foundation |
 | 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [dfd89b6](https://github.com/HF-CYGG/Y-Link/commit/dfd89b6febb9b81cd0cde62cdf1ee7ca74eca3fd) fix(docker): 将共享 Contract 纳入 Onebox 构建上下文 |
-| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [22016c3](https://github.com/HF-CYGG/Y-Link/commit/22016c333f8bb5d0e1bcc0da596afe3806cd59e8) feat(mobile-ui): complete commerce orders feedback and profile mock flows |
-| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [8198637](https://github.com/HF-CYGG/Y-Link/commit/81986371dee669c6876fc3492c799396f8abb202) Merge pull request #45 from HF-CYGG/feature/mobile-ui-foundation |
-| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [e869329](https://github.com/HF-CYGG/Y-Link/commit/e8693297753c5beefc3336f1a7fb792656565f6c) fix(docker): 将共享 Contract 纳入前端构建上下文 |
-| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [67a3f63](https://github.com/HF-CYGG/Y-Link/commit/67a3f63b5cf0a79fe32d5e2f4c42b62ab1f5255a) feat(mobile-ui): establish design system and core storefront screens |
-| 2026-08-12 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [568b34b](https://github.com/HF-CYGG/Y-Link/commit/568b34b6182fff0e5b5e9700f0f2866e5d297628) refactor(contract): 建立 Mobile/Web 共享 API Contract |
 
 ### Project pulse
 
