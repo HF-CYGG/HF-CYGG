@@ -200,20 +200,20 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
   <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-08-23 15:23 UTC` · only project repositories are counted.
+> Last generated: `2026-08-23 16:27 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [11baf80](https://github.com/HF-CYGG/Dawn-Course/commit/11baf805f4be59866860d368d32094b82ecc957f) chore: temporary base64 newline probe |
+| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [46f4dc4](https://github.com/HF-CYGG/Dawn-Course/commit/46f4dc45453d9a1670ba1aff6b631f972b644008) chore: temporary base64 whitespace probe |
+| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [f962776](https://github.com/HF-CYGG/Dawn-Course/commit/f96277684d35c0204cc1c8a33d2ab7230bd756a8) test |
 | 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [8fa17c9](https://github.com/HF-CYGG/Dawn-Course/commit/8fa17c94193a72b8e702a694c8bb77f7b7d60d03) chore: remove temporary base64 artifact |
 | 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [e5012bd](https://github.com/HF-CYGG/Dawn-Course/commit/e5012bdf796edc36c2f0dc46c20bd7a57f9600e9) chore: remove temporary preview marker |
 | 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [3e589fa](https://github.com/HF-CYGG/Dawn-Course/commit/3e589faa145c057506a45e539c835e194d07ed8a) chore: remove temporary preview artifact |
 | 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [fd7db10](https://github.com/HF-CYGG/Dawn-Course/commit/fd7db104415d54701e6b0b05dd0923e470cd06ab) chore: prepare README preview cleanup |
 | 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [e5a0d11](https://github.com/HF-CYGG/Dawn-Course/commit/e5a0d115dcea88468ccce85faab709835bd62021) test |
-| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [26802ac](https://github.com/HF-CYGG/Dawn-Course/commit/26802ac75c22092143f071d2582dfacc959addc1) chore: temporary file for preview update |
-| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [f3d9e0b](https://github.com/HF-CYGG/Dawn-Course/commit/f3d9e0b27d036023bba29518cc57c4c7e6b00b57) docs: add README screenshots |
-| 2026-08-23 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [ce96c07](https://github.com/HF-CYGG/Y-Link/commit/ce96c0702cf0fb51b3590f995765e2a94c54eff5) revert: remove misplaced Dawn-Course previews |
 
 ### Project pulse
 
