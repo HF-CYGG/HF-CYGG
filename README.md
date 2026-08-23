@@ -200,27 +200,27 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
   <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-08-23 14:24 UTC` · only project repositories are counted.
+> Last generated: `2026-08-23 15:23 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
 | Date | Repo | Commit |
 | --- | --- | --- |
-| 2026-08-21 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [c7f3293](https://github.com/HF-CYGG/Y-Link/commit/c7f3293f66b331b933f2831176fab07f3c894e40) Merge pull request #50 from HF-CYGG/feature/mobile-expo-patch-baseline |
-| 2026-08-21 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [7942558](https://github.com/HF-CYGG/Y-Link/commit/7942558ec2dc844f74d7aff34e0ea198205d73cd) chore(mobile): align Expo SDK 57 patch dependencies |
-| 2026-08-16 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [e1b34db](https://github.com/HF-CYGG/Y-Link/commit/e1b34db82c8e6c4d5ffe236d5eef1e95ca60e2e8) Merge pull request #47 from HF-CYGG/docs/mobile-auth-contract |
-| 2026-08-16 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [44b0b69](https://github.com/HF-CYGG/Y-Link/commit/44b0b69849aef8f7de6dcd63b0b361febaad8b4c) Merge pull request #48 from HF-CYGG/feature/mobile-workspace-foundation |
-| 2026-08-16 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [39699f3](https://github.com/HF-CYGG/Y-Link/commit/39699f33211d08fb25e8b24bf0d203cd2ba7aae7) fix(ci): 收窄 Web 依赖安全审计范围 |
-| 2026-08-16 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [1b90f3e](https://github.com/HF-CYGG/Y-Link/commit/1b90f3eb9b9c6d3691b30ff85dac80a2b4bacc8a) feat(mobile): establish workspace package consumption |
-| 2026-08-13 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [c726554](https://github.com/HF-CYGG/Y-Link/commit/c7265543e30bbcda4963cf0d67e4d6e690c0fd81) docs(mobile): define native authentication security contract |
-| 2026-08-13 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [c4c3080](https://github.com/HF-CYGG/Y-Link/commit/c4c30805df3ff5d38325eb8fbd59396e44721b65) Merge pull request #46 from HF-CYGG/feature/mobile-ui-commerce-flow |
+| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [8fa17c9](https://github.com/HF-CYGG/Dawn-Course/commit/8fa17c94193a72b8e702a694c8bb77f7b7d60d03) chore: remove temporary base64 artifact |
+| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [e5012bd](https://github.com/HF-CYGG/Dawn-Course/commit/e5012bdf796edc36c2f0dc46c20bd7a57f9600e9) chore: remove temporary preview marker |
+| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [3e589fa](https://github.com/HF-CYGG/Dawn-Course/commit/3e589faa145c057506a45e539c835e194d07ed8a) chore: remove temporary preview artifact |
+| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [fd7db10](https://github.com/HF-CYGG/Dawn-Course/commit/fd7db104415d54701e6b0b05dd0923e470cd06ab) chore: prepare README preview cleanup |
+| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [e5a0d11](https://github.com/HF-CYGG/Dawn-Course/commit/e5a0d115dcea88468ccce85faab709835bd62021) test |
+| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [26802ac](https://github.com/HF-CYGG/Dawn-Course/commit/26802ac75c22092143f071d2582dfacc959addc1) chore: temporary file for preview update |
+| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [f3d9e0b](https://github.com/HF-CYGG/Dawn-Course/commit/f3d9e0b27d036023bba29518cc57c4c7e6b00b57) docs: add README screenshots |
+| 2026-08-23 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [ce96c07](https://github.com/HF-CYGG/Y-Link/commit/ce96c0702cf0fb51b3590f995765e2a94c54eff5) revert: remove misplaced Dawn-Course previews |
 
 ### Project pulse
 
 | Project | Recent commits | Pulse | Last push |
 | --- | ---: | --- | --- |
-| [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-08-21 |
-| [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-08-07 |
+| [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-08-23 |
+| [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-08-23 |
 | [InfraCount](https://github.com/HF-CYGG/InfraCount) | 1 | `▰▱▱▱▱▱▱▱▱▱` | 2026-08-02 |
 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-25 |
 | [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | 3 | `▰▰▰▱▱▱▱▱▱▱` | 2026-07-20 |
