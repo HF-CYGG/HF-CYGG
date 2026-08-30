@@ -200,12 +200,13 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
   <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
 </p>
 
-> Last generated: `2026-08-30 04:16 UTC` · only project repositories are counted.
+> Last generated: `2026-08-30 10:19 UTC` · only project repositories are counted.
 
 ### Recent project commits
 
 | Date | Repo | Commit |
 | --- | --- | --- |
+| 2026-08-30 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [5a901fa](https://github.com/HF-CYGG/Y-Link/commit/5a901fad6f68e2e4ed10856a65c471d1d3c99d8e) feat: 支持批量创建部门共享账号 (#51) |
 | 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [11baf80](https://github.com/HF-CYGG/Dawn-Course/commit/11baf805f4be59866860d368d32094b82ecc957f) chore: temporary base64 newline probe |
 | 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [46f4dc4](https://github.com/HF-CYGG/Dawn-Course/commit/46f4dc45453d9a1670ba1aff6b631f972b644008) chore: temporary base64 whitespace probe |
 | 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [f962776](https://github.com/HF-CYGG/Dawn-Course/commit/f96277684d35c0204cc1c8a33d2ab7230bd756a8) test |
@@ -213,14 +214,13 @@ SwiftUI / iOS architecture / KMP / AI-assisted code review
 | 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [e5012bd](https://github.com/HF-CYGG/Dawn-Course/commit/e5012bdf796edc36c2f0dc46c20bd7a57f9600e9) chore: remove temporary preview marker |
 | 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [3e589fa](https://github.com/HF-CYGG/Dawn-Course/commit/3e589faa145c057506a45e539c835e194d07ed8a) chore: remove temporary preview artifact |
 | 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [fd7db10](https://github.com/HF-CYGG/Dawn-Course/commit/fd7db104415d54701e6b0b05dd0923e470cd06ab) chore: prepare README preview cleanup |
-| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [e5a0d11](https://github.com/HF-CYGG/Dawn-Course/commit/e5a0d115dcea88468ccce85faab709835bd62021) test |
 
 ### Project pulse
 
 | Project | Recent commits | Pulse | Last push |
 | --- | ---: | --- | --- |
+| [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-08-30 |
 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-08-25 |
-| [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-08-24 |
 | [InfraCount](https://github.com/HF-CYGG/InfraCount) | 1 | `▰▱▱▱▱▱▱▱▱▱` | 2026-08-02 |
 | [LumaSR](https://github.com/HF-CYGG/LumaSR) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-25 |
 | [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | 3 | `▰▰▰▱▱▱▱▱▱▱` | 2026-07-20 |
