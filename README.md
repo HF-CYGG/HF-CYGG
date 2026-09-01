@@ -1,248 +1,123 @@
-# ฅ^•ﻌ•^ฅ 你好，我是 夜喵cats
+# ฅ^•ﻌ•^ฅ 夜喵cats
 
 > 平时写点代码，拍点照片，飞飞无人机。  
 > 深夜修 bug 的时候，有“他”一直陪着我。
 
-```text
-HF-CYGG / 夜喵cats
-Student · Android / Web Developer · Furry
-China · he/him
-```
+`HF-CYGG` · Student · Android / Web Developer · Furry · China · he/him
+
+[About](#about) · [Stack](#stack) · [Current Work](#current-work) · [Activity](#activity) · [Contact](#contact)
 
 ---
 
-## 🐾 About
+## About
 
-我是 **夜喵cats**，GitHub ID 是 **HF-CYGG**。
+我是 **夜喵cats**，一名喜欢从真实问题出发做项目的大学生。平时主要接触 Android、Web、后端和自动化，做过课程表、物资管理、出入库系统、本地图像超分和 QQNT 插件等项目。
 
-大学生，平时会做一些 Android、Web、后端和自动化相关的小项目。很多项目都来自校园、社团和自己遇到的实际问题：课程表、物资管理、出库系统、本地图片超分、QQNT 插件之类。
+我会使用 AI 辅助开发，但更在意需求边界、数据质量、异常路径和长期维护。头像里的小家伙是“他”，也是另一个我——**夜喵 / YEMIAO**。
 
-一般使用 AI 辅助写代码，但不会做成“全自动交付”。需求能否拆分清楚、数据是否混乱、边界情况有没有超限、代码过几个月还能不能维护，这些都是我在努力完善的地方。
+## Stack
 
-头像里的小家伙是“他”也是另一个我 —— **夜喵 / YEMIAO**。
-
----
-
-## 🌙 Now
-
-现在主要维护以下仓库：
-
-| Repo | 最近在做什么 |
+| 方向 | 常用技术 |
 | --- | --- |
-| [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 课程表导入、本地数据、提醒、小组件和教务系统适配。 |
-| [Y-Link](https://github.com/HF-CYGG/Y-Link) | 文创出入库 / O2O 预订系统，继续补库存、报表、安全和部署细节。 |
-| [LumaSR](https://github.com/HF-CYGG/LumaSR) | Android 本地 AI 图片超分，重点在 ncnn / Vulkan、分块处理和极限导出。 |
-| [EquipTrack](https://github.com/HF-CYGG/EquipTrack) | 面向高校组织的物资追踪与管理系统。 |
-| [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | QQNT 表情相关插件。 |
-| [InfraCount](https://github.com/HF-CYGG/InfraCount) | 硬件计数器数据统计后端。 |
+| 主力语言 | `Kotlin` `TypeScript` `JavaScript` `Python` `Java` `Swift` |
+| 移动端 | `Android` `Jetpack Compose` `Room` `Hilt` `Flow` `WorkManager` `SwiftUI` |
+| Web 与后端 | `Vue 3` `Vite` `Pinia` `Node.js` `Express` `TypeORM` `REST API` |
+| 数据与交付 | `SQLite` `MySQL` `Docker` `Linux` `GitHub Actions` `Android NDK` `Vulkan` |
+| 正在学习 | `SwiftUI` `iOS Architecture` `KMP` `AI-assisted Code Review` |
 
----
+## Current Work
 
-## 🧩 Projects
+### Dawn Course / 破晓课程表
 
-### 📱 Dawn Course / 破晓课程表
+> 免费、轻量、开源的 Android 课程表 App，适配新旧正方、强智、青果等教务系统。
 
-> 免费、轻量、开源的 Android 课程表 App，已经适配新旧正方、强智、青果等教务系统。
+[Repository](https://github.com/HF-CYGG/Dawn-Course) · `Kotlin` `Jetpack Compose` `Room` `Hilt` `QuickJS`
 
-Repo: [HF-CYGG/Dawn-Course](https://github.com/HF-CYGG/Dawn-Course)
+目前主要完善教务导入、脚本解析、本地课程管理、提醒、小组件以及备份与同步能力。
 
-`Kotlin` · `Jetpack Compose` · `Room` · `Hilt` · `Flow` · `WorkManager` · `QuickJS`
-
-想把它做成一个真的能长期使用的学生工具，而不是只停留在课程表界面：
-
-* 教务系统导入和脚本解析
-* ICS 导入、本地课程管理
-* 上课提醒、小组件
-* 备份 / 还原、WebDAV 同步
-* 本地优先的数据结构
-
----
-
-### 🔗 Y-Link
+### Y-Link
 
 > 基于 Vue 3、Express 和 TypeORM 的文创产品出入库与 O2O 预订系统。
 
-Repo: [HF-CYGG/Y-Link](https://github.com/HF-CYGG/Y-Link)
+[Repository](https://github.com/HF-CYGG/Y-Link) · `Vue 3` `TypeScript` `Express` `TypeORM` `SQLite` `MySQL` `Docker`
 
-`Vue 3` · `TypeScript` · `Express` · `TypeORM` · `SQLite` · `MySQL` · `Docker`
+覆盖线上预订、线下核销、库存与供货、客户反馈、权限安全和 Onebox 部署等完整业务流程。
 
-这个项目更像一个完整业务系统，管理端和客户端都在里面：
+### LumaSR
 
-* 线上预订、线下核销
-* 出库追踪、供货入库
-* 客户反馈、附件处理
-* 亮暗主题、移动端适配
-* Docker / Onebox 部署
-* SQLite 到 MySQL 的迁移方案
+> 面向 Android 的本地 AI 图像超分工具，使用 ncnn 与 Vulkan 完成离线推理。
 
----
+[Repository](https://github.com/HF-CYGG/LumaSR) · `Kotlin` `Jetpack Compose` `Android NDK` `ncnn` `Vulkan`
 
-### 🌌 LumaSR
+目前重点关注分块处理、画质对比、超大图导出、OOM 保护和不同超分模型的稳定性。
 
-> 面向 Android 的本地 AI 图像超分工具，基于 ncnn 与 Vulkan 加速做离线推理。
+### Other Projects
 
-Repo: [HF-CYGG/LumaSR](https://github.com/HF-CYGG/LumaSR)
+| 项目 | 简介 |
+| --- | --- |
+| [EquipTrack](https://github.com/HF-CYGG/EquipTrack) | 面向高校组织的物资追踪与管理系统；另有独立的 [服务端](https://github.com/HF-CYGG/HF-CYGG-equiptrack-server)。 |
+| [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | QQNT 表情包增强插件。 |
+| [InfraCount](https://github.com/HF-CYGG/InfraCount) | 硬件计数器数据统计后端。 |
+| [Alist-sync](https://github.com/HF-CYGG/Alist-sync) | Alist 同步相关脚本。 |
+| [Noctis-Portfolio](https://github.com/HF-CYGG/Noctis-Portfolio) | 个人作品集页面。 |
+| [DawnCourse-ios](https://github.com/HF-CYGG/DawnCourse-ios) | Dawn Course 的 iOS 端探索。 |
 
-`Kotlin` · `Jetpack Compose` · `Android NDK` · `ncnn` · `Vulkan` · `Waifu2x` · `RealCUGAN`
+## Working Style
 
-现在重点在稳定性和处理体验：
+我的项目通常从一个真实场景开始：某个流程太麻烦、某类数据需要整理，或者有人希望把想法真正做出来。我会先让核心流程可靠地运行，再逐步打磨界面、数据流、错误处理和性能。
 
-* Waifu2x / RealCUGAN 等模型支持
-* 本地离线推理，不依赖云端
-* 分块处理进度预览
-* 前后画质对比
-* 超大图极限导出和 OOM 保护
+对我来说，项目最终应当成为可以交付和长期使用的 Android App、Web 服务、Docker 镜像或其他完整形态，而不只是停留在演示阶段。
 
----
-
-### 📦 EquipTrack
-
-> 面向组织、社团、实验室的物资追踪与管理系统。
-
-Repo: [HF-CYGG/EquipTrack](https://github.com/HF-CYGG/EquipTrack)  
-Server: [HF-CYGG/HF-CYGG-equiptrack-server](https://github.com/HF-CYGG/HF-CYGG-equiptrack-server)
-
-`Android` · `Kotlin` · `Node.js` · `TypeScript` · `Express` · `Docker`
-
-主要解决物资从登记、借用、审批到归还的闭环问题。它不复杂，但权限和状态流转必须清楚。
-
----
-
-### 🧸 qq-emote-deck
-
-> QQNT 相关插件 / 表情包增强工具。
-
-Repo: [HF-CYGG/qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck)
-
-做这个主要是因为表情包真的太多了，插件稳定性也有待提高。
-
----
-
-### 🧮 InfraCount
-
-> 基于淘宝商家硬件的计数器统计后端。
-
-Repo: [HF-CYGG/InfraCount](https://github.com/HF-CYGG/InfraCount)
-
-偏后端和数据统计的小项目，用来处理硬件侧传来的计数数据。
-
----
-
-### 🛠️ Side quests
-
-一些暂时不算主线、但还会偶尔维护的小东西：
-
-* [Alist-sync](https://github.com/HF-CYGG/Alist-sync) — Alist 同步相关脚本。
-* [Noctis-Portfolio](https://github.com/HF-CYGG/Noctis-Portfolio) — 我的个人作品集页面。
-* [DawnCourse-ios](https://github.com/HF-CYGG/DawnCourse-ios) — Dawn Course 的 iOS 端探索。
-
----
-
-## 🧰 Stack
-
-```text
-Languages:
-Kotlin / TypeScript / JavaScript / Python / Java / Swift
-
-Mobile:
-Android / Jetpack Compose / SwiftUI
-
-Frontend:
-Vue 3 / Vite / Pinia / HTML / CSS
-
-Backend:
-Node.js / Express / TypeORM / REST API
-
-Database:
-Room / SQLite / MySQL / JSON-based storage
-
-Tools:
-Git / Docker / Linux / GitHub Actions / Android Studio / Xcode
-
-Currently learning:
-SwiftUI / iOS architecture / KMP / AI-assisted code review
-```
-
----
-
-## 🐱 My Way
-
-我的项目通常不是从“我要用什么技术栈”开始，而是先从一个真实场景开始：生活实践里遇到的问题、别人委托我解决的需求、某个流程太麻烦，或者某类数据需要被整理。
-
-确定要解决什么之后，我会从框架开始一点点搭起来。先让整体流程跑通，再把前端慢慢调成我想要的样子。对我来说，前端不只是“能用”，它也应该像一件看起来顺眼、摸起来舒服的艺术品。
-
-后端则是另一种打磨：让数据流更清楚，让接口更稳定，让处理速度更快，也让系统在出错时更容易排查。
-
-最后再把它打包成 Docker 镜像、Android App、网页服务，或者其他可以真正交付和长期运行的形态。到这一步，一个项目才更接近我心里的“完成”。
-
----
-
-## 📊 GitHub Activity
+## Activity
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=3BA4FF&center=true&vCenter=true&width=720&lines=code+notes+from+a+blue+cat;late-night+commits+%2F+quiet+builds;building+small+useful+things+slowly;debug+%E2%86%92+refine+%E2%86%92+ship"
-    alt="Typing SVG"
-  />
+  <a href="https://github.com/HF-CYGG">
+    <img height="165" src="https://github-stats-extended.vercel.app/api?username=HF-CYGG&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;hide_rank=true&amp;theme=transparent&amp;locale=cn&amp;custom_title=GitHub%20Overview" alt="HF-CYGG 的 GitHub 公开仓库统计概览" />
+  </a>
+  <a href="https://github.com/HF-CYGG?tab=repositories">
+    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HF-CYGG&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent&amp;custom_title=Repository%20Languages" alt="HF-CYGG 的公开仓库语言占比" />
+  </a>
 </p>
 
+<sub>语言卡统计公开、非 fork 仓库中的代码占比，不代表个人技能熟练度。</sub>
+
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=HF-CYGG&bg_color=0d1117&color=7aa2f7&line=3fb950&point=8b949e&area=true&hide_border=true&radius=14&title_color=7aa2f7&custom_title=%E5%A4%9C%E5%96%B5cats%27s%20Contribution%20Graph"
-    alt="GitHub Activity Graph"
-  />
+  <a href="https://tokscale.ai/u/HF-CYGG">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://tokscale.ai/api/embed/HF-CYGG/svg?template=minimal&amp;color=monochrome&amp;theme=dark&amp;period=all&amp;sort=tokens&amp;tokens=compact&amp;cost=compact&amp;rank=percent" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://tokscale.ai/api/embed/HF-CYGG/svg?template=minimal&amp;color=monochrome&amp;theme=light&amp;period=all&amp;sort=tokens&amp;tokens=compact&amp;cost=compact&amp;rank=percent" />
+      <img width="600" src="https://tokscale.ai/api/embed/HF-CYGG/svg?template=minimal&amp;color=monochrome&amp;theme=light&amp;period=all&amp;sort=tokens&amp;tokens=compact&amp;cost=compact&amp;rank=percent" alt="HF-CYGG 的 Tokscale AI 编程工具使用统计" />
+    </picture>
+  </a>
 </p>
 
 <!-- RECENT_ACTIVITY:START -->
 <p align="center">
-  <img src="https://img.shields.io/badge/project_repos-6-7aa2f7?style=for-the-badge&labelColor=1f2335" alt="Project Repos" />
-  <img src="https://img.shields.io/badge/recent_commits-34-9ece6a?style=for-the-badge&labelColor=1f2335" alt="Recent Commits" />
-  <img src="https://img.shields.io/badge/profile_repo-excluded-f7768e?style=for-the-badge&labelColor=1f2335" alt="Profile repository excluded" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/recent-project-commits.svg#gh-dark-mode-only" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/recent-project-commits.svg#gh-light-mode-only" />
+    <img height="230" src="./assets/generated/recent-project-commits.svg#gh-light-mode-only" alt="HF-CYGG 最近项目提交动态卡片" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/project-pulse.svg#gh-dark-mode-only" />
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/project-pulse.svg#gh-light-mode-only" />
+    <img height="230" src="./assets/generated/project-pulse.svg#gh-light-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
+  </picture>
 </p>
 
-> Last generated: `2026-09-01 07:26 UTC` · only project repositories are counted.
-
-### Recent project commits
-
-| Date | Repo | Commit |
-| --- | --- | --- |
-| 2026-08-30 | [Y-Link](https://github.com/HF-CYGG/Y-Link) | [5a901fa](https://github.com/HF-CYGG/Y-Link/commit/5a901fad6f68e2e4ed10856a65c471d1d3c99d8e) feat: 支持批量创建部门共享账号 (#51) |
-| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [11baf80](https://github.com/HF-CYGG/Dawn-Course/commit/11baf805f4be59866860d368d32094b82ecc957f) chore: temporary base64 newline probe |
-| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [46f4dc4](https://github.com/HF-CYGG/Dawn-Course/commit/46f4dc45453d9a1670ba1aff6b631f972b644008) chore: temporary base64 whitespace probe |
-| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [f962776](https://github.com/HF-CYGG/Dawn-Course/commit/f96277684d35c0204cc1c8a33d2ab7230bd756a8) test |
-| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [8fa17c9](https://github.com/HF-CYGG/Dawn-Course/commit/8fa17c94193a72b8e702a694c8bb77f7b7d60d03) chore: remove temporary base64 artifact |
-| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [e5012bd](https://github.com/HF-CYGG/Dawn-Course/commit/e5012bdf796edc36c2f0dc46c20bd7a57f9600e9) chore: remove temporary preview marker |
-| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [3e589fa](https://github.com/HF-CYGG/Dawn-Course/commit/3e589faa145c057506a45e539c835e194d07ed8a) chore: remove temporary preview artifact |
-| 2026-08-23 | [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | [fd7db10](https://github.com/HF-CYGG/Dawn-Course/commit/fd7db104415d54701e6b0b05dd0923e470cd06ab) chore: prepare README preview cleanup |
-
-### Project pulse
-
-| Project | Recent commits | Pulse | Last push |
-| --- | ---: | --- | --- |
-| [Dawn-Course](https://github.com/HF-CYGG/Dawn-Course) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-08-31 |
-| [InfraCount](https://github.com/HF-CYGG/InfraCount) | 1 | `▰▱▱▱▱▱▱▱▱▱` | 2026-08-31 |
-| [Y-Link](https://github.com/HF-CYGG/Y-Link) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-08-30 |
-| [LumaSR](https://github.com/HF-CYGG/LumaSR) | 10 | `▰▰▰▰▰▰▰▰▰▰` | 2026-07-25 |
-| [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | 3 | `▰▰▰▱▱▱▱▱▱▱` | 2026-07-20 |
-| [EquipTrack](https://github.com/HF-CYGG/EquipTrack) | 0 | `▱▱▱▱▱▱▱▱▱▱` | 2026-02-15 |
-
-<sub>Generated by GitHub Actions. Tracked project repositories only.</sub>
+<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-08-31 19:32 UTC</sub>
 <!-- RECENT_ACTIVITY:END -->
 
----
+## Contact
 
-## 📫 Contact
-
-```text
-Portfolio: https://hf-cygg.github.io/Noctis-Portfolio/
-GitHub:    https://github.com/HF-CYGG
-Gitee:     https://gitee.com/YeMiao_cats
-X:         @yyh163
-Email:     yyh1677696627@outlook.com
-```
+- Portfolio: [Noctis Portfolio](https://hf-cygg.github.io/Noctis-Portfolio/)
+- GitHub: [HF-CYGG](https://github.com/HF-CYGG)
+- Gitee: [YeMiao_cats](https://gitee.com/YeMiao_cats)
+- X: [@yyh163](https://x.com/yyh163)
+- Email: [yyh1677696627@outlook.com](mailto:yyh1677696627@outlook.com)
 
 ---
 
-<p align='center'>
+<p align="center">
   <sub>漫漫长夜，慢慢写代码。</sub>
 </p>
