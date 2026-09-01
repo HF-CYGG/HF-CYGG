@@ -111,8 +111,8 @@ test("README uses full-row jstrieb stats and detailed Tokscale cards", async () 
   assert.doesNotMatch(readme, /github-stats-extended/);
   assert.match(readme, /assets\/generated\/github-overview\.svg#gh-dark-mode-only/);
   assert.match(readme, /assets\/generated\/github-languages\.svg#gh-dark-mode-only/);
-  assert.equal((readme.match(/<picture>/g) ?? []).length, 3);
-  assert.equal((readme.match(/width="49%"/g) ?? []).length, 6);
+  assert.equal((readme.match(/<picture>/g) ?? []).length, 7);
+  assert.equal((readme.match(/width="49%"/g) ?? []).length, 10);
 
   assert.match(
     readme,
@@ -163,10 +163,28 @@ test("README presents skills, projects, working principles, and contact links as
     readme.indexOf("## Featured Projects"),
     readme.indexOf("## More Projects")
   );
-  assert.equal((featured.match(/<table width="100%">/g) ?? []).length, 2);
-  assert.equal((featured.match(/<td width="50%"/g) ?? []).length, 2);
-  assert.equal((featured.match(/<td width="62%"/g) ?? []).length, 1);
-  assert.equal((featured.match(/<td width="38%"/g) ?? []).length, 1);
+  assert.doesNotMatch(featured, /<table|<td|<ul>/);
+  assert.equal((featured.match(/<picture>/g) ?? []).length, 4);
+  assert.equal((featured.match(/<img width="49%"/g) ?? []).length, 4);
+  assert.doesNotMatch(featured, /<img width="100%"/);
+  for (const slug of ["dawn-course", "y-link", "lumasr", "equiptrack"]) {
+    assert.match(featured, new RegExp(`featured-${slug}\\.svg#gh-dark-mode-only`));
+    assert.match(featured, new RegExp(`featured-${slug}-mobile\\.svg#gh-light-mode-only`));
+  }
+  assert.match(featured, /alt="Dawn Course 项目介绍卡片"/);
+  assert.match(featured, /alt="Y-Link 项目介绍卡片"/);
+  assert.match(featured, /alt="LumaSR 项目介绍卡片"/);
+  assert.match(featured, /alt="EquipTrack 项目介绍卡片"/);
+  assert.doesNotMatch(
+    featured,
+    /github-readme-stats|github-project-cards|profilekit\.vercel\.app/
+  );
+
+  const moreProjects = readme.slice(
+    readme.indexOf("## More Projects"),
+    readme.indexOf("## How I Build")
+  );
+  assert.doesNotMatch(moreProjects, /EquipTrack/);
 
   const contact = readme.slice(readme.indexOf("## Contact"));
   assert.equal((contact.match(/img\.shields\.io\/badge\//g) ?? []).length, 5);

@@ -50,7 +50,7 @@
   <img width="49%" src="./assets/generated/project-pulse.svg#gh-light-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
 </div>
 
-<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-01 16:05 UTC</sub>
+<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-01 16:15 UTC</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## Stack
@@ -76,45 +76,47 @@
 
 ## Featured Projects
 
-<p>
+<div>
   <a href="https://github.com/HF-CYGG/Dawn-Course">
     <picture>
       <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/generated/featured-dawn-course-mobile.svg#gh-dark-mode-only" />
       <source media="(prefers-color-scheme: light) and (max-width: 600px), (prefers-color-scheme: no-preference) and (max-width: 600px)" srcset="./assets/generated/featured-dawn-course-mobile.svg#gh-light-mode-only" />
       <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/featured-dawn-course.svg#gh-dark-mode-only" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/featured-dawn-course.svg#gh-light-mode-only" />
-      <img width="100%" src="./assets/generated/featured-dawn-course.svg#gh-light-mode-only" alt="Dawn Course 项目介绍卡片" />
+      <img width="49%" src="./assets/generated/featured-dawn-course.svg#gh-light-mode-only" alt="Dawn Course 项目介绍卡片" />
     </picture>
   </a>
-</p>
-
-<p>
   <a href="https://github.com/HF-CYGG/Y-Link">
     <picture>
       <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/generated/featured-y-link-mobile.svg#gh-dark-mode-only" />
       <source media="(prefers-color-scheme: light) and (max-width: 600px), (prefers-color-scheme: no-preference) and (max-width: 600px)" srcset="./assets/generated/featured-y-link-mobile.svg#gh-light-mode-only" />
       <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/featured-y-link.svg#gh-dark-mode-only" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/featured-y-link.svg#gh-light-mode-only" />
-      <img width="100%" src="./assets/generated/featured-y-link.svg#gh-light-mode-only" alt="Y-Link 项目介绍卡片" />
+      <img width="49%" src="./assets/generated/featured-y-link.svg#gh-light-mode-only" alt="Y-Link 项目介绍卡片" />
     </picture>
   </a>
-</p>
-
-<p>
   <a href="https://github.com/HF-CYGG/LumaSR">
     <picture>
       <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/generated/featured-lumasr-mobile.svg#gh-dark-mode-only" />
       <source media="(prefers-color-scheme: light) and (max-width: 600px), (prefers-color-scheme: no-preference) and (max-width: 600px)" srcset="./assets/generated/featured-lumasr-mobile.svg#gh-light-mode-only" />
       <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/featured-lumasr.svg#gh-dark-mode-only" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/featured-lumasr.svg#gh-light-mode-only" />
-      <img width="100%" src="./assets/generated/featured-lumasr.svg#gh-light-mode-only" alt="LumaSR 项目介绍卡片" />
+      <img width="49%" src="./assets/generated/featured-lumasr.svg#gh-light-mode-only" alt="LumaSR 项目介绍卡片" />
     </picture>
   </a>
-</p>
+  <a href="https://github.com/HF-CYGG/EquipTrack">
+    <picture>
+      <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/generated/featured-equiptrack-mobile.svg#gh-dark-mode-only" />
+      <source media="(prefers-color-scheme: light) and (max-width: 600px), (prefers-color-scheme: no-preference) and (max-width: 600px)" srcset="./assets/generated/featured-equiptrack-mobile.svg#gh-light-mode-only" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/featured-equiptrack.svg#gh-dark-mode-only" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/featured-equiptrack.svg#gh-light-mode-only" />
+      <img width="49%" src="./assets/generated/featured-equiptrack.svg#gh-light-mode-only" alt="EquipTrack 项目介绍卡片" />
+    </picture>
+  </a>
+</div>
 
 ## More Projects
 
-- **[EquipTrack](https://github.com/HF-CYGG/EquipTrack)** — 面向高校组织的物资追踪与管理系统，配有独立的 [服务端](https://github.com/HF-CYGG/HF-CYGG-equiptrack-server)。
 - **[qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck)** — QQNT 表情包增强插件。
 - **[InfraCount](https://github.com/HF-CYGG/InfraCount)** — 硬件计数器数据统计后端。
 - **[Alist-sync](https://github.com/HF-CYGG/Alist-sync)** — Alist 同步相关脚本。

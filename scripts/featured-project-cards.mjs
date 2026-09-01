@@ -2,45 +2,62 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
-const DESKTOP_SIZE = { width: 760, height: 170 };
-const MOBILE_SIZE = { width: 360, height: 224 };
+const DESKTOP_SIZE = { width: 370, height: 118 };
+const MOBILE_SIZE = { width: 180, height: 150 };
 
 export const FEATURED_PROJECTS = [
   {
     slug: "dawn-course",
-    kicker: "ANDROID · CAMPUS TOOL",
     title: "Dawn Course / 破晓课程表",
+    mobileTitle: "Dawn Course / 破晓",
     description: [
       "免费、轻量、开源的 Android 课程表 App",
       "适配多类高校教务系统与本地课程管理",
     ],
     techs: ["Kotlin", "Jetpack Compose", "Room", "QuickJS"],
-    focus: "多教务系统课程导入 · 提醒与小组件 · 备份与同步",
-    mobileFocus: ["多教务系统课程导入 · 提醒与小组件", "备份、同步与脚本解析"],
+    mobileTechs: ["Kotlin", "Compose", "Room", "QuickJS"],
+    mobileDescription: ["免费、轻量的 Android 课程表", "适配多类高校教务系统"],
+    focus: "教务导入 · 提醒组件 · 备份同步",
+    mobileFocus: ["教务导入 · 提醒组件", "备份同步"],
   },
   {
     slug: "y-link",
-    kicker: "WEB · FULL STACK",
     title: "Y-Link",
     description: [
       "文创产品出入库与 O2O 预订系统",
       "覆盖预订、核销、库存、供货与权限安全",
     ],
     techs: ["Vue 3", "TypeScript", "Express", "MySQL"],
-    focus: "线上预订 · 库存流转 · 客户反馈 · Onebox 部署",
-    mobileFocus: ["线上预订 · 库存流转 · 客户反馈", "权限安全与 Onebox 部署"],
+    mobileTechs: ["Vue 3", "TS", "Express", "MySQL"],
+    mobileDescription: ["文创产品出入库与 O2O 系统", "覆盖预订、核销与库存流转"],
+    focus: "线上预订 · 权限安全 · Onebox 部署",
+    mobileFocus: ["线上预订 · 权限安全", "Onebox 部署"],
   },
   {
     slug: "lumasr",
-    kicker: "ANDROID · ON-DEVICE AI",
     title: "LumaSR",
     description: [
       "完全离线的 Android AI 图像超分工具",
       "使用 ncnn 与 Vulkan 完成端侧推理",
     ],
     techs: ["Kotlin", "Android NDK", "ncnn", "Vulkan"],
-    focus: "分块处理 · 超大图导出 · OOM 保护 · 多模型稳定性",
+    mobileTechs: ["Kotlin", "Android NDK", "ncnn", "Vulkan"],
+    mobileDescription: ["完全离线的 Android AI 超分工具", "ncnn + Vulkan 端侧推理"],
+    focus: "分块处理 · 超大图导出 · OOM 保护",
     mobileFocus: ["分块处理 · 超大图导出", "OOM 保护 · 多模型稳定性"],
+  },
+  {
+    slug: "equiptrack",
+    title: "EquipTrack",
+    description: [
+      "面向高校组织的物资追踪与管理系统",
+      "覆盖登记、借用、审批与归还流程",
+    ],
+    techs: ["Kotlin", "Node.js", "Docker", "MySQL"],
+    mobileTechs: ["Kotlin", "Node.js", "Docker", "MySQL"],
+    mobileDescription: ["高校组织物资追踪系统", "覆盖借用、审批与归还"],
+    focus: "物资追踪 · 权限流转 · 独立服务端",
+    mobileFocus: ["物资追踪 · 权限流转", "独立服务端"],
   },
 ];
 
@@ -53,26 +70,33 @@ function escapeXml(value) {
     .replace(/'/g, "&apos;");
 }
 
-function cardStyle() {
+function cardStyle({ mobile }) {
+  const typography = mobile
+    ? `.title { font: 600 13.5px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .body { font: 9.5px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .muted { font: 9px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .pill-text { font: 600 8.5px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .link { font: 600 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }`
+    : `.title { font: 600 16px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .body { font: 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .muted { font: 10.5px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .pill-text { font: 600 9.5px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .link { font: 600 10px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }`;
+
   return `<style>
     .card { fill: #f6f8fa; stroke: #d0d7de; }
     .accent-line { fill: #6e7781; }
     .title, .link { fill: #0969da; }
     .body, .pill-text { fill: #24292f; }
-    .muted, .kicker { fill: #57606a; }
+    .muted { fill: #57606a; }
     .pill { fill: #eaeef2; }
-    .title { font: 600 21px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-    .body { font: 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-    .muted { font: 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-    .kicker { font: 600 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: 0.8px; }
-    .pill-text { font: 600 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
-    .link { font: 600 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    ${typography}
     @media (prefers-color-scheme: dark) {
       .card { fill: #161b22; stroke: #30363d; }
       .accent-line { fill: #8c959f; }
       .title, .link { fill: #58a6ff; }
       .body, .pill-text { fill: #f0f6fc; }
-      .muted, .kicker { fill: #8b949e; }
+      .muted { fill: #8b949e; }
       .pill { fill: #21262d; }
     }
     #gh-dark-mode-only:target .card { fill: #161b22; stroke: #30363d; }
@@ -81,35 +105,40 @@ function cardStyle() {
     #gh-dark-mode-only:target .link { fill: #58a6ff; }
     #gh-dark-mode-only:target .body,
     #gh-dark-mode-only:target .pill-text { fill: #f0f6fc; }
-    #gh-dark-mode-only:target .muted,
-    #gh-dark-mode-only:target .kicker { fill: #8b949e; }
+    #gh-dark-mode-only:target .muted { fill: #8b949e; }
     #gh-dark-mode-only:target .pill { fill: #21262d; }
   </style>`;
 }
 
-function estimatePillWidth(label) {
-  return Math.max(48, Math.round(Array.from(label).length * 7.2 + 20));
+function estimatePillWidth(label, { mobile }) {
+  const characterWidth = mobile ? 5.2 : 6.2;
+  const padding = mobile ? 14 : 16;
+  return Math.max(mobile ? 34 : 42, Math.round(Array.from(label).length * characterWidth + padding));
 }
 
 function renderPills(techs, { mobile }) {
-  const maxX = mobile ? 336 : 736;
-  const startX = 24;
-  const startY = mobile ? 116 : 110;
-  const rowHeight = 30;
+  const maxX = mobile ? 168 : 354;
+  const startX = mobile ? 12 : 16;
+  const startY = mobile ? 65 : 68;
+  const rowHeight = mobile ? 21 : 22;
+  const pillHeight = mobile ? 17 : 18;
+  const textInset = mobile ? 7 : 8;
+  const textBaseline = mobile ? 12 : 13;
+  const gap = mobile ? 5 : 6;
   let x = startX;
   let y = startY;
 
   return techs
     .map((tech) => {
-      const width = estimatePillWidth(tech);
+      const width = estimatePillWidth(tech, { mobile });
       if (x + width > maxX) {
         x = startX;
         y += rowHeight;
       }
 
-      const markup = `<rect class="pill" x="${x}" y="${y}" width="${width}" height="22" rx="5" />
-  <text class="pill-text" x="${x + 10}" y="${y + 15}">${escapeXml(tech)}</text>`;
-      x += width + 8;
+      const markup = `<rect class="pill" x="${x}" y="${y}" width="${width}" height="${pillHeight}" rx="4" />
+  <text class="pill-text" x="${x + textInset}" y="${y + textBaseline}">${escapeXml(tech)}</text>`;
+      x += width + gap;
       return markup;
     })
     .join("\n  ");
@@ -118,39 +147,43 @@ function renderPills(techs, { mobile }) {
 export function renderFeaturedProjectCard(project, { mobile = false } = {}) {
   const { width, height } = mobile ? MOBILE_SIZE : DESKTOP_SIZE;
   const description = project.description ?? [];
+  const visibleDescription = mobile ? project.mobileDescription ?? description : description;
   const focusLines = mobile ? project.mobileFocus ?? [project.focus] : [project.focus];
-  const descriptionY = mobile ? [80, 102] : [78, 98];
-  const focusY = mobile ? [188, 207] : [154];
+  const descriptionY = mobile ? [40, 54] : [43, 58];
+  const focusY = mobile ? [119, 134] : [106];
+  const textX = mobile ? 12 : 16;
 
-  const descriptionMarkup = description
+  const descriptionMarkup = visibleDescription
     .slice(0, 2)
     .map(
       (line, index) =>
-        `<text class="body" x="24" y="${descriptionY[index]}">${escapeXml(line)}</text>`
+        `<text class="body" x="${textX}" y="${descriptionY[index]}">${escapeXml(line)}</text>`
     )
     .join("\n  ");
   const focusMarkup = focusLines
     .slice(0, 2)
     .map(
       (line, index) =>
-        `<text class="muted" x="24" y="${focusY[index]}">${escapeXml(line)}</text>`
+        `<text class="muted" x="${textX}" y="${focusY[index]}">${escapeXml(line)}</text>`
     )
     .join("\n  ");
-  const linkX = mobile ? 336 : 736;
-  const linkY = mobile ? 25 : 154;
+  const linkX = mobile ? 168 : 354;
+  const linkY = mobile ? 21 : 22;
+  const titleText = mobile ? project.mobileTitle ?? project.title : project.title;
+  const techs = mobile ? project.mobileTechs ?? project.techs ?? [] : project.techs ?? [];
+  const linkText = mobile ? "↗" : "打开仓库 ↗";
 
   return `<svg id="gh-dark-mode-only" xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-labelledby="title description">
   <title id="title">${escapeXml(project.title)}</title>
-  <desc id="description">${escapeXml([...description, ...focusLines].join("。"))}</desc>
-  ${cardStyle()}
-  <rect class="card" x="0.5" y="0.5" width="${width - 1}" height="${height - 1}" rx="12" />
-  <rect class="accent-line" x="0" y="24" width="3" height="${height - 48}" rx="1.5" />
-  <text class="kicker" x="24" y="25">${escapeXml(project.kicker)}</text>
-  <text class="title" x="24" y="52">${escapeXml(project.title)}</text>
+  <desc id="description">${escapeXml([...description, ...(project.techs ?? []), ...focusLines].join("。"))}</desc>
+  ${cardStyle({ mobile })}
+  <rect class="card" x="0.5" y="0.5" width="${width - 1}" height="${height - 1}" rx="10" />
+  <rect class="accent-line" x="0" y="${mobile ? 12 : 14}" width="3" height="${mobile ? 126 : 90}" rx="1.5" />
+  <text class="title" x="${textX}" y="${mobile ? 21 : 22}">${escapeXml(titleText)}</text>
   ${descriptionMarkup}
-  ${renderPills(project.techs ?? [], { mobile })}
+  ${renderPills(techs, { mobile })}
   ${focusMarkup}
-  <text class="link" x="${linkX}" y="${linkY}" text-anchor="end">打开仓库 ↗</text>
+  <text class="link" x="${linkX}" y="${linkY}" text-anchor="end">${linkText}</text>
 </svg>
 `;
 }

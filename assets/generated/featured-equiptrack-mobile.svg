@@ -1,6 +1,6 @@
 <svg id="gh-dark-mode-only" xmlns="http://www.w3.org/2000/svg" width="180" height="150" viewBox="0 0 180 150" role="img" aria-labelledby="title description">
-  <title id="title">LumaSR</title>
-  <desc id="description">完全离线的 Android AI 图像超分工具。使用 ncnn 与 Vulkan 完成端侧推理。Kotlin。Android NDK。ncnn。Vulkan。分块处理 · 超大图导出。OOM 保护 · 多模型稳定性</desc>
+  <title id="title">EquipTrack</title>
+  <desc id="description">面向高校组织的物资追踪与管理系统。覆盖登记、借用、审批与归还流程。Kotlin。Node.js。Docker。MySQL。物资追踪 · 权限流转。独立服务端</desc>
   <style>
     .card { fill: #f6f8fa; stroke: #d0d7de; }
     .accent-line { fill: #6e7781; }
@@ -32,18 +32,18 @@
   </style>
   <rect class="card" x="0.5" y="0.5" width="179" height="149" rx="10" />
   <rect class="accent-line" x="0" y="12" width="3" height="126" rx="1.5" />
-  <text class="title" x="12" y="21">LumaSR</text>
-  <text class="body" x="12" y="40">完全离线的 Android AI 超分工具</text>
-  <text class="body" x="12" y="54">ncnn + Vulkan 端侧推理</text>
+  <text class="title" x="12" y="21">EquipTrack</text>
+  <text class="body" x="12" y="40">高校组织物资追踪系统</text>
+  <text class="body" x="12" y="54">覆盖借用、审批与归还</text>
   <rect class="pill" x="12" y="65" width="45" height="17" rx="4" />
   <text class="pill-text" x="19" y="77">Kotlin</text>
-  <rect class="pill" x="62" y="65" width="71" height="17" rx="4" />
-  <text class="pill-text" x="69" y="77">Android NDK</text>
-  <rect class="pill" x="12" y="86" width="35" height="17" rx="4" />
-  <text class="pill-text" x="19" y="98">ncnn</text>
-  <rect class="pill" x="52" y="86" width="45" height="17" rx="4" />
-  <text class="pill-text" x="59" y="98">Vulkan</text>
-  <text class="muted" x="12" y="119">分块处理 · 超大图导出</text>
-  <text class="muted" x="12" y="134">OOM 保护 · 多模型稳定性</text>
+  <rect class="pill" x="62" y="65" width="50" height="17" rx="4" />
+  <text class="pill-text" x="69" y="77">Node.js</text>
+  <rect class="pill" x="117" y="65" width="45" height="17" rx="4" />
+  <text class="pill-text" x="124" y="77">Docker</text>
+  <rect class="pill" x="12" y="86" width="40" height="17" rx="4" />
+  <text class="pill-text" x="19" y="98">MySQL</text>
+  <text class="muted" x="12" y="119">物资追踪 · 权限流转</text>
+  <text class="muted" x="12" y="134">独立服务端</text>
   <text class="link" x="168" y="21" text-anchor="end">↗</text>
 </svg>
