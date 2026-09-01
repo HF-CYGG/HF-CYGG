@@ -22,14 +22,14 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/github-overview.svg#gh-dark-mode-only" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/github-overview.svg#gh-light-mode-only" />
-      <img width="49.5%" src="./assets/generated/github-overview.svg#gh-light-mode-only" alt="HF-CYGG 的公开仓库 Stars 与贡献统计" />
+      <img width="49%" src="./assets/generated/github-overview.svg#gh-light-mode-only" alt="HF-CYGG 的公开仓库 Stars 与贡献统计" />
     </picture>
   </a>
   <a href="https://github.com/HF-CYGG?tab=repositories">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/github-languages.svg#gh-dark-mode-only" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/github-languages.svg#gh-light-mode-only" />
-      <img width="49.5%" src="./assets/generated/github-languages.svg#gh-light-mode-only" alt="HF-CYGG 的公开仓库语言占比" />
+      <img width="49%" src="./assets/generated/github-languages.svg#gh-light-mode-only" alt="HF-CYGG 的公开仓库语言占比" />
     </picture>
   </a>
 </div>
@@ -44,13 +44,13 @@
 
 <!-- RECENT_ACTIVITY:START -->
 <div>
-  <img width="49.5%" src="./assets/generated/recent-project-commits.svg#gh-dark-mode-only" alt="HF-CYGG 最近项目提交动态卡片" />
-  <img width="49.5%" src="./assets/generated/project-pulse.svg#gh-dark-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
-  <img width="49.5%" src="./assets/generated/recent-project-commits.svg#gh-light-mode-only" alt="HF-CYGG 最近项目提交动态卡片" />
-  <img width="49.5%" src="./assets/generated/project-pulse.svg#gh-light-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
+  <img width="49%" src="./assets/generated/recent-project-commits.svg#gh-dark-mode-only" alt="HF-CYGG 最近项目提交动态卡片" />
+  <img width="49%" src="./assets/generated/project-pulse.svg#gh-dark-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
+  <img width="49%" src="./assets/generated/recent-project-commits.svg#gh-light-mode-only" alt="HF-CYGG 最近项目提交动态卡片" />
+  <img width="49%" src="./assets/generated/project-pulse.svg#gh-light-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
 </div>
 
-<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-01 15:39 UTC</sub>
+<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-01 15:42 UTC</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## Stack

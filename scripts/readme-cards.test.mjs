@@ -86,7 +86,7 @@ test("README embed keeps two theme-aware activity cards on one full-width row", 
   assert.doesNotMatch(markup, /<picture>/);
   assert.doesNotMatch(markup, /align="center"/);
   assert.equal((markup.match(/<img\b/g) ?? []).length, 4);
-  assert.equal((markup.match(/width="49\.5%"/g) ?? []).length, 4);
+  assert.equal((markup.match(/width="49%"/g) ?? []).length, 4);
   assert.match(
     markup,
     /recent-project-commits\.svg#gh-dark-mode-only/
@@ -112,7 +112,7 @@ test("README uses full-row jstrieb stats and detailed Tokscale cards", async () 
   assert.match(readme, /assets\/generated\/github-overview\.svg#gh-dark-mode-only/);
   assert.match(readme, /assets\/generated\/github-languages\.svg#gh-dark-mode-only/);
   assert.equal((readme.match(/<picture>/g) ?? []).length, 3);
-  assert.equal((readme.match(/width="49\.5%"/g) ?? []).length, 6);
+  assert.equal((readme.match(/width="49%"/g) ?? []).length, 6);
 
   assert.match(
     readme,

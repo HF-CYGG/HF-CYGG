@@ -146,7 +146,7 @@ function renderThemeImage(path, alt, theme) {
   const source = escapeXml(`./${path}`);
   const description = escapeXml(alt);
 
-  return `<img width="49.5%" src="${source}#gh-${theme}-mode-only" alt="${description}" />`;
+  return `<img width="49%" src="${source}#gh-${theme}-mode-only" alt="${description}" />`;
 }
 
 export function renderActivityCardsEmbed({
