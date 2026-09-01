@@ -2,7 +2,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 
-const DESKTOP_SIZE = { width: 370, height: 118 };
+const DESKTOP_SIZE = { width: 415, height: 118 };
 const MOBILE_SIZE = { width: 180, height: 150 };
 
 export const FEATURED_PROJECTS = [
@@ -117,7 +117,7 @@ function estimatePillWidth(label, { mobile }) {
 }
 
 function renderPills(techs, { mobile }) {
-  const maxX = mobile ? 168 : 354;
+  const maxX = mobile ? 168 : 399;
   const startX = mobile ? 12 : 16;
   const startY = mobile ? 65 : 68;
   const rowHeight = mobile ? 21 : 22;
@@ -167,7 +167,7 @@ export function renderFeaturedProjectCard(project, { mobile = false } = {}) {
         `<text class="muted" x="${textX}" y="${focusY[index]}">${escapeXml(line)}</text>`
     )
     .join("\n  ");
-  const linkX = mobile ? 168 : 354;
+  const linkX = mobile ? 168 : 399;
   const linkY = mobile ? 21 : 22;
   const titleText = mobile ? project.mobileTitle ?? project.title : project.title;
   const techs = mobile ? project.mobileTechs ?? project.techs ?? [] : project.techs ?? [];

@@ -10,7 +10,7 @@ test("desktop featured project card is compact, theme-aware, and accessible", ()
   const svg = renderFeaturedProjectCard(FEATURED_PROJECTS[0]);
 
   assert.match(svg, /^<svg\b/);
-  assert.match(svg, /width="370" height="118"/);
+  assert.match(svg, /width="415" height="118"/);
   assert.match(svg, /role="img"/);
   assert.match(svg, /aria-labelledby="title description"/);
   assert.match(svg, /id="gh-dark-mode-only"/);
