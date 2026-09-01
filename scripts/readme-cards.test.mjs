@@ -151,9 +151,10 @@ test("README presents skills, projects, working principles, and contact links as
 
   assert.match(
     readme,
-    /skillicons\.dev\/icons\?i=kotlin,ts,js,py,java,swift,androidstudio,vue,nodejs,docker,mysql,sqlite,linux,git&amp;theme=dark&amp;perline=7/
+    /skillicons\.dev\/icons\?i=kotlin%2Cts%2Cjs%2Cpy%2Cjava%2Cswift%2Candroidstudio%2Cvue%2Cnodejs%2Cdocker%2Cmysql%2Csqlite%2Clinux%2Cgit&amp;theme=dark&amp;perline=7/
   );
   assert.match(readme, /&amp;theme=light&amp;perline=7/);
+  assert.doesNotMatch(readme, /srcset="[^"]*\?i=[^"&]*,/);
   assert.match(readme, /alt="夜喵cats 的核心技术栈图标"/);
 
   const featured = readme.slice(

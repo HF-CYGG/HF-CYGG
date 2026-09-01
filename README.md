@@ -50,15 +50,15 @@
   <img width="49.5%" src="./assets/generated/project-pulse.svg#gh-light-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
 </div>
 
-<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-01 15:30 UTC</sub>
+<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-01 15:32 UTC</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,ts,js,py,java,swift,androidstudio,vue,nodejs,docker,mysql,sqlite,linux,git&amp;theme=dark&amp;perline=7" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=kotlin,ts,js,py,java,swift,androidstudio,vue,nodejs,docker,mysql,sqlite,linux,git&amp;theme=light&amp;perline=7" />
-  <img width="100%" src="https://skillicons.dev/icons?i=kotlin,ts,js,py,java,swift,androidstudio,vue,nodejs,docker,mysql,sqlite,linux,git&amp;theme=light&amp;perline=7" alt="夜喵cats 的核心技术栈图标" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Cts%2Cjs%2Cpy%2Cjava%2Cswift%2Candroidstudio%2Cvue%2Cnodejs%2Cdocker%2Cmysql%2Csqlite%2Clinux%2Cgit&amp;theme=dark&amp;perline=7" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=kotlin%2Cts%2Cjs%2Cpy%2Cjava%2Cswift%2Candroidstudio%2Cvue%2Cnodejs%2Cdocker%2Cmysql%2Csqlite%2Clinux%2Cgit&amp;theme=light&amp;perline=7" />
+  <img width="100%" src="https://skillicons.dev/icons?i=kotlin%2Cts%2Cjs%2Cpy%2Cjava%2Cswift%2Candroidstudio%2Cvue%2Cnodejs%2Cdocker%2Cmysql%2Csqlite%2Clinux%2Cgit&amp;theme=light&amp;perline=7" alt="夜喵cats 的核心技术栈图标" />
 </picture>
 
 **Mobile**<br>
