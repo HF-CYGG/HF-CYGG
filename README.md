@@ -79,8 +79,6 @@
 <div>
   <a href="https://github.com/HF-CYGG/Dawn-Course">
     <picture>
-      <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/generated/featured-dawn-course-mobile.svg#gh-dark-mode-only" />
-      <source media="(prefers-color-scheme: light) and (max-width: 600px), (prefers-color-scheme: no-preference) and (max-width: 600px)" srcset="./assets/generated/featured-dawn-course-mobile.svg#gh-light-mode-only" />
       <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/featured-dawn-course.svg#gh-dark-mode-only" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/featured-dawn-course.svg#gh-light-mode-only" />
       <img width="49%" src="./assets/generated/featured-dawn-course.svg#gh-light-mode-only" alt="Dawn Course 项目介绍卡片" />
@@ -88,8 +86,6 @@
   </a>
   <a href="https://github.com/HF-CYGG/Y-Link">
     <picture>
-      <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/generated/featured-y-link-mobile.svg#gh-dark-mode-only" />
-      <source media="(prefers-color-scheme: light) and (max-width: 600px), (prefers-color-scheme: no-preference) and (max-width: 600px)" srcset="./assets/generated/featured-y-link-mobile.svg#gh-light-mode-only" />
       <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/featured-y-link.svg#gh-dark-mode-only" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/featured-y-link.svg#gh-light-mode-only" />
       <img width="49%" src="./assets/generated/featured-y-link.svg#gh-light-mode-only" alt="Y-Link 项目介绍卡片" />
@@ -97,8 +93,6 @@
   </a>
   <a href="https://github.com/HF-CYGG/LumaSR">
     <picture>
-      <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/generated/featured-lumasr-mobile.svg#gh-dark-mode-only" />
-      <source media="(prefers-color-scheme: light) and (max-width: 600px), (prefers-color-scheme: no-preference) and (max-width: 600px)" srcset="./assets/generated/featured-lumasr-mobile.svg#gh-light-mode-only" />
       <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/featured-lumasr.svg#gh-dark-mode-only" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/featured-lumasr.svg#gh-light-mode-only" />
       <img width="49%" src="./assets/generated/featured-lumasr.svg#gh-light-mode-only" alt="LumaSR 项目介绍卡片" />
@@ -106,8 +100,6 @@
   </a>
   <a href="https://github.com/HF-CYGG/EquipTrack">
     <picture>
-      <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/generated/featured-equiptrack-mobile.svg#gh-dark-mode-only" />
-      <source media="(prefers-color-scheme: light) and (max-width: 600px), (prefers-color-scheme: no-preference) and (max-width: 600px)" srcset="./assets/generated/featured-equiptrack-mobile.svg#gh-light-mode-only" />
       <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/featured-equiptrack.svg#gh-dark-mode-only" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/featured-equiptrack.svg#gh-light-mode-only" />
       <img width="49%" src="./assets/generated/featured-equiptrack.svg#gh-light-mode-only" alt="EquipTrack 项目介绍卡片" />

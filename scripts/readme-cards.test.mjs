@@ -169,8 +169,9 @@ test("README presents skills, projects, working principles, and contact links as
   assert.doesNotMatch(featured, /<img width="100%"/);
   for (const slug of ["dawn-course", "y-link", "lumasr", "equiptrack"]) {
     assert.match(featured, new RegExp(`featured-${slug}\\.svg#gh-dark-mode-only`));
-    assert.match(featured, new RegExp(`featured-${slug}-mobile\\.svg#gh-light-mode-only`));
+    assert.match(featured, new RegExp(`featured-${slug}\\.svg#gh-light-mode-only`));
   }
+  assert.doesNotMatch(featured, /featured-[^"\s]+-mobile\.svg/);
   assert.match(featured, /alt="Dawn Course 项目介绍卡片"/);
   assert.match(featured, /alt="Y-Link 项目介绍卡片"/);
   assert.match(featured, /alt="LumaSR 项目介绍卡片"/);
