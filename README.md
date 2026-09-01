@@ -5,7 +5,7 @@
 
 `HF-CYGG` · Student · Android / Web Developer · Furry · China · he/him
 
-[About](#about) · [Stack](#stack) · [Current Work](#current-work) · [Activity](#activity) · [Contact](#contact)
+[About](#about) · [Activity](#activity) · [Stack](#stack) · [Featured Projects](#featured-projects) · [How I Build](#how-i-build) · [Contact](#contact)
 
 ---
 
@@ -50,69 +50,98 @@
   <img width="49.5%" src="./assets/generated/project-pulse.svg#gh-light-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
 </div>
 
-<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-01 15:14 UTC</sub>
+<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-01 15:25 UTC</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## Stack
 
-| 方向 | 常用技术 |
-| --- | --- |
-| 主力语言 | `Kotlin` `TypeScript` `JavaScript` `Python` `Java` `Swift` |
-| 移动端 | `Android` `Jetpack Compose` `Room` `Hilt` `Flow` `WorkManager` `SwiftUI` |
-| Web 与后端 | `Vue 3` `Vite` `Pinia` `Node.js` `Express` `TypeORM` `REST API` |
-| 数据与交付 | `SQLite` `MySQL` `Docker` `Linux` `GitHub Actions` `Android NDK` `Vulkan` |
-| 正在学习 | `SwiftUI` `iOS Architecture` `KMP` `AI-assisted Code Review` |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,ts,js,py,java,swift,androidstudio,vue,nodejs,docker,mysql,sqlite,linux,git&amp;theme=dark&amp;perline=7" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=kotlin,ts,js,py,java,swift,androidstudio,vue,nodejs,docker,mysql,sqlite,linux,git&amp;theme=light&amp;perline=7" />
+  <img width="100%" src="https://skillicons.dev/icons?i=kotlin,ts,js,py,java,swift,androidstudio,vue,nodejs,docker,mysql,sqlite,linux,git&amp;theme=light&amp;perline=7" alt="夜喵cats 的核心技术栈图标" />
+</picture>
 
-## Current Work
+**Mobile**<br>
+`Android` · `Jetpack Compose` · `Room` · `Hilt` · `Flow` · `WorkManager`
 
-### Dawn Course / 破晓课程表
+**Web / Backend**<br>
+`Vue 3` · `Vite` · `Pinia` · `Node.js` · `Express` · `TypeORM` · `REST API`
 
-> 免费、轻量、开源的 Android 课程表 App，适配新旧正方、强智、青果等教务系统。
+**Native / Delivery**<br>
+`Android NDK` · `ncnn` · `Vulkan` · `Docker` · `Linux` · `GitHub Actions`
 
-[Repository](https://github.com/HF-CYGG/Dawn-Course) · `Kotlin` `Jetpack Compose` `Room` `Hilt` `QuickJS`
+<sub>Currently exploring: SwiftUI · iOS Architecture · KMP · AI-assisted Code Review</sub>
 
-目前主要完善教务导入、脚本解析、本地课程管理、提醒、小组件以及备份与同步能力。
+## Featured Projects
 
-### Y-Link
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HF-CYGG/Dawn-Course">Dawn Course / 破晓课程表</a></h3>
+      <p>免费、轻量、开源的 Android 课程表 App，适配多类高校教务系统。</p>
+      <p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Room</code> <code>Hilt</code> <code>QuickJS</code></p>
+      <ul>
+        <li>多教务系统课程导入</li>
+        <li>本地课表、提醒与小组件</li>
+        <li>备份、同步与脚本解析</li>
+      </ul>
+      <p><strong><a href="https://github.com/HF-CYGG/Dawn-Course">View Repository →</a></strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/HF-CYGG/Y-Link">Y-Link</a></h3>
+      <p>文创产品出入库与 O2O 预订系统，覆盖从预订到交付的完整业务流程。</p>
+      <p><code>Vue 3</code> <code>TypeScript</code> <code>Express</code> <code>TypeORM</code> <code>MySQL</code></p>
+      <ul>
+        <li>线上预订与线下核销</li>
+        <li>库存、供货与客户反馈</li>
+        <li>权限安全与 Onebox 部署</li>
+      </ul>
+      <p><strong><a href="https://github.com/HF-CYGG/Y-Link">View Repository →</a></strong></p>
+    </td>
+  </tr>
+</table>
 
-> 基于 Vue 3、Express 和 TypeORM 的文创产品出入库与 O2O 预订系统。
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+      <h3><a href="https://github.com/HF-CYGG/LumaSR">LumaSR</a></h3>
+      <p>面向 Android 的本地 AI 图像超分工具，使用 ncnn 与 Vulkan 完成完全离线的端侧推理。</p>
+      <p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Android NDK</code> <code>ncnn</code> <code>Vulkan</code></p>
+      <p><strong>Focus:</strong> 分块处理 · 画质对比 · 超大图导出 · OOM 保护 · 多模型稳定性</p>
+      <p><strong><a href="https://github.com/HF-CYGG/LumaSR">View Repository →</a></strong></p>
+    </td>
+  </tr>
+</table>
 
-[Repository](https://github.com/HF-CYGG/Y-Link) · `Vue 3` `TypeScript` `Express` `TypeORM` `SQLite` `MySQL` `Docker`
+## More Projects
 
-覆盖线上预订、线下核销、库存与供货、客户反馈、权限安全和 Onebox 部署等完整业务流程。
+- **[EquipTrack](https://github.com/HF-CYGG/EquipTrack)** — 面向高校组织的物资追踪与管理系统，配有独立的 [服务端](https://github.com/HF-CYGG/HF-CYGG-equiptrack-server)。
+- **[qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck)** — QQNT 表情包增强插件。
+- **[InfraCount](https://github.com/HF-CYGG/InfraCount)** — 硬件计数器数据统计后端。
+- **[Alist-sync](https://github.com/HF-CYGG/Alist-sync)** — Alist 同步相关脚本。
+- **[Noctis-Portfolio](https://github.com/HF-CYGG/Noctis-Portfolio)** — 个人作品集页面。
+- **[DawnCourse-ios](https://github.com/HF-CYGG/DawnCourse-ios)** — Dawn Course 的 iOS 端探索。
 
-### LumaSR
+## How I Build
 
-> 面向 Android 的本地 AI 图像超分工具，使用 ncnn 与 Vulkan 完成离线推理。
+**01 · 从真实问题开始**<br>
+先确认需要解决的流程、数据或使用场景，让项目从明确需求出发。
 
-[Repository](https://github.com/HF-CYGG/LumaSR) · `Kotlin` `Jetpack Compose` `Android NDK` `ncnn` `Vulkan`
+**02 · 先让核心链路可靠运行**<br>
+在功能可用的基础上，继续打磨界面、数据流、异常处理与性能。
 
-目前重点关注分块处理、画质对比、超大图导出、OOM 保护和不同超分模型的稳定性。
-
-### Other Projects
-
-| 项目 | 简介 |
-| --- | --- |
-| [EquipTrack](https://github.com/HF-CYGG/EquipTrack) | 面向高校组织的物资追踪与管理系统；另有独立的 [服务端](https://github.com/HF-CYGG/HF-CYGG-equiptrack-server)。 |
-| [qq-emote-deck](https://github.com/HF-CYGG/qq-emote-deck) | QQNT 表情包增强插件。 |
-| [InfraCount](https://github.com/HF-CYGG/InfraCount) | 硬件计数器数据统计后端。 |
-| [Alist-sync](https://github.com/HF-CYGG/Alist-sync) | Alist 同步相关脚本。 |
-| [Noctis-Portfolio](https://github.com/HF-CYGG/Noctis-Portfolio) | 个人作品集页面。 |
-| [DawnCourse-ios](https://github.com/HF-CYGG/DawnCourse-ios) | Dawn Course 的 iOS 端探索。 |
-
-## Working Style
-
-我的项目通常从一个真实场景开始：某个流程太麻烦、某类数据需要整理，或者有人希望把想法真正做出来。我会先让核心流程可靠地运行，再逐步打磨界面、数据流、错误处理和性能。
-
-对我来说，项目最终应当成为可以交付和长期使用的 Android App、Web 服务、Docker 镜像或其他完整形态，而不只是停留在演示阶段。
+**03 · 交付完整形态**<br>
+把想法做成可长期使用的 Android App、Web 服务、Docker 镜像或其他可交付成果。
 
 ## Contact
 
-- Portfolio: [Noctis Portfolio](https://hf-cygg.github.io/Noctis-Portfolio/)
-- GitHub: [HF-CYGG](https://github.com/HF-CYGG)
-- Gitee: [YeMiao_cats](https://gitee.com/YeMiao_cats)
-- X: [@yyh163](https://x.com/yyh163)
-- Email: [yyh1677696627@outlook.com](mailto:yyh1677696627@outlook.com)
+<p>
+  <a href="https://hf-cygg.github.io/Noctis-Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Noctis-24292f?style=flat-square&amp;logo=githubpages&amp;logoColor=white" alt="访问 Noctis Portfolio" /></a>
+  <a href="https://github.com/HF-CYGG"><img src="https://img.shields.io/badge/GitHub-HF--CYGG-24292f?style=flat-square&amp;logo=github&amp;logoColor=white" alt="访问 HF-CYGG 的 GitHub 主页" /></a>
+  <a href="https://gitee.com/YeMiao_cats"><img src="https://img.shields.io/badge/Gitee-YeMiao__cats-24292f?style=flat-square&amp;logo=gitee&amp;logoColor=white" alt="访问夜喵cats的 Gitee 主页" /></a>
+  <a href="https://x.com/yyh163"><img src="https://img.shields.io/badge/X-%40yyh163-24292f?style=flat-square&amp;logo=x&amp;logoColor=white" alt="在 X 上关注夜喵cats" /></a>
+  <a href="mailto:yyh1677696627@outlook.com"><img src="https://img.shields.io/badge/Email-Outlook-24292f?style=flat-square&amp;logo=microsoftoutlook&amp;logoColor=white" alt="通过 Outlook 联系夜喵cats" /></a>
+</p>
 
 ---
 

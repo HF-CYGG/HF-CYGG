@@ -111,7 +111,7 @@ test("README uses full-row jstrieb stats and detailed Tokscale cards", async () 
   assert.doesNotMatch(readme, /github-stats-extended/);
   assert.match(readme, /assets\/generated\/github-overview\.svg#gh-dark-mode-only/);
   assert.match(readme, /assets\/generated\/github-languages\.svg#gh-dark-mode-only/);
-  assert.equal((readme.match(/<picture>/g) ?? []).length, 2);
+  assert.equal((readme.match(/<picture>/g) ?? []).length, 3);
   assert.equal((readme.match(/width="49\.5%"/g) ?? []).length, 6);
 
   assert.match(
@@ -121,4 +121,55 @@ test("README uses full-row jstrieb stats and detailed Tokscale cards", async () 
   assert.match(readme, /width="100%"/);
   assert.doesNotMatch(readme, /template=minimal/);
   assert.doesNotMatch(readme, /<p align="center">\s*<a href="https:\/\/tokscale\.ai/);
+});
+
+test("README presents skills, projects, working principles, and contact links as a compact portfolio", async () => {
+  const readme = await fs.readFile(new URL("../README.md", import.meta.url), "utf8");
+  const headings = [
+    "## About",
+    "## Activity",
+    "## Stack",
+    "## Featured Projects",
+    "## More Projects",
+    "## How I Build",
+    "## Contact",
+  ];
+
+  for (let index = 1; index < headings.length; index += 1) {
+    assert.ok(
+      readme.indexOf(headings[index - 1]) < readme.indexOf(headings[index]),
+      `${headings[index - 1]} should appear before ${headings[index]}`
+    );
+  }
+
+  assert.match(
+    readme,
+    /\[About\]\(#about\).*\[Activity\]\(#activity\).*\[Stack\]\(#stack\).*\[Featured Projects\]\(#featured-projects\).*\[How I Build\]\(#how-i-build\).*\[Contact\]\(#contact\)/
+  );
+  assert.doesNotMatch(readme, /## Current Work|## Working Style|### Other Projects/);
+  assert.doesNotMatch(readme, /\| 方向 \| 常用技术 \|/);
+
+  assert.match(
+    readme,
+    /skillicons\.dev\/icons\?i=kotlin,ts,js,py,java,swift,androidstudio,vue,nodejs,docker,mysql,sqlite,linux,git&amp;theme=dark&amp;perline=7/
+  );
+  assert.match(readme, /&amp;theme=light&amp;perline=7/);
+  assert.match(readme, /alt="夜喵cats 的核心技术栈图标"/);
+
+  const featured = readme.slice(
+    readme.indexOf("## Featured Projects"),
+    readme.indexOf("## More Projects")
+  );
+  assert.equal((featured.match(/<table width="100%">/g) ?? []).length, 2);
+  assert.equal((featured.match(/<td width="50%"/g) ?? []).length, 2);
+  assert.equal((featured.match(/<td width="100%"/g) ?? []).length, 1);
+
+  const contact = readme.slice(readme.indexOf("## Contact"));
+  assert.equal((contact.match(/img\.shields\.io\/badge\//g) ?? []).length, 5);
+  assert.equal((contact.match(/style=flat-square/g) ?? []).length, 5);
+
+  assert.doesNotMatch(
+    readme,
+    /readme-typing-svg|github-readme-streak-stats|github-profile-trophy|github-readme-activity-graph|github-contribution-grid-snake/
+  );
 });
