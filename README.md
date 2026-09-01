@@ -15,6 +15,44 @@
 
 我会使用 AI 辅助开发，但更在意需求边界、数据质量、异常路径和长期维护。头像里的小家伙是“他”，也是另一个我——**夜喵 / YEMIAO**。
 
+## Activity
+
+<div>
+  <a href="https://github.com/HF-CYGG">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/github-overview.svg#gh-dark-mode-only" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/github-overview.svg#gh-light-mode-only" />
+      <img width="49.5%" src="./assets/generated/github-overview.svg#gh-light-mode-only" alt="HF-CYGG 的公开仓库 Stars 与贡献统计" />
+    </picture>
+  </a>
+  <a href="https://github.com/HF-CYGG?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/github-languages.svg#gh-dark-mode-only" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/github-languages.svg#gh-light-mode-only" />
+      <img width="49.5%" src="./assets/generated/github-languages.svg#gh-light-mode-only" alt="HF-CYGG 的公开仓库语言占比" />
+    </picture>
+  </a>
+</div>
+
+<sub>由 [jstrieb/github-stats](https://github.com/jstrieb/github-stats) 生成；统计公开、非 fork 仓库。语言占比表示公开仓库代码体积，并非技能熟练度。</sub>
+
+<div>
+  <a href="https://tokscale.ai/u/HF-CYGG">
+    <img width="100%" src="https://tokscale.ai/api/embed/HF-CYGG/svg?graph=1&amp;tokens=compact&amp;cost=full" alt="HF-CYGG 的 Tokscale Token、成本、排名与贡献活动统计" />
+  </a>
+</div>
+
+<!-- RECENT_ACTIVITY:START -->
+<div>
+  <img width="49.5%" src="./assets/generated/recent-project-commits.svg#gh-dark-mode-only" alt="HF-CYGG 最近项目提交动态卡片" />
+  <img width="49.5%" src="./assets/generated/project-pulse.svg#gh-dark-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
+  <img width="49.5%" src="./assets/generated/recent-project-commits.svg#gh-light-mode-only" alt="HF-CYGG 最近项目提交动态卡片" />
+  <img width="49.5%" src="./assets/generated/project-pulse.svg#gh-light-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
+</div>
+
+<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-01 15:13 UTC</sub>
+<!-- RECENT_ACTIVITY:END -->
+
 ## Stack
 
 | 方向 | 常用技术 |
@@ -67,44 +105,6 @@
 我的项目通常从一个真实场景开始：某个流程太麻烦、某类数据需要整理，或者有人希望把想法真正做出来。我会先让核心流程可靠地运行，再逐步打磨界面、数据流、错误处理和性能。
 
 对我来说，项目最终应当成为可以交付和长期使用的 Android App、Web 服务、Docker 镜像或其他完整形态，而不只是停留在演示阶段。
-
-## Activity
-
-<div>
-  <a href="https://github.com/HF-CYGG">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/github-overview.svg#gh-dark-mode-only" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/github-overview.svg#gh-light-mode-only" />
-      <img width="49.5%" src="./assets/generated/github-overview.svg#gh-light-mode-only" alt="HF-CYGG 的公开仓库 Stars 与贡献统计" />
-    </picture>
-  </a>
-  <a href="https://github.com/HF-CYGG?tab=repositories">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/github-languages.svg#gh-dark-mode-only" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/github-languages.svg#gh-light-mode-only" />
-      <img width="49.5%" src="./assets/generated/github-languages.svg#gh-light-mode-only" alt="HF-CYGG 的公开仓库语言占比" />
-    </picture>
-  </a>
-</div>
-
-<sub>由 [jstrieb/github-stats](https://github.com/jstrieb/github-stats) 生成；统计公开、非 fork 仓库。语言占比表示公开仓库代码体积，并非技能熟练度。</sub>
-
-<div>
-  <a href="https://tokscale.ai/u/HF-CYGG">
-    <img width="100%" src="https://tokscale.ai/api/embed/HF-CYGG/svg?graph=1&amp;tokens=compact&amp;cost=full" alt="HF-CYGG 的 Tokscale Token、成本、排名与贡献活动统计" />
-  </a>
-</div>
-
-<!-- RECENT_ACTIVITY:START -->
-<div>
-  <img width="49.5%" src="./assets/generated/recent-project-commits.svg#gh-dark-mode-only" alt="HF-CYGG 最近项目提交动态卡片" />
-  <img width="49.5%" src="./assets/generated/project-pulse.svg#gh-dark-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
-  <img width="49.5%" src="./assets/generated/recent-project-commits.svg#gh-light-mode-only" alt="HF-CYGG 最近项目提交动态卡片" />
-  <img width="49.5%" src="./assets/generated/project-pulse.svg#gh-light-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
-</div>
-
-<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-01 15:06 UTC</sub>
-<!-- RECENT_ACTIVITY:END -->
 
 ## Contact
 

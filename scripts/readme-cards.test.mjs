@@ -105,6 +105,9 @@ test("README embed keeps two theme-aware activity cards on one full-width row", 
 test("README uses full-row jstrieb stats and detailed Tokscale cards", async () => {
   const readme = await fs.readFile(new URL("../README.md", import.meta.url), "utf8");
 
+  assert.ok(readme.indexOf("## About") < readme.indexOf("## Activity"));
+  assert.ok(readme.indexOf("## Activity") < readme.indexOf("## Stack"));
+
   assert.doesNotMatch(readme, /github-stats-extended/);
   assert.match(readme, /assets\/generated\/github-overview\.svg#gh-dark-mode-only/);
   assert.match(readme, /assets\/generated\/github-languages\.svg#gh-dark-mode-only/);
