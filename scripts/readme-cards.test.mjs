@@ -154,6 +154,8 @@ test("README presents skills, projects, working principles, and contact links as
     /skillicons\.dev\/icons\?i=kotlin%2Cts%2Cjs%2Cpy%2Cjava%2Cswift%2Candroidstudio%2Cvue%2Cnodejs%2Cdocker%2Cmysql%2Csqlite%2Clinux%2Cgit&amp;theme=dark&amp;perline=7/
   );
   assert.match(readme, /&amp;theme=light&amp;perline=7/);
+  assert.match(readme, /&amp;theme=dark&amp;perline=14/);
+  assert.match(readme, /&amp;theme=light&amp;perline=14/);
   assert.doesNotMatch(readme, /srcset="[^"]*\?i=[^"&]*,/);
   assert.match(readme, /alt="夜喵cats 的核心技术栈图标"/);
 
@@ -163,7 +165,8 @@ test("README presents skills, projects, working principles, and contact links as
   );
   assert.equal((featured.match(/<table width="100%">/g) ?? []).length, 2);
   assert.equal((featured.match(/<td width="50%"/g) ?? []).length, 2);
-  assert.equal((featured.match(/<td width="100%"/g) ?? []).length, 1);
+  assert.equal((featured.match(/<td width="62%"/g) ?? []).length, 1);
+  assert.equal((featured.match(/<td width="38%"/g) ?? []).length, 1);
 
   const contact = readme.slice(readme.indexOf("## Contact"));
   assert.equal((contact.match(/img\.shields\.io\/badge\//g) ?? []).length, 5);

@@ -50,15 +50,17 @@
   <img width="49.5%" src="./assets/generated/project-pulse.svg#gh-light-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
 </div>
 
-<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-01 15:34 UTC</sub>
+<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-01 15:37 UTC</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## Stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Cts%2Cjs%2Cpy%2Cjava%2Cswift%2Candroidstudio%2Cvue%2Cnodejs%2Cdocker%2Cmysql%2Csqlite%2Clinux%2Cgit&amp;theme=dark&amp;perline=7" />
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=kotlin%2Cts%2Cjs%2Cpy%2Cjava%2Cswift%2Candroidstudio%2Cvue%2Cnodejs%2Cdocker%2Cmysql%2Csqlite%2Clinux%2Cgit&amp;theme=light&amp;perline=7" />
-  <img width="100%" src="https://skillicons.dev/icons?i=kotlin%2Cts%2Cjs%2Cpy%2Cjava%2Cswift%2Candroidstudio%2Cvue%2Cnodejs%2Cdocker%2Cmysql%2Csqlite%2Clinux%2Cgit&amp;theme=light&amp;perline=7" alt="夜喵cats 的核心技术栈图标" />
+  <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="https://skillicons.dev/icons?i=kotlin%2Cts%2Cjs%2Cpy%2Cjava%2Cswift%2Candroidstudio%2Cvue%2Cnodejs%2Cdocker%2Cmysql%2Csqlite%2Clinux%2Cgit&amp;theme=dark&amp;perline=7" />
+  <source media="(prefers-color-scheme: light) and (max-width: 600px), (prefers-color-scheme: no-preference) and (max-width: 600px)" srcset="https://skillicons.dev/icons?i=kotlin%2Cts%2Cjs%2Cpy%2Cjava%2Cswift%2Candroidstudio%2Cvue%2Cnodejs%2Cdocker%2Cmysql%2Csqlite%2Clinux%2Cgit&amp;theme=light&amp;perline=7" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Cts%2Cjs%2Cpy%2Cjava%2Cswift%2Candroidstudio%2Cvue%2Cnodejs%2Cdocker%2Cmysql%2Csqlite%2Clinux%2Cgit&amp;theme=dark&amp;perline=14" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=kotlin%2Cts%2Cjs%2Cpy%2Cjava%2Cswift%2Candroidstudio%2Cvue%2Cnodejs%2Cdocker%2Cmysql%2Csqlite%2Clinux%2Cgit&amp;theme=light&amp;perline=14" />
+  <img width="100%" src="https://skillicons.dev/icons?i=kotlin%2Cts%2Cjs%2Cpy%2Cjava%2Cswift%2Candroidstudio%2Cvue%2Cnodejs%2Cdocker%2Cmysql%2Csqlite%2Clinux%2Cgit&amp;theme=light&amp;perline=14" alt="夜喵cats 的核心技术栈图标" />
 </picture>
 
 **Mobile**<br>
@@ -103,12 +105,19 @@
 
 <table width="100%">
   <tr>
-    <td width="100%" valign="top">
+    <td width="62%" valign="top">
       <h3><a href="https://github.com/HF-CYGG/LumaSR">LumaSR</a></h3>
       <p>面向 Android 的本地 AI 图像超分工具，使用 ncnn 与 Vulkan 完成完全离线的端侧推理。</p>
       <p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Android NDK</code> <code>ncnn</code> <code>Vulkan</code></p>
-      <p><strong>Focus:</strong> 分块处理 · 画质对比 · 超大图导出 · OOM 保护 · 多模型稳定性</p>
       <p><strong><a href="https://github.com/HF-CYGG/LumaSR">View Repository →</a></strong></p>
+    </td>
+    <td width="38%" valign="top">
+      <p><strong>Focus</strong></p>
+      <ul>
+        <li>离线推理与分块处理</li>
+        <li>超大图导出与 OOM 保护</li>
+        <li>多模型与不同 GPU 的稳定性</li>
+      </ul>
     </td>
   </tr>
 </table>
