@@ -108,7 +108,8 @@ test("README uses full-row jstrieb stats and detailed Tokscale cards", async () 
   assert.doesNotMatch(readme, /github-stats-extended/);
   assert.match(readme, /assets\/generated\/github-overview\.svg#gh-dark-mode-only/);
   assert.match(readme, /assets\/generated\/github-languages\.svg#gh-dark-mode-only/);
-  assert.equal((readme.match(/width="49\.5%"/g) ?? []).length, 8);
+  assert.equal((readme.match(/<picture>/g) ?? []).length, 2);
+  assert.equal((readme.match(/width="49\.5%"/g) ?? []).length, 6);
 
   assert.match(
     readme,

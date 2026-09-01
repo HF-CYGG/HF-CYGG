@@ -71,10 +71,20 @@
 ## Activity
 
 <div>
-  <a href="https://github.com/HF-CYGG"><img width="49.5%" src="./assets/generated/github-overview.svg#gh-dark-mode-only" alt="HF-CYGG 的公开仓库 Stars 与贡献统计（深色主题）" /></a>
-  <a href="https://github.com/HF-CYGG?tab=repositories"><img width="49.5%" src="./assets/generated/github-languages.svg#gh-dark-mode-only" alt="HF-CYGG 的公开仓库语言占比（深色主题）" /></a>
-  <a href="https://github.com/HF-CYGG"><img width="49.5%" src="./assets/generated/github-overview.svg#gh-light-mode-only" alt="HF-CYGG 的公开仓库 Stars 与贡献统计（浅色主题）" /></a>
-  <a href="https://github.com/HF-CYGG?tab=repositories"><img width="49.5%" src="./assets/generated/github-languages.svg#gh-light-mode-only" alt="HF-CYGG 的公开仓库语言占比（浅色主题）" /></a>
+  <a href="https://github.com/HF-CYGG">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/github-overview.svg#gh-dark-mode-only" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/github-overview.svg#gh-light-mode-only" />
+      <img width="49.5%" src="./assets/generated/github-overview.svg#gh-light-mode-only" alt="HF-CYGG 的公开仓库 Stars 与贡献统计" />
+    </picture>
+  </a>
+  <a href="https://github.com/HF-CYGG?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/github-languages.svg#gh-dark-mode-only" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/github-languages.svg#gh-light-mode-only" />
+      <img width="49.5%" src="./assets/generated/github-languages.svg#gh-light-mode-only" alt="HF-CYGG 的公开仓库语言占比" />
+    </picture>
+  </a>
 </div>
 
 <sub>由 [jstrieb/github-stats](https://github.com/jstrieb/github-stats) 生成；统计公开、非 fork 仓库。语言占比表示公开仓库代码体积，并非技能熟练度。</sub>
@@ -93,7 +103,7 @@
   <img width="49.5%" src="./assets/generated/project-pulse.svg#gh-light-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
 </div>
 
-<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-01 15:02 UTC</sub>
+<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-01 14:54 UTC</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## Contact
