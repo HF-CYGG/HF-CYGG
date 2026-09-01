@@ -24,6 +24,35 @@ jobs:
         with:
           node-version: 20
 
+      - name: Checkout jstrieb/github-stats
+        uses: actions/checkout@v4
+        with:
+          repository: jstrieb/github-stats
+          ref: ef574fae2ce8311f3e1ebb43e07c0c0fae0a41b6
+          path: .github-stats-tool
+          persist-credentials: false
+
+      - name: Setup Zig
+        uses: mlugg/setup-zig@d1434d08867e3ee9daa34448df10607b98908d29
+        with:
+          version: 0.16.0
+
+      - name: Collect public GitHub statistics
+        run: node scripts/github-stats-public.mjs "$RUNNER_TEMP/github-stats.json"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Render jstrieb GitHub statistics
+        run: |
+          cd .github-stats-tool
+          zig build
+          cd ..
+          ./.github-stats-tool/zig-out/bin/github-stats \
+            --json-input-file "$RUNNER_TEMP/github-stats.json" \
+            --overview-output-file assets/generated/github-overview.svg \
+            --languages-output-file assets/generated/github-languages.svg \
+            --silent
+
       - name: Update README activity
         run: node scripts/update-readme.mjs
         env:
@@ -32,5 +61,5 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "docs: update recent GitHub activity"
+          commit_message: "docs: update README cards"
           file_pattern: README.md assets/generated/*.svg

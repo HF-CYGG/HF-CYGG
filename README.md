@@ -70,42 +70,30 @@
 
 ## Activity
 
-<p align="center">
-  <a href="https://github.com/HF-CYGG">
-    <img height="165" src="https://github-stats-extended.vercel.app/api?username=HF-CYGG&amp;show_icons=true&amp;include_all_commits=true&amp;hide_border=true&amp;hide_rank=true&amp;theme=transparent&amp;locale=cn&amp;custom_title=GitHub%20Overview" alt="HF-CYGG 的 GitHub 公开仓库统计概览" />
-  </a>
-  <a href="https://github.com/HF-CYGG?tab=repositories">
-    <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=HF-CYGG&amp;layout=compact&amp;langs_count=8&amp;hide_border=true&amp;theme=transparent&amp;custom_title=Repository%20Languages" alt="HF-CYGG 的公开仓库语言占比" />
-  </a>
-</p>
+<div>
+  <a href="https://github.com/HF-CYGG"><img width="49.5%" src="./assets/generated/github-overview.svg#gh-dark-mode-only" alt="HF-CYGG 的公开仓库 Stars 与贡献统计（深色主题）" /></a>
+  <a href="https://github.com/HF-CYGG?tab=repositories"><img width="49.5%" src="./assets/generated/github-languages.svg#gh-dark-mode-only" alt="HF-CYGG 的公开仓库语言占比（深色主题）" /></a>
+  <a href="https://github.com/HF-CYGG"><img width="49.5%" src="./assets/generated/github-overview.svg#gh-light-mode-only" alt="HF-CYGG 的公开仓库 Stars 与贡献统计（浅色主题）" /></a>
+  <a href="https://github.com/HF-CYGG?tab=repositories"><img width="49.5%" src="./assets/generated/github-languages.svg#gh-light-mode-only" alt="HF-CYGG 的公开仓库语言占比（浅色主题）" /></a>
+</div>
 
-<sub>语言卡统计公开、非 fork 仓库中的代码占比，不代表个人技能熟练度。</sub>
+<sub>由 [jstrieb/github-stats](https://github.com/jstrieb/github-stats) 生成；统计公开、非 fork 仓库。语言占比表示公开仓库代码体积，并非技能熟练度。</sub>
 
-<p align="center">
+<div>
   <a href="https://tokscale.ai/u/HF-CYGG">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://tokscale.ai/api/embed/HF-CYGG/svg?template=minimal&amp;color=monochrome&amp;theme=dark&amp;period=all&amp;sort=tokens&amp;tokens=compact&amp;cost=compact&amp;rank=percent" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://tokscale.ai/api/embed/HF-CYGG/svg?template=minimal&amp;color=monochrome&amp;theme=light&amp;period=all&amp;sort=tokens&amp;tokens=compact&amp;cost=compact&amp;rank=percent" />
-      <img width="600" src="https://tokscale.ai/api/embed/HF-CYGG/svg?template=minimal&amp;color=monochrome&amp;theme=light&amp;period=all&amp;sort=tokens&amp;tokens=compact&amp;cost=compact&amp;rank=percent" alt="HF-CYGG 的 Tokscale AI 编程工具使用统计" />
-    </picture>
+    <img width="100%" src="https://tokscale.ai/api/embed/HF-CYGG/svg?graph=1&amp;tokens=compact&amp;cost=full" alt="HF-CYGG 的 Tokscale Token、成本、排名与贡献活动统计" />
   </a>
-</p>
+</div>
 
 <!-- RECENT_ACTIVITY:START -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/recent-project-commits.svg#gh-dark-mode-only" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/recent-project-commits.svg#gh-light-mode-only" />
-    <img height="230" src="./assets/generated/recent-project-commits.svg#gh-light-mode-only" alt="HF-CYGG 最近项目提交动态卡片" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/project-pulse.svg#gh-dark-mode-only" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/project-pulse.svg#gh-light-mode-only" />
-    <img height="230" src="./assets/generated/project-pulse.svg#gh-light-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
-  </picture>
-</p>
+<div>
+  <img width="49.5%" src="./assets/generated/recent-project-commits.svg#gh-dark-mode-only" alt="HF-CYGG 最近项目提交动态卡片" />
+  <img width="49.5%" src="./assets/generated/project-pulse.svg#gh-dark-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
+  <img width="49.5%" src="./assets/generated/recent-project-commits.svg#gh-light-mode-only" alt="HF-CYGG 最近项目提交动态卡片" />
+  <img width="49.5%" src="./assets/generated/project-pulse.svg#gh-light-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
+</div>
 
-<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-01 13:12 UTC</sub>
+<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-01 14:54 UTC</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## Contact

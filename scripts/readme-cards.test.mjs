@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import fs from "node:fs/promises";
 import test from "node:test";
 
 import {
@@ -75,14 +76,17 @@ test("project pulse card renders proportional activity bars and an empty state",
   assert.match(empty, /No tracked project activity yet\./);
 });
 
-test("README embed selects light and dark variants without duplicating visible cards", () => {
+test("README embed keeps two theme-aware activity cards on one full-width row", () => {
   const markup = renderActivityCardsEmbed({
     recentCardPath: "assets/generated/recent-project-commits.svg",
     pulseCardPath: "assets/generated/project-pulse.svg",
     updatedAt: UPDATED_AT,
   });
 
-  assert.equal((markup.match(/<picture>/g) ?? []).length, 2);
+  assert.doesNotMatch(markup, /<picture>/);
+  assert.doesNotMatch(markup, /align="center"/);
+  assert.equal((markup.match(/<img\b/g) ?? []).length, 4);
+  assert.equal((markup.match(/width="49\.5%"/g) ?? []).length, 4);
   assert.match(
     markup,
     /recent-project-commits\.svg#gh-dark-mode-only/
@@ -96,4 +100,21 @@ test("README embed selects light and dark variants without duplicating visible c
   assert.match(markup, /alt="HF-CYGG 最近项目提交动态卡片"/);
   assert.match(markup, /alt="HF-CYGG 项目活跃度动态卡片"/);
   assert.doesNotMatch(markup, /<details>/);
+});
+
+test("README uses full-row jstrieb stats and detailed Tokscale cards", async () => {
+  const readme = await fs.readFile(new URL("../README.md", import.meta.url), "utf8");
+
+  assert.doesNotMatch(readme, /github-stats-extended/);
+  assert.match(readme, /assets\/generated\/github-overview\.svg#gh-dark-mode-only/);
+  assert.match(readme, /assets\/generated\/github-languages\.svg#gh-dark-mode-only/);
+  assert.equal((readme.match(/width="49\.5%"/g) ?? []).length, 8);
+
+  assert.match(
+    readme,
+    /tokscale\.ai\/api\/embed\/HF-CYGG\/svg\?graph=1&amp;tokens=compact&amp;cost=full/
+  );
+  assert.match(readme, /width="100%"/);
+  assert.doesNotMatch(readme, /template=minimal/);
+  assert.doesNotMatch(readme, /<p align="center">\s*<a href="https:\/\/tokscale\.ai/);
 });

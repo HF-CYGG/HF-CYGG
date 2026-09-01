@@ -142,15 +142,11 @@ export function renderProjectPulseCard(repos, { updatedAt }) {
   });
 }
 
-function renderThemePicture(path, alt) {
+function renderThemeImage(path, alt, theme) {
   const source = escapeXml(`./${path}`);
   const description = escapeXml(alt);
 
-  return `<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="${source}#gh-dark-mode-only" />
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="${source}#gh-light-mode-only" />
-    <img height="230" src="${source}#gh-light-mode-only" alt="${description}" />
-  </picture>`;
+  return `<img width="49.5%" src="${source}#gh-${theme}-mode-only" alt="${description}" />`;
 }
 
 export function renderActivityCardsEmbed({
@@ -158,10 +154,15 @@ export function renderActivityCardsEmbed({
   pulseCardPath,
   updatedAt,
 }) {
-  return `<p align="center">
-  ${renderThemePicture(recentCardPath, "HF-CYGG 最近项目提交动态卡片")}
-  ${renderThemePicture(pulseCardPath, "HF-CYGG 项目活跃度动态卡片")}
-</p>
+  const recentAlt = "HF-CYGG 最近项目提交动态卡片";
+  const pulseAlt = "HF-CYGG 项目活跃度动态卡片";
+
+  return `<div>
+  ${renderThemeImage(recentCardPath, recentAlt, "dark")}
+  ${renderThemeImage(pulseCardPath, pulseAlt, "dark")}
+  ${renderThemeImage(recentCardPath, recentAlt, "light")}
+  ${renderThemeImage(pulseCardPath, pulseAlt, "light")}
+</div>
 
 <sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · ${escapeXml(updatedAt)}</sub>`;
 }
