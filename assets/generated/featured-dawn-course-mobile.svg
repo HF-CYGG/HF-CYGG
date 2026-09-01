@@ -1,0 +1,52 @@
+<svg id="gh-dark-mode-only" xmlns="http://www.w3.org/2000/svg" width="360" height="224" viewBox="0 0 360 224" role="img" aria-labelledby="title description">
+  <title id="title">Dawn Course / 破晓课程表</title>
+  <desc id="description">免费、轻量、开源的 Android 课程表 App。适配多类高校教务系统与本地课程管理。多教务系统课程导入 · 提醒与小组件。备份、同步与脚本解析</desc>
+  <style>
+    .card { fill: #f6f8fa; stroke: #d0d7de; }
+    .accent-line { fill: #6e7781; }
+    .title, .link { fill: #0969da; }
+    .body, .pill-text { fill: #24292f; }
+    .muted, .kicker { fill: #57606a; }
+    .pill { fill: #eaeef2; }
+    .title { font: 600 21px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .body { font: 14px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .muted { font: 13px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .kicker { font: 600 11px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: 0.8px; }
+    .pill-text { font: 600 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    .link { font: 600 12px -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    @media (prefers-color-scheme: dark) {
+      .card { fill: #161b22; stroke: #30363d; }
+      .accent-line { fill: #8c959f; }
+      .title, .link { fill: #58a6ff; }
+      .body, .pill-text { fill: #f0f6fc; }
+      .muted, .kicker { fill: #8b949e; }
+      .pill { fill: #21262d; }
+    }
+    #gh-dark-mode-only:target .card { fill: #161b22; stroke: #30363d; }
+    #gh-dark-mode-only:target .accent-line { fill: #8c959f; }
+    #gh-dark-mode-only:target .title,
+    #gh-dark-mode-only:target .link { fill: #58a6ff; }
+    #gh-dark-mode-only:target .body,
+    #gh-dark-mode-only:target .pill-text { fill: #f0f6fc; }
+    #gh-dark-mode-only:target .muted,
+    #gh-dark-mode-only:target .kicker { fill: #8b949e; }
+    #gh-dark-mode-only:target .pill { fill: #21262d; }
+  </style>
+  <rect class="card" x="0.5" y="0.5" width="359" height="223" rx="12" />
+  <rect class="accent-line" x="0" y="24" width="3" height="176" rx="1.5" />
+  <text class="kicker" x="24" y="25">ANDROID · CAMPUS TOOL</text>
+  <text class="title" x="24" y="52">Dawn Course / 破晓课程表</text>
+  <text class="body" x="24" y="80">免费、轻量、开源的 Android 课程表 App</text>
+  <text class="body" x="24" y="102">适配多类高校教务系统与本地课程管理</text>
+  <rect class="pill" x="24" y="116" width="63" height="22" rx="5" />
+  <text class="pill-text" x="34" y="131">Kotlin</text>
+  <rect class="pill" x="95" y="116" width="128" height="22" rx="5" />
+  <text class="pill-text" x="105" y="131">Jetpack Compose</text>
+  <rect class="pill" x="231" y="116" width="49" height="22" rx="5" />
+  <text class="pill-text" x="241" y="131">Room</text>
+  <rect class="pill" x="24" y="146" width="70" height="22" rx="5" />
+  <text class="pill-text" x="34" y="161">QuickJS</text>
+  <text class="muted" x="24" y="188">多教务系统课程导入 · 提醒与小组件</text>
+  <text class="muted" x="24" y="207">备份、同步与脚本解析</text>
+  <text class="link" x="336" y="25" text-anchor="end">打开仓库 ↗</text>
+</svg>

@@ -50,7 +50,7 @@
   <img width="49%" src="./assets/generated/project-pulse.svg#gh-light-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
 </div>
 
-<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-01 15:44 UTC</sub>
+<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-01 16:02 UTC</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## Stack
@@ -76,51 +76,41 @@
 
 ## Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/HF-CYGG/Dawn-Course">Dawn Course / 破晓课程表</a></h3>
-      <p>免费、轻量、开源的 Android 课程表 App，适配多类高校教务系统。</p>
-      <p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Room</code> <code>Hilt</code> <code>QuickJS</code></p>
-      <ul>
-        <li>多教务系统课程导入</li>
-        <li>本地课表、提醒与小组件</li>
-        <li>备份、同步与脚本解析</li>
-      </ul>
-      <p><strong><a href="https://github.com/HF-CYGG/Dawn-Course">View Repository →</a></strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/HF-CYGG/Y-Link">Y-Link</a></h3>
-      <p>文创产品出入库与 O2O 预订系统，覆盖从预订到交付的完整业务流程。</p>
-      <p><code>Vue 3</code> <code>TypeScript</code> <code>Express</code> <code>TypeORM</code> <code>MySQL</code></p>
-      <ul>
-        <li>线上预订与线下核销</li>
-        <li>库存、供货与客户反馈</li>
-        <li>权限安全与 Onebox 部署</li>
-      </ul>
-      <p><strong><a href="https://github.com/HF-CYGG/Y-Link">View Repository →</a></strong></p>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/HF-CYGG/Dawn-Course">
+    <picture>
+      <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/generated/featured-dawn-course-mobile.svg#gh-dark-mode-only" />
+      <source media="(prefers-color-scheme: light) and (max-width: 600px), (prefers-color-scheme: no-preference) and (max-width: 600px)" srcset="./assets/generated/featured-dawn-course-mobile.svg#gh-light-mode-only" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/featured-dawn-course.svg#gh-dark-mode-only" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/featured-dawn-course.svg#gh-light-mode-only" />
+      <img width="100%" src="./assets/generated/featured-dawn-course.svg#gh-light-mode-only" alt="Dawn Course 项目介绍卡片" />
+    </picture>
+  </a>
+</p>
 
-<table width="100%">
-  <tr>
-    <td width="62%" valign="top">
-      <h3><a href="https://github.com/HF-CYGG/LumaSR">LumaSR</a></h3>
-      <p>面向 Android 的本地 AI 图像超分工具，使用 ncnn 与 Vulkan 完成完全离线的端侧推理。</p>
-      <p><code>Kotlin</code> <code>Jetpack Compose</code> <code>Android NDK</code> <code>ncnn</code> <code>Vulkan</code></p>
-      <p><strong><a href="https://github.com/HF-CYGG/LumaSR">View Repository →</a></strong></p>
-    </td>
-    <td width="38%" valign="top">
-      <p><strong>Focus</strong></p>
-      <ul>
-        <li>离线推理与分块处理</li>
-        <li>超大图导出与 OOM 保护</li>
-        <li>多模型与不同 GPU 的稳定性</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/HF-CYGG/Y-Link">
+    <picture>
+      <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/generated/featured-y-link-mobile.svg#gh-dark-mode-only" />
+      <source media="(prefers-color-scheme: light) and (max-width: 600px), (prefers-color-scheme: no-preference) and (max-width: 600px)" srcset="./assets/generated/featured-y-link-mobile.svg#gh-light-mode-only" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/featured-y-link.svg#gh-dark-mode-only" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/featured-y-link.svg#gh-light-mode-only" />
+      <img width="100%" src="./assets/generated/featured-y-link.svg#gh-light-mode-only" alt="Y-Link 项目介绍卡片" />
+    </picture>
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/HF-CYGG/LumaSR">
+    <picture>
+      <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/generated/featured-lumasr-mobile.svg#gh-dark-mode-only" />
+      <source media="(prefers-color-scheme: light) and (max-width: 600px), (prefers-color-scheme: no-preference) and (max-width: 600px)" srcset="./assets/generated/featured-lumasr-mobile.svg#gh-light-mode-only" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/generated/featured-lumasr.svg#gh-dark-mode-only" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="./assets/generated/featured-lumasr.svg#gh-light-mode-only" />
+      <img width="100%" src="./assets/generated/featured-lumasr.svg#gh-light-mode-only" alt="LumaSR 项目介绍卡片" />
+    </picture>
+  </a>
+</p>
 
 ## More Projects
 
