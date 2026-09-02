@@ -38,33 +38,33 @@
   <rect class="divider" x="20" y="44" width="520" height="1" />
   <circle class="accent" cx="23" cy="66" r="3" />
   <text class="project" x="34" y="70">Dawn-Course</text>
-  <text class="accent" x="150" y="70">793e7c1</text>
-  <text class="muted" x="211" y="70">Merge pull request #112 from …</text>
-  <text class="meta" x="540" y="70" text-anchor="end">2026-09-01</text>
+  <text class="accent" x="150" y="70">7a3b524</text>
+  <text class="muted" x="211" y="70">Merge pull request #113 from …</text>
+  <text class="meta" x="540" y="70" text-anchor="end">2026-09-02</text>
   <circle class="accent" cx="23" cy="96" r="3" />
   <text class="project" x="34" y="100">Dawn-Course</text>
-  <text class="accent" x="150" y="100">9bd9f6f</text>
-  <text class="muted" x="211" y="100">fix(import): parity 需要词边界 + 跨…</text>
-  <text class="meta" x="540" y="100" text-anchor="end">2026-09-01</text>
+  <text class="accent" x="150" y="100">50110a9</text>
+  <text class="muted" x="211" y="100">fix: 收敛 PR 评审并强化恢复与调度责任</text>
+  <text class="meta" x="540" y="100" text-anchor="end">2026-09-02</text>
   <circle class="accent" cx="23" cy="126" r="3" />
   <text class="project" x="34" y="130">Dawn-Course</text>
-  <text class="accent" x="150" y="130">dae3c59</text>
-  <text class="muted" x="211" y="130">Merge pull request #96 from H…</text>
+  <text class="accent" x="150" y="130">7b95b6e</text>
+  <text class="muted" x="211" y="130">fix: 深度修复 PR 评审 3 项 P1 —— 精度持…</text>
   <text class="meta" x="540" y="130" text-anchor="end">2026-09-01</text>
   <circle class="accent" cx="23" cy="156" r="3" />
   <text class="project" x="34" y="160">Dawn-Course</text>
-  <text class="accent" x="150" y="160">c904c5b</text>
-  <text class="muted" x="211" y="160">Merge pull request #102 from …</text>
+  <text class="accent" x="150" y="160">3342370</text>
+  <text class="muted" x="211" y="160">ci(codeql): 修复 &quot;no source cod…</text>
   <text class="meta" x="540" y="160" text-anchor="end">2026-09-01</text>
   <circle class="accent" cx="23" cy="186" r="3" />
   <text class="project" x="34" y="190">Dawn-Course</text>
-  <text class="accent" x="150" y="190">3eaffef</text>
-  <text class="muted" x="211" y="190">Merge pull request #106 from …</text>
+  <text class="accent" x="150" y="190">0785608</text>
+  <text class="muted" x="211" y="190">ci: 进一步提速——拆分并行 job、配置缓存、SDK …</text>
   <text class="meta" x="540" y="190" text-anchor="end">2026-09-01</text>
   <circle class="accent" cx="23" cy="216" r="3" />
   <text class="project" x="34" y="220">Dawn-Course</text>
-  <text class="accent" x="150" y="220">f633e2b</text>
-  <text class="muted" x="211" y="220">Merge pull request #107 from …</text>
+  <text class="accent" x="150" y="220">58c7d89</text>
+  <text class="muted" x="211" y="220">fix(timetable): 处理 PR 评审 3 项 …</text>
   <text class="meta" x="540" y="220" text-anchor="end">2026-09-01</text>
-  <text class="meta" x="20" y="266">Updated 2026-09-01 23:06 UTC</text>
+  <text class="meta" x="20" y="266">Updated 2026-09-02 03:28 UTC</text>
 </svg>
