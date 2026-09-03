@@ -38,33 +38,33 @@
   <rect class="divider" x="20" y="44" width="520" height="1" />
   <circle class="accent" cx="23" cy="66" r="3" />
   <text class="project" x="34" y="70">Dawn-Course</text>
-  <text class="accent" x="150" y="70">0735106</text>
-  <text class="muted" x="211" y="70">Merge pull request #116 from …</text>
+  <text class="accent" x="150" y="70">2759b36</text>
+  <text class="muted" x="211" y="70">Add files via upload</text>
   <text class="meta" x="540" y="70" text-anchor="end">2026-09-03</text>
   <circle class="accent" cx="23" cy="96" r="3" />
   <text class="project" x="34" y="100">Dawn-Course</text>
-  <text class="accent" x="150" y="100">e9d61cc</text>
-  <text class="muted" x="211" y="100">docs(release): 记录 v1.0.6.0 正式…</text>
-  <text class="meta" x="540" y="100" text-anchor="end">2026-09-02</text>
+  <text class="accent" x="150" y="100">06bc27c</text>
+  <text class="muted" x="211" y="100">chore(release): 准备 v1.0.6.1 客…</text>
+  <text class="meta" x="540" y="100" text-anchor="end">2026-09-03</text>
   <circle class="accent" cx="23" cy="126" r="3" />
   <text class="project" x="34" y="130">Dawn-Course</text>
-  <text class="accent" x="150" y="130">253af92</text>
-  <text class="muted" x="211" y="130">fix(release): 修复课表重复并完善应用内更新</text>
-  <text class="meta" x="540" y="130" text-anchor="end">2026-09-02</text>
+  <text class="accent" x="150" y="130">2d7650d</text>
+  <text class="muted" x="211" y="130">chore(git): 忽略本地 Gradle Codex…</text>
+  <text class="meta" x="540" y="130" text-anchor="end">2026-09-03</text>
   <circle class="accent" cx="23" cy="156" r="3" />
   <text class="project" x="34" y="160">Dawn-Course</text>
-  <text class="accent" x="150" y="160">7a3b524</text>
-  <text class="muted" x="211" y="160">Merge pull request #113 from …</text>
-  <text class="meta" x="540" y="160" text-anchor="end">2026-09-02</text>
+  <text class="accent" x="150" y="160">0735106</text>
+  <text class="muted" x="211" y="160">Merge pull request #116 from …</text>
+  <text class="meta" x="540" y="160" text-anchor="end">2026-09-03</text>
   <circle class="accent" cx="23" cy="186" r="3" />
   <text class="project" x="34" y="190">Dawn-Course</text>
-  <text class="accent" x="150" y="190">50110a9</text>
-  <text class="muted" x="211" y="190">fix: 收敛 PR 评审并强化恢复与调度责任</text>
+  <text class="accent" x="150" y="190">e9d61cc</text>
+  <text class="muted" x="211" y="190">docs(release): 记录 v1.0.6.0 正式…</text>
   <text class="meta" x="540" y="190" text-anchor="end">2026-09-02</text>
   <circle class="accent" cx="23" cy="216" r="3" />
   <text class="project" x="34" y="220">Dawn-Course</text>
-  <text class="accent" x="150" y="220">7b95b6e</text>
-  <text class="muted" x="211" y="220">fix: 深度修复 PR 评审 3 项 P1 —— 精度持…</text>
-  <text class="meta" x="540" y="220" text-anchor="end">2026-09-01</text>
-  <text class="meta" x="20" y="266">Updated 2026-09-03 17:37 UTC</text>
+  <text class="accent" x="150" y="220">253af92</text>
+  <text class="muted" x="211" y="220">fix(release): 修复课表重复并完善应用内更新</text>
+  <text class="meta" x="540" y="220" text-anchor="end">2026-09-02</text>
+  <text class="meta" x="20" y="266">Updated 2026-09-03 20:40 UTC</text>
 </svg>
