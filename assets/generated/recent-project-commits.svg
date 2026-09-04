@@ -37,34 +37,34 @@
   <text class="meta" x="540" y="30" text-anchor="end">latest 6</text>
   <rect class="divider" x="20" y="44" width="520" height="1" />
   <circle class="accent" cx="23" cy="66" r="3" />
-  <text class="project" x="34" y="70">Dawn-Course</text>
-  <text class="accent" x="150" y="70">2759b36</text>
-  <text class="muted" x="211" y="70">Add files via upload</text>
-  <text class="meta" x="540" y="70" text-anchor="end">2026-09-03</text>
+  <text class="project" x="34" y="70">Y-Link</text>
+  <text class="accent" x="150" y="70">74cad17</text>
+  <text class="muted" x="211" y="70">feat: 接入阿里云 PNVS 短信验证与 MNS 回执…</text>
+  <text class="meta" x="540" y="70" text-anchor="end">2026-09-04</text>
   <circle class="accent" cx="23" cy="96" r="3" />
   <text class="project" x="34" y="100">Dawn-Course</text>
-  <text class="accent" x="150" y="100">06bc27c</text>
-  <text class="muted" x="211" y="100">chore(release): 准备 v1.0.6.1 客…</text>
+  <text class="accent" x="150" y="100">2759b36</text>
+  <text class="muted" x="211" y="100">Add files via upload</text>
   <text class="meta" x="540" y="100" text-anchor="end">2026-09-03</text>
   <circle class="accent" cx="23" cy="126" r="3" />
   <text class="project" x="34" y="130">Dawn-Course</text>
-  <text class="accent" x="150" y="130">2d7650d</text>
-  <text class="muted" x="211" y="130">chore(git): 忽略本地 Gradle Codex…</text>
+  <text class="accent" x="150" y="130">06bc27c</text>
+  <text class="muted" x="211" y="130">chore(release): 准备 v1.0.6.1 客…</text>
   <text class="meta" x="540" y="130" text-anchor="end">2026-09-03</text>
   <circle class="accent" cx="23" cy="156" r="3" />
   <text class="project" x="34" y="160">Dawn-Course</text>
-  <text class="accent" x="150" y="160">0735106</text>
-  <text class="muted" x="211" y="160">Merge pull request #116 from …</text>
+  <text class="accent" x="150" y="160">2d7650d</text>
+  <text class="muted" x="211" y="160">chore(git): 忽略本地 Gradle Codex…</text>
   <text class="meta" x="540" y="160" text-anchor="end">2026-09-03</text>
   <circle class="accent" cx="23" cy="186" r="3" />
   <text class="project" x="34" y="190">Dawn-Course</text>
-  <text class="accent" x="150" y="190">e9d61cc</text>
-  <text class="muted" x="211" y="190">docs(release): 记录 v1.0.6.0 正式…</text>
-  <text class="meta" x="540" y="190" text-anchor="end">2026-09-02</text>
+  <text class="accent" x="150" y="190">0735106</text>
+  <text class="muted" x="211" y="190">Merge pull request #116 from …</text>
+  <text class="meta" x="540" y="190" text-anchor="end">2026-09-03</text>
   <circle class="accent" cx="23" cy="216" r="3" />
   <text class="project" x="34" y="220">Dawn-Course</text>
-  <text class="accent" x="150" y="220">253af92</text>
-  <text class="muted" x="211" y="220">fix(release): 修复课表重复并完善应用内更新</text>
+  <text class="accent" x="150" y="220">e9d61cc</text>
+  <text class="muted" x="211" y="220">docs(release): 记录 v1.0.6.0 正式…</text>
   <text class="meta" x="540" y="220" text-anchor="end">2026-09-02</text>
-  <text class="meta" x="20" y="266">Updated 2026-09-04 13:14 UTC</text>
+  <text class="meta" x="20" y="266">Updated 2026-09-04 17:25 UTC</text>
 </svg>
