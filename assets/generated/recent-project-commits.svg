@@ -38,33 +38,33 @@
   <rect class="divider" x="20" y="44" width="520" height="1" />
   <circle class="accent" cx="23" cy="66" r="3" />
   <text class="project" x="34" y="70">Y-Link</text>
-  <text class="accent" x="150" y="70">809a6df</text>
-  <text class="muted" x="211" y="70">feat(o2o): 完善订单治理、用户名规则与操作手册 …</text>
+  <text class="accent" x="150" y="70">a00670d</text>
+  <text class="muted" x="211" y="70">feat(auth): 实现 Native Mobile …</text>
   <text class="meta" x="540" y="70" text-anchor="end">2026-09-07</text>
   <circle class="accent" cx="23" cy="96" r="3" />
   <text class="project" x="34" y="100">Y-Link</text>
-  <text class="accent" x="150" y="100">548eb4b</text>
-  <text class="muted" x="211" y="100">fix: 修复购物车静默缩量与注册用户名规则（#52、#5…</text>
-  <text class="meta" x="540" y="100" text-anchor="end">2026-09-06</text>
+  <text class="accent" x="150" y="100">809a6df</text>
+  <text class="muted" x="211" y="100">feat(o2o): 完善订单治理、用户名规则与操作手册 …</text>
+  <text class="meta" x="540" y="100" text-anchor="end">2026-09-07</text>
   <circle class="accent" cx="23" cy="126" r="3" />
   <text class="project" x="34" y="130">Y-Link</text>
-  <text class="accent" x="150" y="130">00a2aa0</text>
-  <text class="muted" x="211" y="130">fix: 加固 Web 安全并完善数据库自动迁移与独立救援…</text>
+  <text class="accent" x="150" y="130">548eb4b</text>
+  <text class="muted" x="211" y="130">fix: 修复购物车静默缩量与注册用户名规则（#52、#5…</text>
   <text class="meta" x="540" y="130" text-anchor="end">2026-09-06</text>
   <circle class="accent" cx="23" cy="156" r="3" />
   <text class="project" x="34" y="160">Y-Link</text>
-  <text class="accent" x="150" y="160">a95d5d5</text>
-  <text class="muted" x="211" y="160">feat(client-auth): 改用教师统一自定义邀…</text>
+  <text class="accent" x="150" y="160">00a2aa0</text>
+  <text class="muted" x="211" y="160">fix: 加固 Web 安全并完善数据库自动迁移与独立救援…</text>
   <text class="meta" x="540" y="160" text-anchor="end">2026-09-06</text>
   <circle class="accent" cx="23" cy="186" r="3" />
   <text class="project" x="34" y="190">Y-Link</text>
-  <text class="accent" x="150" y="190">74cad17</text>
-  <text class="muted" x="211" y="190">feat: 接入阿里云 PNVS 短信验证与 MNS 回执…</text>
-  <text class="meta" x="540" y="190" text-anchor="end">2026-09-04</text>
+  <text class="accent" x="150" y="190">a95d5d5</text>
+  <text class="muted" x="211" y="190">feat(client-auth): 改用教师统一自定义邀…</text>
+  <text class="meta" x="540" y="190" text-anchor="end">2026-09-06</text>
   <circle class="accent" cx="23" cy="216" r="3" />
-  <text class="project" x="34" y="220">Dawn-Course</text>
-  <text class="accent" x="150" y="220">2759b36</text>
-  <text class="muted" x="211" y="220">Add files via upload</text>
-  <text class="meta" x="540" y="220" text-anchor="end">2026-09-03</text>
-  <text class="meta" x="20" y="266">Updated 2026-09-07 09:03 UTC</text>
+  <text class="project" x="34" y="220">Y-Link</text>
+  <text class="accent" x="150" y="220">74cad17</text>
+  <text class="muted" x="211" y="220">feat: 接入阿里云 PNVS 短信验证与 MNS 回执…</text>
+  <text class="meta" x="540" y="220" text-anchor="end">2026-09-04</text>
+  <text class="meta" x="20" y="266">Updated 2026-09-07 15:34 UTC</text>
 </svg>
