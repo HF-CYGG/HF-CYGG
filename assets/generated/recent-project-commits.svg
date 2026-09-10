@@ -38,33 +38,33 @@
   <rect class="divider" x="20" y="44" width="520" height="1" />
   <circle class="accent" cx="23" cy="66" r="3" />
   <text class="project" x="34" y="70">Y-Link</text>
-  <text class="accent" x="150" y="70">31d7472</text>
-  <text class="muted" x="211" y="70">修正通知出站请求 DNS 回调与地址族筛选 (#76)</text>
+  <text class="accent" x="150" y="70">56a83d8</text>
+  <text class="muted" x="211" y="70">fix(o2o): 预订单商品明细补充下单时的款式与规格展…</text>
   <text class="meta" x="540" y="70" text-anchor="end">2026-09-10</text>
   <circle class="accent" cx="23" cy="96" r="3" />
   <text class="project" x="34" y="100">Y-Link</text>
-  <text class="accent" x="150" y="100">364d54f</text>
-  <text class="muted" x="211" y="100">feat(dashboard): 首页图表与榜单支持自定义…</text>
-  <text class="meta" x="540" y="100" text-anchor="end">2026-09-08</text>
+  <text class="accent" x="150" y="100">1c3c510</text>
+  <text class="muted" x="211" y="100">fix(reports): 统一库存预览与导出的 SKU …</text>
+  <text class="meta" x="540" y="100" text-anchor="end">2026-09-10</text>
   <circle class="accent" cx="23" cy="126" r="3" />
   <text class="project" x="34" y="130">Y-Link</text>
-  <text class="accent" x="150" y="130">6dbb1dd</text>
-  <text class="muted" x="211" y="130">ci: 并行原生多架构构建并修正清单仓库解析 (#65)</text>
-  <text class="meta" x="540" y="130" text-anchor="end">2026-09-07</text>
+  <text class="accent" x="150" y="130">31d7472</text>
+  <text class="muted" x="211" y="130">修正通知出站请求 DNS 回调与地址族筛选 (#76)</text>
+  <text class="meta" x="540" y="130" text-anchor="end">2026-09-10</text>
   <circle class="accent" cx="23" cy="156" r="3" />
   <text class="project" x="34" y="160">Y-Link</text>
-  <text class="accent" x="150" y="160">cdd4692</text>
-  <text class="muted" x="211" y="160">fix(auth): 修复容器验证码缺字并优化验证输入体验…</text>
-  <text class="meta" x="540" y="160" text-anchor="end">2026-09-07</text>
+  <text class="accent" x="150" y="160">364d54f</text>
+  <text class="muted" x="211" y="160">feat(dashboard): 首页图表与榜单支持自定义…</text>
+  <text class="meta" x="540" y="160" text-anchor="end">2026-09-08</text>
   <circle class="accent" cx="23" cy="186" r="3" />
   <text class="project" x="34" y="190">Y-Link</text>
-  <text class="accent" x="150" y="190">a736a61</text>
-  <text class="muted" x="211" y="190">fix(web): 修复报表深链接与语录加载并校正版本为 …</text>
+  <text class="accent" x="150" y="190">6dbb1dd</text>
+  <text class="muted" x="211" y="190">ci: 并行原生多架构构建并修正清单仓库解析 (#65)</text>
   <text class="meta" x="540" y="190" text-anchor="end">2026-09-07</text>
   <circle class="accent" cx="23" cy="216" r="3" />
   <text class="project" x="34" y="220">Y-Link</text>
-  <text class="accent" x="150" y="220">a00670d</text>
-  <text class="muted" x="211" y="220">feat(auth): 实现 Native Mobile …</text>
+  <text class="accent" x="150" y="220">cdd4692</text>
+  <text class="muted" x="211" y="220">fix(auth): 修复容器验证码缺字并优化验证输入体验…</text>
   <text class="meta" x="540" y="220" text-anchor="end">2026-09-07</text>
-  <text class="meta" x="20" y="266">Updated 2026-09-10 13:22 UTC</text>
+  <text class="meta" x="20" y="266">Updated 2026-09-10 17:31 UTC</text>
 </svg>
