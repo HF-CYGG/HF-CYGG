@@ -41,30 +41,30 @@
   <rect class="bar" x="150" y="61" width="168" height="7" rx="3.5" />
   <text class="muted" x="330" y="70">10 commits</text>
   <text class="meta" x="540" y="70" text-anchor="end">2026-09-10</text>
-  <text class="project" x="20" y="100">Dawn-Course</text>
+  <text class="project" x="20" y="100">EquipTrack</text>
   <rect class="track" x="150" y="91" width="168" height="7" rx="3.5" />
   <rect class="bar" x="150" y="91" width="168" height="7" rx="3.5" />
   <text class="muted" x="330" y="100">10 commits</text>
-  <text class="meta" x="540" y="100" text-anchor="end">2026-09-05</text>
-  <text class="project" x="20" y="130">InfraCount</text>
+  <text class="meta" x="540" y="100" text-anchor="end">2026-09-10</text>
+  <text class="project" x="20" y="130">Dawn-Course</text>
   <rect class="track" x="150" y="121" width="168" height="7" rx="3.5" />
-  <rect class="bar" x="150" y="121" width="17" height="7" rx="3.5" />
-  <text class="muted" x="330" y="130">1 commits</text>
-  <text class="meta" x="540" y="130" text-anchor="end">2026-08-31</text>
-  <text class="project" x="20" y="160">LumaSR</text>
+  <rect class="bar" x="150" y="121" width="168" height="7" rx="3.5" />
+  <text class="muted" x="330" y="130">10 commits</text>
+  <text class="meta" x="540" y="130" text-anchor="end">2026-09-05</text>
+  <text class="project" x="20" y="160">InfraCount</text>
   <rect class="track" x="150" y="151" width="168" height="7" rx="3.5" />
-  <rect class="bar" x="150" y="151" width="168" height="7" rx="3.5" />
-  <text class="muted" x="330" y="160">10 commits</text>
-  <text class="meta" x="540" y="160" text-anchor="end">2026-07-25</text>
-  <text class="project" x="20" y="190">qq-emote-deck</text>
+  <rect class="bar" x="150" y="151" width="17" height="7" rx="3.5" />
+  <text class="muted" x="330" y="160">1 commits</text>
+  <text class="meta" x="540" y="160" text-anchor="end">2026-08-31</text>
+  <text class="project" x="20" y="190">LumaSR</text>
   <rect class="track" x="150" y="181" width="168" height="7" rx="3.5" />
-  <rect class="bar" x="150" y="181" width="50" height="7" rx="3.5" />
-  <text class="muted" x="330" y="190">3 commits</text>
-  <text class="meta" x="540" y="190" text-anchor="end">2026-07-20</text>
-  <text class="project" x="20" y="220">EquipTrack</text>
+  <rect class="bar" x="150" y="181" width="168" height="7" rx="3.5" />
+  <text class="muted" x="330" y="190">10 commits</text>
+  <text class="meta" x="540" y="190" text-anchor="end">2026-07-25</text>
+  <text class="project" x="20" y="220">qq-emote-deck</text>
   <rect class="track" x="150" y="211" width="168" height="7" rx="3.5" />
-  <rect class="bar" x="150" y="211" width="0" height="7" rx="3.5" />
-  <text class="muted" x="330" y="220">0 commits</text>
-  <text class="meta" x="540" y="220" text-anchor="end">2026-02-15</text>
-  <text class="meta" x="20" y="266">Updated 2026-09-10 17:31 UTC</text>
+  <rect class="bar" x="150" y="211" width="50" height="7" rx="3.5" />
+  <text class="muted" x="330" y="220">3 commits</text>
+  <text class="meta" x="540" y="220" text-anchor="end">2026-07-20</text>
+  <text class="meta" x="20" y="266">Updated 2026-09-10 20:32 UTC</text>
 </svg>
