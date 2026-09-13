@@ -38,33 +38,33 @@
   <rect class="divider" x="20" y="44" width="520" height="1" />
   <circle class="accent" cx="23" cy="66" r="3" />
   <text class="project" x="34" y="70">Y-Link</text>
-  <text class="accent" x="150" y="70">6dc428b</text>
-  <text class="muted" x="211" y="70">fix: 修复入库冲销并完善出库凭证聚合 (#80)</text>
-  <text class="meta" x="540" y="70" text-anchor="end">2026-09-10</text>
+  <text class="accent" x="150" y="70">07cab75</text>
+  <text class="muted" x="211" y="70">feat: 未认证联系方式补认证与出库开单客户部门下拉 (…</text>
+  <text class="meta" x="540" y="70" text-anchor="end">2026-09-13</text>
   <circle class="accent" cx="23" cy="96" r="3" />
-  <text class="project" x="34" y="100">EquipTrack</text>
-  <text class="accent" x="150" y="100">c384642</text>
-  <text class="muted" x="211" y="100">docs(部署): 文档指向服务端仓库</text>
-  <text class="meta" x="540" y="100" text-anchor="end">2026-09-10</text>
+  <text class="project" x="34" y="100">Y-Link</text>
+  <text class="accent" x="150" y="100">47888e8</text>
+  <text class="muted" x="211" y="100">feat: 完善出库订单 SKU、受控修订与双账号生命周期…</text>
+  <text class="meta" x="540" y="100" text-anchor="end">2026-09-13</text>
   <circle class="accent" cx="23" cy="126" r="3" />
-  <text class="project" x="34" y="130">EquipTrack</text>
-  <text class="accent" x="150" y="130">1fdd814</text>
-  <text class="muted" x="211" y="130">refactor(部署): 部署配置迁到服务端仓库</text>
+  <text class="project" x="34" y="130">Y-Link</text>
+  <text class="accent" x="150" y="130">6dc428b</text>
+  <text class="muted" x="211" y="130">fix: 修复入库冲销并完善出库凭证聚合 (#80)</text>
   <text class="meta" x="540" y="130" text-anchor="end">2026-09-10</text>
   <circle class="accent" cx="23" cy="156" r="3" />
   <text class="project" x="34" y="160">EquipTrack</text>
-  <text class="accent" x="150" y="160">2676db8</text>
-  <text class="muted" x="211" y="160">feat(部署): CI 支持下发初始管理员账密</text>
+  <text class="accent" x="150" y="160">c384642</text>
+  <text class="muted" x="211" y="160">docs(部署): 文档指向服务端仓库</text>
   <text class="meta" x="540" y="160" text-anchor="end">2026-09-10</text>
   <circle class="accent" cx="23" cy="186" r="3" />
   <text class="project" x="34" y="190">EquipTrack</text>
-  <text class="accent" x="150" y="190">d0b1a83</text>
-  <text class="muted" x="211" y="190">docs(部署): 建表改为自动，补充创建初始管理员步骤</text>
+  <text class="accent" x="150" y="190">1fdd814</text>
+  <text class="muted" x="211" y="190">refactor(部署): 部署配置迁到服务端仓库</text>
   <text class="meta" x="540" y="190" text-anchor="end">2026-09-10</text>
   <circle class="accent" cx="23" cy="216" r="3" />
   <text class="project" x="34" y="220">EquipTrack</text>
-  <text class="accent" x="150" y="220">62fa77b</text>
-  <text class="muted" x="211" y="220">refactor(部署): 部署目录改到 1Panel 的…</text>
+  <text class="accent" x="150" y="220">2676db8</text>
+  <text class="muted" x="211" y="220">feat(部署): CI 支持下发初始管理员账密</text>
   <text class="meta" x="540" y="220" text-anchor="end">2026-09-10</text>
-  <text class="meta" x="20" y="266">Updated 2026-09-13 20:40 UTC</text>
+  <text class="meta" x="20" y="266">Updated 2026-09-13 22:58 UTC</text>
 </svg>
