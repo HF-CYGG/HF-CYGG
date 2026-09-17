@@ -38,33 +38,33 @@
   <rect class="divider" x="20" y="44" width="520" height="1" />
   <circle class="accent" cx="23" cy="66" r="3" />
   <text class="project" x="34" y="70">Y-Link</text>
-  <text class="accent" x="150" y="70">235fdfc</text>
-  <text class="muted" x="211" y="70">Merge pull request #101 from …</text>
-  <text class="meta" x="540" y="70" text-anchor="end">2026-09-16</text>
+  <text class="accent" x="150" y="70">b81b8cc</text>
+  <text class="muted" x="211" y="70">Merge pull request #104 from …</text>
+  <text class="meta" x="540" y="70" text-anchor="end">2026-09-17</text>
   <circle class="accent" cx="23" cy="96" r="3" />
   <text class="project" x="34" y="100">Y-Link</text>
-  <text class="accent" x="150" y="100">e90d639</text>
-  <text class="muted" x="211" y="100">Merge remote-tracking branch …</text>
-  <text class="meta" x="540" y="100" text-anchor="end">2026-09-16</text>
+  <text class="accent" x="150" y="100">6de54f7</text>
+  <text class="muted" x="211" y="100">docs(version): 补充 v1.5.31.0 版…</text>
+  <text class="meta" x="540" y="100" text-anchor="end">2026-09-17</text>
   <circle class="accent" cx="23" cy="126" r="3" />
   <text class="project" x="34" y="130">Y-Link</text>
-  <text class="accent" x="150" y="130">86f6bd8</text>
-  <text class="muted" x="211" y="130">Merge pull request #102 from …</text>
-  <text class="meta" x="540" y="130" text-anchor="end">2026-09-16</text>
+  <text class="accent" x="150" y="130">5e88d7f</text>
+  <text class="muted" x="211" y="130">chore(version): 更新应用版本至 v1.5.…</text>
+  <text class="meta" x="540" y="130" text-anchor="end">2026-09-17</text>
   <circle class="accent" cx="23" cy="156" r="3" />
   <text class="project" x="34" y="160">Y-Link</text>
-  <text class="accent" x="150" y="160">5a8c032</text>
+  <text class="accent" x="150" y="160">a80523d</text>
   <text class="muted" x="211" y="160">Merge branch &apos;main&apos; into feat…</text>
-  <text class="meta" x="540" y="160" text-anchor="end">2026-09-16</text>
+  <text class="meta" x="540" y="160" text-anchor="end">2026-09-17</text>
   <circle class="accent" cx="23" cy="186" r="3" />
   <text class="project" x="34" y="190">Y-Link</text>
-  <text class="accent" x="150" y="190">59abb19</text>
-  <text class="muted" x="211" y="190">Merge pull request #99 from H…</text>
-  <text class="meta" x="540" y="190" text-anchor="end">2026-09-16</text>
+  <text class="accent" x="150" y="190">ff70b90</text>
+  <text class="muted" x="211" y="190">feat(inventory): 文创店库存管理（SKU …</text>
+  <text class="meta" x="540" y="190" text-anchor="end">2026-09-17</text>
   <circle class="accent" cx="23" cy="216" r="3" />
   <text class="project" x="34" y="220">Y-Link</text>
-  <text class="accent" x="150" y="220">a8835d2</text>
-  <text class="muted" x="211" y="220">Merge remote-tracking branch …</text>
+  <text class="accent" x="150" y="220">43f5a31</text>
+  <text class="muted" x="211" y="220">docs(version): 按提交实际日期校正 v1.5…</text>
   <text class="meta" x="540" y="220" text-anchor="end">2026-09-16</text>
-  <text class="meta" x="20" y="266">Updated 2026-09-17 13:08 UTC</text>
+  <text class="meta" x="20" y="266">Updated 2026-09-17 17:59 UTC</text>
 </svg>
