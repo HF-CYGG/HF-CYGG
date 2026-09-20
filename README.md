@@ -34,11 +34,10 @@
   </a>
 </div>
 
-<sub>由 [jstrieb/github-stats](https://github.com/jstrieb/github-stats) 生成；统计公开、非 fork 仓库。语言占比表示公开仓库代码体积，并非技能熟练度。</sub>
 
 <div>
   <a href="https://tokscale.ai/u/HF-CYGG">
-    <img width="100%" src="https://tokscale.ai/api/embed/HF-CYGG/svg?graph=1&amp;tokens=compact&amp;cost=full" alt="HF-CYGG 的 Tokscale Token、成本、排名与贡献活动统计" />
+    <img width="100%" src="https://tokscale.ai/api/embed/HF-CYGG/svg?rank=percent&tokens=full&cost=full" alt="HF-CYGG 的 Tokscale Token、成本、排名与贡献活动统计" />
   </a>
 </div>
 
@@ -50,7 +49,6 @@
   <img width="49%" src="./assets/generated/project-pulse.svg#gh-light-mode-only" alt="HF-CYGG 项目活跃度动态卡片" />
 </div>
 
-<sub>由 GitHub Actions 更新 · 仅统计已跟踪的公开项目仓库 · 2026-09-20 10:51 UTC</sub>
 <!-- RECENT_ACTIVITY:END -->
 
 ## Stack
