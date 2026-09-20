@@ -38,33 +38,33 @@
   <rect class="divider" x="20" y="44" width="520" height="1" />
   <circle class="accent" cx="23" cy="66" r="3" />
   <text class="project" x="34" y="70">Y-Link</text>
-  <text class="accent" x="150" y="70">b149f94</text>
-  <text class="muted" x="211" y="70">Merge pull request #107 from …</text>
-  <text class="meta" x="540" y="70" text-anchor="end">2026-09-18</text>
+  <text class="accent" x="150" y="70">3aec01d</text>
+  <text class="muted" x="211" y="70">Merge pull request #109 from …</text>
+  <text class="meta" x="540" y="70" text-anchor="end">2026-09-20</text>
   <circle class="accent" cx="23" cy="96" r="3" />
   <text class="project" x="34" y="100">Y-Link</text>
-  <text class="accent" x="150" y="100">d2dd916</text>
-  <text class="muted" x="211" y="100">docs(version): 补充 v1.5.31.1 版…</text>
-  <text class="meta" x="540" y="100" text-anchor="end">2026-09-18</text>
+  <text class="accent" x="150" y="100">5ea31ce</text>
+  <text class="muted" x="211" y="100">docs(version): 补充 v1.5.39.9 版…</text>
+  <text class="meta" x="540" y="100" text-anchor="end">2026-09-20</text>
   <circle class="accent" cx="23" cy="126" r="3" />
   <text class="project" x="34" y="130">Y-Link</text>
-  <text class="accent" x="150" y="130">083058b</text>
+  <text class="accent" x="150" y="130">7a61160</text>
   <text class="muted" x="211" y="130">chore(version): 更新应用版本至 v1.5.…</text>
-  <text class="meta" x="540" y="130" text-anchor="end">2026-09-18</text>
+  <text class="meta" x="540" y="130" text-anchor="end">2026-09-20</text>
   <circle class="accent" cx="23" cy="156" r="3" />
   <text class="project" x="34" y="160">Y-Link</text>
-  <text class="accent" x="150" y="160">6d4a7ea</text>
-  <text class="muted" x="211" y="160">fix(client-mall): 修正分类抵达判定下界与…</text>
-  <text class="meta" x="540" y="160" text-anchor="end">2026-09-18</text>
+  <text class="accent" x="150" y="160">99c8ae9</text>
+  <text class="muted" x="211" y="160">fix(product): 序号分配跳过已被产品编码占用的…</text>
+  <text class="meta" x="540" y="160" text-anchor="end">2026-09-20</text>
   <circle class="accent" cx="23" cy="186" r="3" />
   <text class="project" x="34" y="190">Y-Link</text>
-  <text class="accent" x="150" y="190">33b4f63</text>
-  <text class="muted" x="211" y="190">fix(client-mall): 修正分类同步时序并让左…</text>
-  <text class="meta" x="540" y="190" text-anchor="end">2026-09-18</text>
+  <text class="accent" x="150" y="190">2883094</text>
+  <text class="muted" x="211" y="190">fix(product): 存活商品占用回填改为按编码结构…</text>
+  <text class="meta" x="540" y="190" text-anchor="end">2026-09-20</text>
   <circle class="accent" cx="23" cy="216" r="3" />
   <text class="project" x="34" y="220">Y-Link</text>
-  <text class="accent" x="150" y="220">ed4b67a</text>
-  <text class="muted" x="211" y="220">fix(dashboard): 经常购买部门榜排除散客统计</text>
-  <text class="meta" x="540" y="220" text-anchor="end">2026-09-18</text>
-  <text class="meta" x="20" y="266">Updated 2026-09-20 18:04 UTC</text>
+  <text class="accent" x="150" y="220">3a16c23</text>
+  <text class="muted" x="211" y="220">fix(product): 冲突检查精确到 SKU 粒度，…</text>
+  <text class="meta" x="540" y="220" text-anchor="end">2026-09-20</text>
+  <text class="meta" x="20" y="266">Updated 2026-09-20 21:14 UTC</text>
 </svg>
