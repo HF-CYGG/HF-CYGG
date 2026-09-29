@@ -38,33 +38,33 @@
   <rect class="divider" x="20" y="44" width="520" height="1" />
   <circle class="accent" cx="23" cy="66" r="3" />
   <text class="project" x="34" y="70">Y-Link</text>
-  <text class="accent" x="150" y="70">60539d8</text>
-  <text class="muted" x="211" y="70">Merge pull request #116 from …</text>
+  <text class="accent" x="150" y="70">f08043c</text>
+  <text class="muted" x="211" y="70">Merge pull request #151 from …</text>
   <text class="meta" x="540" y="70" text-anchor="end">2026-09-28</text>
   <circle class="accent" cx="23" cy="96" r="3" />
   <text class="project" x="34" y="100">Y-Link</text>
-  <text class="accent" x="150" y="100">28551de</text>
-  <text class="muted" x="211" y="100">docs(version): 回填 v1.5.51.21 …</text>
+  <text class="accent" x="150" y="100">f0297b8</text>
+  <text class="muted" x="211" y="100">fix(coverage): 明确覆盖率命令的最低 Nod…</text>
   <text class="meta" x="540" y="100" text-anchor="end">2026-09-28</text>
   <circle class="accent" cx="23" cy="126" r="3" />
   <text class="project" x="34" y="130">Y-Link</text>
-  <text class="accent" x="150" y="130">4f078dd</text>
-  <text class="muted" x="211" y="130">chore(version): 更新应用版本至 v1.5.…</text>
+  <text class="accent" x="150" y="130">b1f7220</text>
+  <text class="muted" x="211" y="130">ci(sonar): 拆分覆盖率与扫描作业，隔离 SONA…</text>
   <text class="meta" x="540" y="130" text-anchor="end">2026-09-28</text>
   <circle class="accent" cx="23" cy="156" r="3" />
   <text class="project" x="34" y="160">Y-Link</text>
-  <text class="accent" x="150" y="160">c7cd9f1</text>
-  <text class="muted" x="211" y="160">fix(security): 导出租约等待生成结束与响应结…</text>
+  <text class="accent" x="150" y="160">2224e24</text>
+  <text class="muted" x="211" y="160">ci(sonar): 固定 Action 提交 SHA、禁…</text>
   <text class="meta" x="540" y="160" text-anchor="end">2026-09-28</text>
   <circle class="accent" cx="23" cy="186" r="3" />
   <text class="project" x="34" y="190">Y-Link</text>
-  <text class="accent" x="150" y="190">65c1631</text>
-  <text class="muted" x="211" y="190">fix(security): 永久删除口令失败尝试跨入口按…</text>
+  <text class="accent" x="150" y="190">bbc1925</text>
+  <text class="muted" x="211" y="190">docs(plan): 勾选 SonarCloud 负责人…</text>
   <text class="meta" x="540" y="190" text-anchor="end">2026-09-28</text>
   <circle class="accent" cx="23" cy="216" r="3" />
   <text class="project" x="34" y="220">Y-Link</text>
-  <text class="accent" x="150" y="220">e574b6c</text>
-  <text class="muted" x="211" y="220">fix(security): 缺少配套加密密钥时阻断启动并…</text>
+  <text class="accent" x="150" y="220">e231d7c</text>
+  <text class="muted" x="211" y="220">ci(sonar): SonarCloud 改为 CI 分…</text>
   <text class="meta" x="540" y="220" text-anchor="end">2026-09-28</text>
-  <text class="meta" x="20" y="266">Updated 2026-09-28 21:38 UTC</text>
+  <text class="meta" x="20" y="266">Updated 2026-09-29 01:33 UTC</text>
 </svg>
