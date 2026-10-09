@@ -38,33 +38,33 @@
   <rect class="divider" x="20" y="44" width="520" height="1" />
   <circle class="accent" cx="23" cy="66" r="3" />
   <text class="project" x="34" y="70">Y-Link</text>
-  <text class="accent" x="150" y="70">7009a53</text>
-  <text class="muted" x="211" y="70">Merge pull request #117 from …</text>
-  <text class="meta" x="540" y="70" text-anchor="end">2026-10-07</text>
+  <text class="accent" x="150" y="70">dd5b98f</text>
+  <text class="muted" x="211" y="70">Merge pull request #152 from …</text>
+  <text class="meta" x="540" y="70" text-anchor="end">2026-10-09</text>
   <circle class="accent" cx="23" cy="96" r="3" />
   <text class="project" x="34" y="100">Y-Link</text>
-  <text class="accent" x="150" y="100">f4c42a4</text>
-  <text class="muted" x="211" y="100">chore(version): 更新应用版本至 v1.5.…</text>
-  <text class="meta" x="540" y="100" text-anchor="end">2026-10-07</text>
+  <text class="accent" x="150" y="100">4a1dd22</text>
+  <text class="muted" x="211" y="100">fix(client-auth): 移动端登录页为主题开关…</text>
+  <text class="meta" x="540" y="100" text-anchor="end">2026-10-09</text>
   <circle class="accent" cx="23" cy="126" r="3" />
   <text class="project" x="34" y="130">Y-Link</text>
-  <text class="accent" x="150" y="130">06b6bc1</text>
-  <text class="muted" x="211" y="130">Merge branch &apos;main&apos; into code…</text>
-  <text class="meta" x="540" y="130" text-anchor="end">2026-10-07</text>
+  <text class="accent" x="150" y="130">94c2a02</text>
+  <text class="muted" x="211" y="130">fix(theme): 反馈详情系统消息卡片补齐暗色背景</text>
+  <text class="meta" x="540" y="130" text-anchor="end">2026-10-09</text>
   <circle class="accent" cx="23" cy="156" r="3" />
   <text class="project" x="34" y="160">Y-Link</text>
-  <text class="accent" x="150" y="160">f08043c</text>
-  <text class="muted" x="211" y="160">Merge pull request #151 from …</text>
-  <text class="meta" x="540" y="160" text-anchor="end">2026-09-28</text>
+  <text class="accent" x="150" y="160">fbe15b8</text>
+  <text class="muted" x="211" y="160">fix(customer-service): 会话面板隐藏…</text>
+  <text class="meta" x="540" y="160" text-anchor="end">2026-10-09</text>
   <circle class="accent" cx="23" cy="186" r="3" />
   <text class="project" x="34" y="190">Y-Link</text>
-  <text class="accent" x="150" y="190">f0297b8</text>
-  <text class="muted" x="211" y="190">fix(coverage): 明确覆盖率命令的最低 Nod…</text>
-  <text class="meta" x="540" y="190" text-anchor="end">2026-09-28</text>
+  <text class="accent" x="150" y="190">0ad4c1e</text>
+  <text class="muted" x="211" y="190">fix(theme): 首帧脚本单独捕获存储读取异常并继续…</text>
+  <text class="meta" x="540" y="190" text-anchor="end">2026-10-09</text>
   <circle class="accent" cx="23" cy="216" r="3" />
   <text class="project" x="34" y="220">Y-Link</text>
-  <text class="accent" x="150" y="220">b1f7220</text>
-  <text class="muted" x="211" y="220">ci(sonar): 拆分覆盖率与扫描作业，隔离 SONA…</text>
-  <text class="meta" x="540" y="220" text-anchor="end">2026-09-28</text>
-  <text class="meta" x="20" y="266">Updated 2026-10-09 08:36 UTC</text>
+  <text class="accent" x="150" y="220">f579070</text>
+  <text class="muted" x="211" y="220">fix(theme): 反馈详情标签与进度步骤补齐暗色背景</text>
+  <text class="meta" x="540" y="220" text-anchor="end">2026-10-09</text>
+  <text class="meta" x="20" y="266">Updated 2026-10-09 15:53 UTC</text>
 </svg>
