@@ -38,33 +38,33 @@
   <rect class="divider" x="20" y="44" width="520" height="1" />
   <circle class="accent" cx="23" cy="66" r="3" />
   <text class="project" x="34" y="70">Y-Link</text>
-  <text class="accent" x="150" y="70">f8ea864</text>
-  <text class="muted" x="211" y="70">Merge pull request #153 from …</text>
+  <text class="accent" x="150" y="70">7f02712</text>
+  <text class="muted" x="211" y="70">Merge pull request #158 from …</text>
   <text class="meta" x="540" y="70" text-anchor="end">2026-10-11</text>
   <circle class="accent" cx="23" cy="96" r="3" />
   <text class="project" x="34" y="100">Y-Link</text>
-  <text class="accent" x="150" y="100">a5df371</text>
-  <text class="muted" x="211" y="100">chore(version): 更新应用版本至 v1.5.…</text>
+  <text class="accent" x="150" y="100">0f3cb29</text>
+  <text class="muted" x="211" y="100">Merge pull request #157 from …</text>
   <text class="meta" x="540" y="100" text-anchor="end">2026-10-11</text>
   <circle class="accent" cx="23" cy="126" r="3" />
   <text class="project" x="34" y="130">Y-Link</text>
-  <text class="accent" x="150" y="130">1c0f9ec</text>
-  <text class="muted" x="211" y="130">test: 补齐标签打印会话与条码异常回归</text>
+  <text class="accent" x="150" y="130">66b32e6</text>
+  <text class="muted" x="211" y="130">chore(version): 更新应用版本至 v1.5.…</text>
   <text class="meta" x="540" y="130" text-anchor="end">2026-10-11</text>
   <circle class="accent" cx="23" cy="156" r="3" />
   <text class="project" x="34" y="160">Y-Link</text>
-  <text class="accent" x="150" y="160">5c86d2c</text>
-  <text class="muted" x="211" y="160">fix: 固定 PDF 模块编号的 UTF-16 排序</text>
+  <text class="accent" x="150" y="160">d795d3e</text>
+  <text class="muted" x="211" y="160">merge: 合并最新 main 并保留产品中心批量操作改动</text>
   <text class="meta" x="540" y="160" text-anchor="end">2026-10-11</text>
   <circle class="accent" cx="23" cy="186" r="3" />
   <text class="project" x="34" y="190">Y-Link</text>
-  <text class="accent" x="150" y="190">0188b6a</text>
-  <text class="muted" x="211" y="190">test: 补齐认证与条码真实覆盖率及映射回归</text>
+  <text class="accent" x="150" y="190">8959341</text>
+  <text class="muted" x="211" y="190">feat(产品中心): 新增批量改分类/库位、批量升级 Y…</text>
   <text class="meta" x="540" y="190" text-anchor="end">2026-10-11</text>
   <circle class="accent" cx="23" cy="216" r="3" />
   <text class="project" x="34" y="220">Y-Link</text>
-  <text class="accent" x="150" y="220">1472dfb</text>
-  <text class="muted" x="211" y="220">perf: 按需加载管理端密钥验证并压缩 PDF 内部模块…</text>
+  <text class="accent" x="150" y="220">4637eff</text>
+  <text class="muted" x="211" y="220">Merge pull request #155 from …</text>
   <text class="meta" x="540" y="220" text-anchor="end">2026-10-11</text>
-  <text class="meta" x="20" y="266">Updated 2026-10-11 08:25 UTC</text>
+  <text class="meta" x="20" y="266">Updated 2026-10-11 15:23 UTC</text>
 </svg>
