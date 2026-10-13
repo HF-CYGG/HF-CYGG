@@ -38,33 +38,33 @@
   <rect class="divider" x="20" y="44" width="520" height="1" />
   <circle class="accent" cx="23" cy="66" r="3" />
   <text class="project" x="34" y="70">Y-Link</text>
-  <text class="accent" x="150" y="70">2fa28fb</text>
-  <text class="muted" x="211" y="70">Merge pull request #161 from …</text>
+  <text class="accent" x="150" y="70">97ab6ea</text>
+  <text class="muted" x="211" y="70">Merge pull request #163 from …</text>
   <text class="meta" x="540" y="70" text-anchor="end">2026-10-13</text>
   <circle class="accent" cx="23" cy="96" r="3" />
   <text class="project" x="34" y="100">Y-Link</text>
-  <text class="accent" x="150" y="100">8ddebf1</text>
-  <text class="muted" x="211" y="100">fix: 条码按商品编码打印，存量款式升级归颜色/款式轴</text>
+  <text class="accent" x="150" y="100">a3c2f3c</text>
+  <text class="muted" x="211" y="100">fix: 归档继任改按让出的 YZ 编码关联当前行</text>
   <text class="meta" x="540" y="100" text-anchor="end">2026-10-13</text>
   <circle class="accent" cx="23" cy="126" r="3" />
   <text class="project" x="34" y="130">Y-Link</text>
-  <text class="accent" x="150" y="130">e61dc8f</text>
-  <text class="muted" x="211" y="130">Merge pull request #154 from …</text>
-  <text class="meta" x="540" y="130" text-anchor="end">2026-10-11</text>
+  <text class="accent" x="150" y="130">3c9ba4e</text>
+  <text class="muted" x="211" y="130">chore(version): 更新应用版本至 v1.5.…</text>
+  <text class="meta" x="540" y="130" text-anchor="end">2026-10-13</text>
   <circle class="accent" cx="23" cy="156" r="3" />
   <text class="project" x="34" y="160">Y-Link</text>
-  <text class="accent" x="150" y="160">8e4e39a</text>
-  <text class="muted" x="211" y="160">fix: 清理登录主题回归脚本的浏览器启动失败资源</text>
-  <text class="meta" x="540" y="160" text-anchor="end">2026-10-11</text>
+  <text class="accent" x="150" y="160">99bb41f</text>
+  <text class="muted" x="211" y="160">fix: 自愈归档行不再参与规格复活</text>
+  <text class="meta" x="540" y="160" text-anchor="end">2026-10-13</text>
   <circle class="accent" cx="23" cy="186" r="3" />
   <text class="project" x="34" y="190">Y-Link</text>
-  <text class="accent" x="150" y="190">68e5e02</text>
-  <text class="muted" x="211" y="190">merge: 合并最新 main 到登录页主题修复分支</text>
-  <text class="meta" x="540" y="190" text-anchor="end">2026-10-11</text>
+  <text class="accent" x="150" y="190">ca6e491</text>
+  <text class="muted" x="211" y="190">fix: 归档继任仅限启动自愈生成的 YZ 归档行</text>
+  <text class="meta" x="540" y="190" text-anchor="end">2026-10-13</text>
   <circle class="accent" cx="23" cy="216" r="3" />
   <text class="project" x="34" y="220">Y-Link</text>
-  <text class="accent" x="150" y="220">7f02712</text>
-  <text class="muted" x="211" y="220">Merge pull request #158 from …</text>
-  <text class="meta" x="540" y="220" text-anchor="end">2026-10-11</text>
-  <text class="meta" x="20" y="266">Updated 2026-10-13 10:15 UTC</text>
+  <text class="accent" x="150" y="220">7750654</text>
+  <text class="muted" x="211" y="220">chore(version): 更新应用版本至 v1.5.…</text>
+  <text class="meta" x="540" y="220" text-anchor="end">2026-10-13</text>
+  <text class="meta" x="20" y="266">Updated 2026-10-13 18:01 UTC</text>
 </svg>
