@@ -38,33 +38,33 @@
   <rect class="divider" x="20" y="44" width="520" height="1" />
   <circle class="accent" cx="23" cy="66" r="3" />
   <text class="project" x="34" y="70">Y-Link</text>
-  <text class="accent" x="150" y="70">f6b9539</text>
-  <text class="muted" x="211" y="70">Merge pull request #164 from …</text>
-  <text class="meta" x="540" y="70" text-anchor="end">2026-10-21</text>
+  <text class="accent" x="150" y="70">2e1305e</text>
+  <text class="muted" x="211" y="70">Merge pull request #165 from …</text>
+  <text class="meta" x="540" y="70" text-anchor="end">2026-10-22</text>
   <circle class="accent" cx="23" cy="96" r="3" />
   <text class="project" x="34" y="100">Y-Link</text>
-  <text class="accent" x="150" y="100">ce781a8</text>
-  <text class="muted" x="211" y="100">chore(version): 更新应用版本至 v1.5.…</text>
-  <text class="meta" x="540" y="100" text-anchor="end">2026-10-21</text>
+  <text class="accent" x="150" y="100">b53b700</text>
+  <text class="muted" x="211" y="100">docs(version): 回填 v1.5.69.1 版…</text>
+  <text class="meta" x="540" y="100" text-anchor="end">2026-10-22</text>
   <circle class="accent" cx="23" cy="126" r="3" />
   <text class="project" x="34" y="130">Y-Link</text>
-  <text class="accent" x="150" y="130">ba1a52e</text>
-  <text class="muted" x="211" y="130">merge: 合并最新 main 到条码打印规格勾选分支</text>
-  <text class="meta" x="540" y="130" text-anchor="end">2026-10-21</text>
+  <text class="accent" x="150" y="130">543ecc8</text>
+  <text class="muted" x="211" y="130">chore(version): 更新应用版本至 v1.5.…</text>
+  <text class="meta" x="540" y="130" text-anchor="end">2026-10-22</text>
   <circle class="accent" cx="23" cy="156" r="3" />
   <text class="project" x="34" y="160">Y-Link</text>
-  <text class="accent" x="150" y="160">adc4681</text>
-  <text class="muted" x="211" y="160">Merge pull request #160 from …</text>
-  <text class="meta" x="540" y="160" text-anchor="end">2026-10-21</text>
+  <text class="accent" x="150" y="160">4e57d44</text>
+  <text class="muted" x="211" y="160">fix(inventory): 主库位为空时允许移出拆分库位</text>
+  <text class="meta" x="540" y="160" text-anchor="end">2026-10-22</text>
   <circle class="accent" cx="23" cy="186" r="3" />
   <text class="project" x="34" y="190">Y-Link</text>
-  <text class="accent" x="150" y="190">74f75df</text>
-  <text class="muted" x="211" y="190">merge: 合并最新 main 到 YZ 商品更换文创系…</text>
+  <text class="accent" x="150" y="190">1a60b4d</text>
+  <text class="muted" x="211" y="190">fix(ci): 修复依赖升级后 SonarCloud c…</text>
   <text class="meta" x="540" y="190" text-anchor="end">2026-10-21</text>
   <circle class="accent" cx="23" cy="216" r="3" />
   <text class="project" x="34" y="220">Y-Link</text>
-  <text class="accent" x="150" y="220">0c42fcc</text>
-  <text class="muted" x="211" y="220">Merge pull request #159 from …</text>
+  <text class="accent" x="150" y="220">71e95be</text>
+  <text class="muted" x="211" y="220">merge: 合并规格分库位库存与按库位盘点（原 #167）</text>
   <text class="meta" x="540" y="220" text-anchor="end">2026-10-21</text>
-  <text class="meta" x="20" y="266">Updated 2026-10-22 01:19 UTC</text>
+  <text class="meta" x="20" y="266">Updated 2026-10-22 07:15 UTC</text>
 </svg>
