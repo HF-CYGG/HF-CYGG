@@ -38,33 +38,33 @@
   <rect class="divider" x="20" y="44" width="520" height="1" />
   <circle class="accent" cx="23" cy="66" r="3" />
   <text class="project" x="34" y="70">Y-Link</text>
-  <text class="accent" x="150" y="70">88c98de</text>
-  <text class="muted" x="211" y="70">Merge pull request #181 from …</text>
-  <text class="meta" x="540" y="70" text-anchor="end">2026-10-29</text>
+  <text class="accent" x="150" y="70">7788bb2</text>
+  <text class="muted" x="211" y="70">Merge pull request #185 from …</text>
+  <text class="meta" x="540" y="70" text-anchor="end">2026-10-30</text>
   <circle class="accent" cx="23" cy="96" r="3" />
   <text class="project" x="34" y="100">Y-Link</text>
-  <text class="accent" x="150" y="100">2a78619</text>
-  <text class="muted" x="211" y="100">docs(version): 回填 v1.5.74.1 版…</text>
+  <text class="accent" x="150" y="100">611f4ab</text>
+  <text class="muted" x="211" y="100">fix(o2o): 阻止登记刷新回写过期核销目标</text>
   <text class="meta" x="540" y="100" text-anchor="end">2026-10-29</text>
   <circle class="accent" cx="23" cy="126" r="3" />
   <text class="project" x="34" y="130">Y-Link</text>
-  <text class="accent" x="150" y="130">ce0ccb3</text>
-  <text class="muted" x="211" y="130">chore(version): 更新应用版本至 v1.5.…</text>
+  <text class="accent" x="150" y="130">1f9c5e1</text>
+  <text class="muted" x="211" y="130">fix(验收): 向HTTP子进程传递父级隔离目录</text>
   <text class="meta" x="540" y="130" text-anchor="end">2026-10-29</text>
   <circle class="accent" cx="23" cy="156" r="3" />
   <text class="project" x="34" y="160">Y-Link</text>
-  <text class="accent" x="150" y="160">1c395c4</text>
-  <text class="muted" x="211" y="160">docs(readme): 可选配置表补充 MNS 回执开…</text>
+  <text class="accent" x="150" y="160">68557d6</text>
+  <text class="muted" x="211" y="160">test(质量): 修正静态告警与测试归类并补齐业务边界回归</text>
   <text class="meta" x="540" y="160" text-anchor="end">2026-10-29</text>
   <circle class="accent" cx="23" cy="186" r="3" />
   <text class="project" x="34" y="190">Y-Link</text>
-  <text class="accent" x="150" y="190">ba7ed50</text>
-  <text class="muted" x="211" y="190">fix(security): 两步验证绑定提交后票据清理失…</text>
+  <text class="accent" x="150" y="190">bb08fbf</text>
+  <text class="muted" x="211" y="190">fix(o2o): 统一现场与客户端改单的账号锁序</text>
   <text class="meta" x="540" y="190" text-anchor="end">2026-10-29</text>
   <circle class="accent" cx="23" cy="216" r="3" />
   <text class="project" x="34" y="220">Y-Link</text>
-  <text class="accent" x="150" y="220">696e873</text>
-  <text class="muted" x="211" y="220">docs(readme): 可选环境变量表精简为基础运行所…</text>
+  <text class="accent" x="150" y="220">8c200bd</text>
+  <text class="muted" x="211" y="220">merge(main): 同步 Redis 与迁移助手主线…</text>
   <text class="meta" x="540" y="220" text-anchor="end">2026-10-29</text>
-  <text class="meta" x="20" y="266">Updated 2026-10-30 01:39 UTC</text>
+  <text class="meta" x="20" y="266">Updated 2026-10-30 08:14 UTC</text>
 </svg>
