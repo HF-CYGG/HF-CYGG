@@ -38,33 +38,33 @@
   <rect class="divider" x="20" y="44" width="520" height="1" />
   <circle class="accent" cx="23" cy="66" r="3" />
   <text class="project" x="34" y="70">Y-Link</text>
-  <text class="accent" x="150" y="70">bba35c5</text>
-  <text class="muted" x="211" y="70">Merge pull request #191 from …</text>
+  <text class="accent" x="150" y="70">5d64333</text>
+  <text class="muted" x="211" y="70">Merge pull request #196 from …</text>
   <text class="meta" x="540" y="70" text-anchor="end">2026-11-03</text>
   <circle class="accent" cx="23" cy="96" r="3" />
   <text class="project" x="34" y="100">Y-Link</text>
-  <text class="accent" x="150" y="100">1994620</text>
-  <text class="muted" x="211" y="100">docs(version): 回填 v1.5.77.1 版…</text>
+  <text class="accent" x="150" y="100">18d644d</text>
+  <text class="muted" x="211" y="100">chore(version): 更新至 v1.5.80.1…</text>
   <text class="meta" x="540" y="100" text-anchor="end">2026-11-03</text>
   <circle class="accent" cx="23" cy="126" r="3" />
   <text class="project" x="34" y="130">Y-Link</text>
-  <text class="accent" x="150" y="130">47be47c</text>
-  <text class="muted" x="211" y="130">chore(version): 更新至 v1.5.77.1…</text>
+  <text class="accent" x="150" y="130">0b98d6f</text>
+  <text class="muted" x="211" y="130">fix(缩略图): 将商城重名扫描移出同步解析路径</text>
   <text class="meta" x="540" y="130" text-anchor="end">2026-11-03</text>
   <circle class="accent" cx="23" cy="156" r="3" />
   <text class="project" x="34" y="160">Y-Link</text>
-  <text class="accent" x="150" y="160">9d8d573</text>
-  <text class="muted" x="211" y="160">chore: 合入最新 main 并保留权限和部门单迁移</text>
+  <text class="accent" x="150" y="160">acdf8f0</text>
+  <text class="muted" x="211" y="160">fix(补货): 锁定查询和待确认申请的数量控件</text>
   <text class="meta" x="540" y="160" text-anchor="end">2026-11-03</text>
   <circle class="accent" cx="23" cy="186" r="3" />
   <text class="project" x="34" y="190">Y-Link</text>
-  <text class="accent" x="150" y="190">7a2c44b</text>
-  <text class="muted" x="211" y="190">fix(coverage): 将订单展示与用户权限专项纳入…</text>
+  <text class="accent" x="150" y="190">3be3299</text>
+  <text class="muted" x="211" y="190">merge: 合入最新主线并解决客户端交互与鉴权冲突</text>
   <text class="meta" x="540" y="190" text-anchor="end">2026-11-03</text>
   <circle class="accent" cx="23" cy="216" r="3" />
   <text class="project" x="34" y="220">Y-Link</text>
-  <text class="accent" x="150" y="220">d873b04</text>
-  <text class="muted" x="211" y="220">Merge pull request #194 from …</text>
+  <text class="accent" x="150" y="220">917c2de</text>
+  <text class="muted" x="211" y="220">test(客户端): 记录隔离验收矩阵与整体交互回归</text>
   <text class="meta" x="540" y="220" text-anchor="end">2026-11-03</text>
-  <text class="meta" x="20" y="266">Updated 2026-11-03 15:56 UTC</text>
+  <text class="meta" x="20" y="266">Updated 2026-11-03 21:37 UTC</text>
 </svg>
