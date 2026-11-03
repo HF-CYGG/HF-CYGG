@@ -38,33 +38,33 @@
   <rect class="divider" x="20" y="44" width="520" height="1" />
   <circle class="accent" cx="23" cy="66" r="3" />
   <text class="project" x="34" y="70">Y-Link</text>
-  <text class="accent" x="150" y="70">d873b04</text>
-  <text class="muted" x="211" y="70">Merge pull request #194 from …</text>
+  <text class="accent" x="150" y="70">bba35c5</text>
+  <text class="muted" x="211" y="70">Merge pull request #191 from …</text>
   <text class="meta" x="540" y="70" text-anchor="end">2026-11-03</text>
   <circle class="accent" cx="23" cy="96" r="3" />
   <text class="project" x="34" y="100">Y-Link</text>
-  <text class="accent" x="150" y="100">90fe520</text>
-  <text class="muted" x="211" y="100">fix(部署): onebox 镜像打包 MySQL 迁移…</text>
+  <text class="accent" x="150" y="100">1994620</text>
+  <text class="muted" x="211" y="100">docs(version): 回填 v1.5.77.1 版…</text>
   <text class="meta" x="540" y="100" text-anchor="end">2026-11-03</text>
   <circle class="accent" cx="23" cy="126" r="3" />
   <text class="project" x="34" y="130">Y-Link</text>
-  <text class="accent" x="150" y="130">225cc4e</text>
-  <text class="muted" x="211" y="130">Merge pull request #193 from …</text>
+  <text class="accent" x="150" y="130">47be47c</text>
+  <text class="muted" x="211" y="130">chore(version): 更新至 v1.5.77.1…</text>
   <text class="meta" x="540" y="130" text-anchor="end">2026-11-03</text>
   <circle class="accent" cx="23" cy="156" r="3" />
   <text class="project" x="34" y="160">Y-Link</text>
-  <text class="accent" x="150" y="160">e8ee2f5</text>
-  <text class="muted" x="211" y="160">docs(version): 回填 v1.5.76.7 版…</text>
+  <text class="accent" x="150" y="160">9d8d573</text>
+  <text class="muted" x="211" y="160">chore: 合入最新 main 并保留权限和部门单迁移</text>
   <text class="meta" x="540" y="160" text-anchor="end">2026-11-03</text>
   <circle class="accent" cx="23" cy="186" r="3" />
   <text class="project" x="34" y="190">Y-Link</text>
-  <text class="accent" x="150" y="190">2b5b0a2</text>
-  <text class="muted" x="211" y="190">chore(version): 更新应用版本至 v1.5.…</text>
+  <text class="accent" x="150" y="190">7a2c44b</text>
+  <text class="muted" x="211" y="190">fix(coverage): 将订单展示与用户权限专项纳入…</text>
   <text class="meta" x="540" y="190" text-anchor="end">2026-11-03</text>
   <circle class="accent" cx="23" cy="216" r="3" />
   <text class="project" x="34" y="220">Y-Link</text>
-  <text class="accent" x="150" y="220">b1d25e4</text>
-  <text class="muted" x="211" y="220">fix(迁移): 基线登记前核对脚本数据回填完成性</text>
+  <text class="accent" x="150" y="220">d873b04</text>
+  <text class="muted" x="211" y="220">Merge pull request #194 from …</text>
   <text class="meta" x="540" y="220" text-anchor="end">2026-11-03</text>
-  <text class="meta" x="20" y="266">Updated 2026-11-03 07:40 UTC</text>
+  <text class="meta" x="20" y="266">Updated 2026-11-03 15:56 UTC</text>
 </svg>
