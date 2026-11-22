@@ -38,33 +38,33 @@
   <rect class="divider" x="20" y="44" width="520" height="1" />
   <circle class="accent" cx="23" cy="66" r="3" />
   <text class="project" x="34" y="70">Y-Link</text>
-  <text class="accent" x="150" y="70">5d64333</text>
-  <text class="muted" x="211" y="70">Merge pull request #196 from …</text>
-  <text class="meta" x="540" y="70" text-anchor="end">2026-11-03</text>
+  <text class="accent" x="150" y="70">7323c54</text>
+  <text class="muted" x="211" y="70">Merge pull request #198 from …</text>
+  <text class="meta" x="540" y="70" text-anchor="end">2026-11-22</text>
   <circle class="accent" cx="23" cy="96" r="3" />
   <text class="project" x="34" y="100">Y-Link</text>
-  <text class="accent" x="150" y="100">18d644d</text>
-  <text class="muted" x="211" y="100">chore(version): 更新至 v1.5.80.1…</text>
-  <text class="meta" x="540" y="100" text-anchor="end">2026-11-03</text>
+  <text class="accent" x="150" y="100">cf56582</text>
+  <text class="muted" x="211" y="100">docs: 更新 v1.6.00.00 版本发布历史与更新…</text>
+  <text class="meta" x="540" y="100" text-anchor="end">2026-11-22</text>
   <circle class="accent" cx="23" cy="126" r="3" />
   <text class="project" x="34" y="130">Y-Link</text>
-  <text class="accent" x="150" y="130">0b98d6f</text>
-  <text class="muted" x="211" y="130">fix(缩略图): 将商城重名扫描移出同步解析路径</text>
-  <text class="meta" x="540" y="130" text-anchor="end">2026-11-03</text>
+  <text class="accent" x="150" y="130">d59f121</text>
+  <text class="muted" x="211" y="130">test(client): 覆盖订单搜索、结算恢复与未保存…</text>
+  <text class="meta" x="540" y="130" text-anchor="end">2026-11-22</text>
   <circle class="accent" cx="23" cy="156" r="3" />
   <text class="project" x="34" y="160">Y-Link</text>
-  <text class="accent" x="150" y="160">acdf8f0</text>
-  <text class="muted" x="211" y="160">fix(补货): 锁定查询和待确认申请的数量控件</text>
-  <text class="meta" x="540" y="160" text-anchor="end">2026-11-03</text>
+  <text class="accent" x="150" y="160">6598cd4</text>
+  <text class="muted" x="211" y="160">fix(client): 补齐商城商品详情提示的深色模式样式</text>
+  <text class="meta" x="540" y="160" text-anchor="end">2026-11-22</text>
   <circle class="accent" cx="23" cy="186" r="3" />
   <text class="project" x="34" y="190">Y-Link</text>
-  <text class="accent" x="150" y="190">3be3299</text>
-  <text class="muted" x="211" y="190">merge: 合入最新主线并解决客户端交互与鉴权冲突</text>
-  <text class="meta" x="540" y="190" text-anchor="end">2026-11-03</text>
+  <text class="accent" x="150" y="190">fe37ae5</text>
+  <text class="muted" x="211" y="190">fix(order): 为未保存的改单和退货草稿补充离页保护</text>
+  <text class="meta" x="540" y="190" text-anchor="end">2026-11-22</text>
   <circle class="accent" cx="23" cy="216" r="3" />
   <text class="project" x="34" y="220">Y-Link</text>
-  <text class="accent" x="150" y="220">917c2de</text>
-  <text class="muted" x="211" y="220">test(客户端): 记录隔离验收矩阵与整体交互回归</text>
-  <text class="meta" x="540" y="220" text-anchor="end">2026-11-03</text>
-  <text class="meta" x="20" y="266">Updated 2026-11-22 10:50 UTC</text>
+  <text class="accent" x="150" y="220">de3824c</text>
+  <text class="muted" x="211" y="220">fix(checkout): 展示待确认订单的原始取货时间…</text>
+  <text class="meta" x="540" y="220" text-anchor="end">2026-11-22</text>
+  <text class="meta" x="20" y="266">Updated 2026-11-22 18:17 UTC</text>
 </svg>
